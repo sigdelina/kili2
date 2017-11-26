@@ -1,0 +1,1682 @@
+,#,FORM,LEMMA,GRAM,COMMENT,CHECKED,RIGHT1,RIGHT2,RIGHT3,RIGHT4,RIGHT5,RIGHT6,PO;S,;AUT;O_LEMMA,AUTO_GRAM
+34485,#doc=sample_video_transcript.2.txt,,,,,,,,,,,,,,;;;
+34486,1,?,?,PUNC,,,,,,,,,PUNC,?,PUNC;;;
+34487,2,Ёлина,ЁЋ»Ќј,S f anim nom sg persn,,,а,н,и,л,э,,S,ЁЋ»Ќј,S f anim nom sg;;;
+34488,3,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34489,4,“ак,“ј ,PARENTH,,,к,а,т,,,,ADV,“ј ,ADV -;;;
+34490,5,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34491,6,согласен,—ќ√Ћј—Ќџ…,A - - sg brev m -,,,н,е,с,а,л,г,A,—ќ√Ћј—Ќџ…,A - - sg;b;rev;m -
+34492,7,ли,Ћ»,PART,,,и,л,,,,,PART,Ћ»,PART;;;
+34493,8,ты,“џ,SPRO sg 2p - nom,,,ы,т,,,,,SPRO,“џ,SPRO sg 2p - nom;;;
+34494,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34495,10,чтобы,„“ќЅџ,CONJ,,,ы,б,о,т,ч,,CONJ,„“ќЅџ,CONJ;;;
+34496,11,твои,“¬ќ…,APRO acc pl,,,и,о,в,т,,,A,“¬ќ…,A - nom pl plen - -;;;
+34497,12,данные,ƒјЌЌџ≈,S - inan acc pl,,,е,ы,н,н,а,д,S,ƒјЌЌџ≈,S - inan nom pl;;;
+34498,13,потом,ѕќ“ќћ,ADV -,,,м,о,т,о,п,,ADV,ѕќ“ќћ,ADV -;;;
+34499,14,по€вились,ѕќя¬»“№—я,V pf praet pl indic act - -,,,ь,с,и,л,и,в,V,ѕќя¬»“;№—;я,V;pf praet pl indic - -
+34500,15,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34501,16,м,ћ,INTJ,,,м,,,,,,S,ћ,S - - nonflex nonflex;;;
+34502,17,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34503,18,в,¬,PR,,,в,,,,,,S,¬,S - - nonflex nonflex;;;
+34504,19,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34505,20,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34506,21,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34507,22,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34508,23,"","",_,,,,,,,,,,,_,24";;;
+34509,24,интырнэте,интырнэте,S m inan loc sg,distort,,е,т,э,н,р,ы,S,»Ќ“џ–ЌЁ“ј,S;f;an;im loc sg
+"34510,25,"","",_,,,,,,,,,,,_,24";;;
+34511,26,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34512,27,инетернете,»Ќ≈“≈–Ќ≈“,S m inan loc sg,,,е,т,е,н,р,е,S,»Ќ≈“≈–Ќ≈“,S f ina;n;nom;sg
+34513,28,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34514,29,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34515,30,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34516,31,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34517,32,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+34518,33,свободном,—¬ќЅќƒЌџ…,A - loc sg plen m -,,,м,о,н,д,о,б,A,—¬ќЅќƒЌџ…,A -;lo;c s;g plen m -
+34519,34,доступе,ƒќ—“”ѕ,S m inan loc sg,,,е,п,у,т,с,о,S,ƒќ—“”ѕ,S m inan loc sg;;;
+34520,35,?,?,SENT,,,,,,,,,SENT,?,SENT;;;
+34521,,,,,,,,,,,,,,,;;;
+34522,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34523,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34524,3,ƒа,ƒј,PART,,,а,д,,,,,PART,ƒј,PART;;;
+34525,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34526,5,конечно, ќЌ≈„Ќќ,PARENTH,,,о,н,ч,е,н,о,ADV, ќЌ≈„Ќќ,ADV -;;;
+34527,6,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34528,,,,,,,,,,,,,,,;;;
+34529,1,Ёлина,ЁЋ»Ќј,S f anim nom sg persn,,,а,н,и,л,э,,S,ЁЋ»Ќј,S f anim nom sg;;;
+34530,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34531,3,Ќу,Ќ”,INTJ,,,у,н,,,,,PART,Ќ”,PART;;;
+34532,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34533,5,все,¬—≈,S n inan nom sg,,,е,с,в,,,,S,¬—≈,S - - acc pl;;;
+34534,6,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34535,7,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+34536,8,принципе,ѕ–»Ќ÷»ѕ,S m inan loc sg,,,е,п,и,ц,н,и,S,ѕ–»Ќ÷»ѕ,S m inan loc s;g;;
+34537,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34538,10,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34539,11,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34540,12,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34541,13,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34542,14,"","",_,,,,,,,,,,,_,15";;;
+34543,15,можш,можш,V ipf praes intr act sg indic 2p,distort,,ш,ж,о,м,,,NONLEX,ћ;ќ∆;Ў,N;ONLEX
+"34544,16,"","",_,,,,,,,,,,,_,15";;;
+34545,17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34546,18,можешь,ћќ„№,V ipf praes intr act sg indic 2p,,,ь,ш,е,ж,о,м,V,ћќ„№,V ip;f;pra;es sg indic - 2p
+34547,19,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34548,20,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34549,21,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34550,22,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34551,23,начинать,Ќј„»Ќј“№,V ipf  intr inf act,,,ь,т,а,н,и,ч,V,Ќј„»Ќј“№,V ipf -;-;in;f - -
+34552,24,говорить,√ќ¬ќ–»“№,V ipf  intr inf act,,,ь,т,и,р,о,в,V,√ќ¬ќ–»“№,V ipf -;-;in;f - -
+34553,25,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34554,,,,,,,,,,,,,,,;;;
+34555,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34556,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34557,3,»так,»“ј ,PARENTH,,,к,а,т,и,,,CONJ,»“ј ,CONJ;;;
+34558,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34559,5,ну,Ќ”,INTJ,,,у,н,,,,,PART,Ќ”,PART;;;
+34560,6,что,„“ќ,ADV,,,о,т,ч,,,,S,„“ќ,S n - nom sg;;;
+34561,7,ж,ж,PART,distort,,ж,,,,,,PART,∆,PART;;;
+34562,8,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34563,,,,,,,,,,,,,,,;;;
+34564,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34565,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34566,3,ћен€,я,SPRO sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+34567,4,попросили,ѕќѕ–ќ—»“№,V tran pf indic  act praet pl ,,,и,л,и,с,о,р,V,ѕќѕ–;ќ—;»“№;,V pf praet pl indic - -
+34568,5,рассказать,–ј—— ј«ј“№,V pf tran inf act,,,ь,т,а,з,а,к,V,–ј—— ј«ј“№,V pf;-;-;inf - -
+34569,6,о,ќ,PR,,,о,,,,,,PR,ќ,PR;;;
+34570,7,любом,ЋёЅќ…,A loc sg plen m,,,м,о,б,ю,л,,A,ЋёЅќ…,A - loc sg plen m -;;;
+34571,8,случае,—Ћ”„ј…,S m inan loc sg,,,е,а,ч,у,л,с,S,—Ћ”„ј…,S m inan loc sg;;;
+34572,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34573,10,каком-то, ј ќ…-“ќ,A loc sg plen m,слитно,,о,т,,м,о,к,A, ј ќ…-“ќ,A - lo;c;sg;plen m -
+34574,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34575,12,из,»«,PR,,,з,и,,,,,PR,»«,PR;;;
+34576,13,моей,ћќ…,APRO loc sg plen f,,,й,е,о,м,,,A,ћќ…,A - loc sg plen f -;;;
+34577,14,жизни,∆»«Ќ№,S f inan loc sg,,,и,н,з,и,ж,,S,∆»«Ќ№,S f inan loc sg;;;
+34578,15,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34579,16,ммм,ћћћ,INTJ,distort,,м,м,м,,,,S,ћћћ,S n inan loc sg;;;
+34580,17,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34581,,,,,,,,,,,,,,,;;;
+34582,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34583,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34584,3,я,я,SPRO anim sg 1p - nom,,,€,,,,,,S,я,S - - nonflex nonflex;;;
+34585,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34586,5,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34587,6,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34588,7,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34589,8,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34590,9,"","",_,,,,,,,,,,,_,10";;;
+34591,10,наэрно,наэрно,PARENTH,distort,,о,н,р,э,а,н,A,ЌјЁ–Ќџ…,A - gen sg plen m;-;;
+"34592,11,"","",_,,,,,,,,,,,_,10";;;
+34593,12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34594,13,наверное,Ќј¬≈–Ќќ≈,PARENTH,,,е,о,н,р,е,в,ADV,Ќј¬≈–Ќќ≈,ADV -;;;
+34595,14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34596,15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34597,16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34598,17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34599,18,наверное,Ќј¬≈–Ќќ≈,PARENTH,,,е,о,н,р,е,в,ADV,Ќј¬≈–Ќќ≈,ADV -;;;
+34600,19,расскажу,–ј—— ј«ј“№,V pf fut tran sg indic 1p act,,,у,ж,а,к,с,с,V,–ј——; ј;«ј“;№,V pf fut sg indic - 1p
+34601,20,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34602,21,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34603,22,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34604,23,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34605,24,"","",_,,,,,,,,,,,_,25";;;
+34606,25,пра,пра,PR,distort,,а,р,п,,,,S,ѕ–ј,S f anim gen pl;;;
+"34607,26,"","",_,,,,,,,,,,,_,25";;;
+34608,27,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34609,28,про,ѕ–ќ,PR,,,о,р,п,,,,PR,ѕ–ќ,PR;;;
+34610,29,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34611,30,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34612,31,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34613,32,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34614,33,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+34615,,,,,,,,,,,,,,,;;;
+34616,1,ƒа,ƒј,PARENTH,,,а,д,,,,,CONJ,ƒј,CONJ;;;
+34617,2,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34618,3,расскажу,–ј—— ј«ј“№,V pf fut tran sg indic 1p act,,,у,ж,а,к,с,с,V,–ј—— ;ј«;ј“№;,V pf fut sg indic - 1p
+34619,4,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34620,5,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34621,6,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34622,7,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34623,8,"","",_,,,,,,,,,,,_,9";;;
+34624,9,праа,праа,PR,distort,,а,а,р,п,,,S,ѕ–јј,S m inan nonflex nonflex;;;
+"34625,10,"","",_,,,,,,,,,,,_,9";;;
+34626,11,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34627,12,про,ѕ–ќ,PR,,,о,р,п,,,,PR,ѕ–ќ,PR;;;
+34628,13,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34629,14,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34630,15,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34631,16,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34632,17,то,“ќ,SPRO n inan sg acc,,,о,т,,,,,CONJ,“ќ,CONJ;;;
+34633,18,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34634,19,что,„“ќ,SPRO n inan acc sg,,,о,т,ч,,,,S,„“ќ,S n inan acc sg;;;
+34635,20,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34636,21,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34637,22,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34638,23,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34639,24,"","",_,,,,,,,,,,,_,25";;;
+34640,25,щас,щас,ADV -,distort,,с,а,щ,,,,ADV,ўј—,ADV -;;;
+"34641,26,"","",_,,,,,,,,,,,_,25";;;
+34642,27,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34643,28,сейчас,—≈…„ј—,ADV -,,,с,а,ч,й,е,с,ADV,—≈…„ј—,ADV -;;;
+34644,29,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34645,30,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34646,31,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34647,32,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34648,33,происходит,ѕ–ќ»—’ќƒ»“№,V ipf intr act praes sg indic - 3p,,,т,и,д,о,х,;с,;V,ѕ;–ќ»—’ќƒ»“№,V ipf praes sg indic - 3p
+34649,34,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+34650,35,моей,ћќ…,APRO - loc sg plen f -,,,й,е,о,м,,,A,ћќ…,A - loc sg plen f -;;;
+34651,36,жизни,∆»«Ќ№,S f inan loc sg,,,и,н,з,и,ж,,S,∆»«Ќ№,S f inan loc sg;;;
+34652,37,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34653,,,,,,,,,,,,,,,;;;
+34654,1,Ёлина,ЁЋ»Ќј,S f anim nom sg persn,,,а,н,и,л,э,,S,ЁЋ»Ќј,S f anim nom sg;;;
+34655,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34656,3,≈ее,≈≈≈,INTJ,distort,,е,е,е,,,,NONLEX,≈≈≈,NONLEX;;;
+34657,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34658,,,,,,,,,,,,,,,;;;
+34659,1,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34660,2,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+34661,3,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+34662,4,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34663,5,"","",_,,,,,,,,,,,_,6";;;
+34664,6,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+34665,7,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34666,8,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+34667,9,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34668,10,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34669,11,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+34670,12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34671,13,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34672,,,,,,,,,,,,,,,;;;
+34673,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34674,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34675,3,’а,’ј,INTJ,distort,,а,х,,,,,INTJ,’ј,INTJ;;;
+34676,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34677,,,,,,,,,,,,,,,;;;
+34678,1,я,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34679,2,расскажу,–ј—— ј«ј“№,V pf intr fut sg indic - 1p,,,у,ж,а,к,с,с,V,–ј—— ј«;ј“;№,V;pf fut sg indic - 1p
+34680,3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34681,4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34682,5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34683,6,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34684,7,"","",_,,,,,,,,,,,_,8";;;
+34685,8,праа,праа,PR,distort,,а,а,р,п,,,S,ѕ–јј,S m inan nonflex nonflex;;;
+"34686,9,"","",_,,,,,,,,,,,_,8";;;
+34687,10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34688,11,про,ѕ–ќ,PR,,,о,р,п,,,,PR,ѕ–ќ,PR;;;
+34689,12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34690,13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34691,14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34692,15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34693,16,мои,ћќ…,APRO acc pl plen,,,и,о,м,,,,A,ћќ…,A - nom pl plen - -;;;
+34694,17,рабочие,–јЅќ„»…,A acc pl plen,,,е,и,ч,о,б,а,A,–јЅќ„»…,A - nom pl plen;-;-;
+34695,18,будни,Ѕ”ƒЌ»,S inan acc pl,,,и,н,д,у,б,,S,Ѕ”ƒЌ»,S - inan nom pl;;;
+34696,19,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34697,20,пожалуй,ѕќ∆јЋ”…,PARENTH,,,й,у,л,а,ж,о,PART,ѕќ∆јЋ”…,PART;;;
+34698,21,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34699,,,,,,,,,,,,,,,;;;
+34700,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34701,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34702,3,јаа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34703,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+34704,,,,,,,,,,,,,,,;;;
+34705,1,»так,»“ј ,PARENTH,,,к,а,т,и,,,CONJ,»“ј ,CONJ;;;
+34706,2,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34707,3,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34708,4,сейчас,—≈…„ј—,ADV -,,,с,а,ч,й,е,с,ADV,—≈…„ј—,ADV -;;;
+34709,5,сделал,—ƒ≈Ћј“№,V pf praet tran act sg indic m,,,л,а,л,е,д,с,V,—ƒ≈Ћј“№,V;p;f p;raet sg indic m -
+34710,6,большой,ЅќЋ№Ўќ…,A acc sg plen m,,,й,о,ш,ь,л,о,A,ЅќЋ№Ўќ…,A - nom sg plen;m;-;
+34711,7,шаг,Ўј√,S m inan nom sg,,,г,а,ш,,,,S,Ўј√,S m inan nom sg;;;
+34712,8,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+34713,9,своей,—¬ќ…,APRO loc sg plen f,,,й,е,о,в,с,,A,—¬ќ…,A - loc sg plen f -;;;
+34714,10,жизни,∆»«Ќ№,S f inan loc sg,,,и,н,з,и,ж,,S,∆»«Ќ№,S f inan loc sg;;;
+34715,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34716,12,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34717,13,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34718,14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34719,15,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34720,16,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34721,17,"","",_,,,,,,,,,,,_,18";;;
+34722,18,щитаю,ў»“ј“№,V ipf praes tran sg indic act - 1p,distort,,ю,а,т,и,щ,,S,;ў»;“ј…;,S m anim dat sg
+"34723,19,"","",_,,,,,,,,,,,_,18";;;
+34724,20,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34725,21,считаю,—„»“ј“№,V ipf praes tran sg indic act - 1p,,,ю,а,т,и,ч,с,V,—„»“;ј“;№,V;ipf praes sg indic - 1p
+34726,22,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34727,23,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34728,24,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34729,25,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34730,26,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34731,27,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34732,28,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34733,29,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34734,30,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34735,31,движусь,ƒ¬»√ј“№—я,V ipf praes intr sg indic act - 1p,,,ь,с,у,ж,и,в,V,ƒ;¬»;√ј“;№—я,V ipf praes sg indic - 1p
+34736,32,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34737,33,эмм,Ёћћ,INTJ,distort,,м,м,э,,,,S,Ёћћј,S f anim acc pl;;;
+34738,34,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34739,35,к, ,PR,,,к,,,,,,PR, ,PR;;;
+34740,36,более,ЅќЋ≈≈,ADV,,,е,е,л,о,б,,ADV,ЅќЋ≈≈,ADV -;;;
+34741,37,самосто€тельной,—јћќ—“ќя“≈Ћ№Ќџ…,A - dat sg plen f -,,,й,о,н,ь,л,е,A,—ј;ћќ;—“ќ;я“≈Ћ№Ќџ…,A - gen sg plen f -
+34742,38,жизни,∆»«Ќ№,S f inan dat sg,,,и,н,з,и,ж,,S,∆»«Ќ№,S f inan gen sg;;;
+34743,39,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34744,,,,,,,,,,,,,,,;;;
+34745,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34746,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34747,3,јаа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34748,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+34749,,,,,,,,,,,,,,,;;;
+34750,1,“о,“ќ,S n anin nom sg,,,о,т,,,,,S,“ќ,S n - nom sg;;;
+34751,2,бишь,Ѕ»Ў№,PART,,,ь,ш,и,б,,,PART,Ѕ»Ў№,PART;;;
+34752,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34753,4,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+34754,5,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34755,6,все,¬≈—№,APRO acc plen pl,distort,,е,с,в,,,,S,¬—≈,S - - acc pl;;;
+34756,7,18,18,NUM - - -,,,,,,,,,NUM,18,NUM - - -;;;
+34757,8,лет,√ќƒ,S inan gen pl,,,т,е,л,,,,S,√ќƒ,S m inan gen pl;;;
+34758,9,моей,ћќ…,A gen sg plen f,,,й,е,о,м,,,A,ћќ…,A - gen sg plen f -;;;
+34759,10,жизни,∆»«Ќ№,S f inan gen sg,,,и,н,з,и,ж,,S,∆»«Ќ№,S f inan gen sg;;;
+34760,11,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34761,12,жил,∆»“№,V ipf intr praet sg indic act m,,,л,и,ж,,,,V,∆»“№,V ipf praet;s;g i;ndic m -
+34762,13,с,—,PR,,,с,,,,,,PR,—,PR;;;
+34763,14,родител€ми,–ќƒ»“≈Ћ№,S anim ins pl,,,и,м,€,л,е,т,S,–ќƒ»“≈Ћ№,S m anim in;s;pl;
+34764,15,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34765,16,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34766,17,сейчас,—≈…„ј—,ADV -,,,с,а,ч,й,е,с,ADV,—≈…„ј—,ADV -;;;
+34767,18,мне,я,SPRO anim sg 1p loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+34768,19,выдалась,¬џƒј“№—я,V pf praet intr sg med indic f,,,ь,с,а,л,а,д,V,¬џƒј“;№—;я,V;pf praet sg indic f -
+34769,20,возможность,¬ќ«ћќ∆Ќќ—“№,S f inan acc sg,,,ь,т,с,о,н,ж,S,¬ќ«ћќ∆Ќќ—“№,S;f;ina;n nom sg
+34770,21,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34771,22,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34772,23,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34773,24,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34774,25,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34775,26,теперь,“≈ѕ≈–№,ADV -,,,ь,р,е,п,е,т,ADV,“≈ѕ≈–№,ADV -;;;
+34776,27,живу,∆»“№,V ipf intr praes sg indic act - 1p,,,у,в,и,ж,,,V,∆»“№,V ipf;pr;aes;sg indic - 1p
+34777,28,один,ќƒ»Ќ,A  nom sg plen m,,,н,и,д,о,,,A,ќƒ»Ќ,A - nom sg plen m -;;;
+34778,29,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+34779,,,,,,,,,,,,,,,;;;
+34780,1,Ёлина,ЁЋ»Ќј,S f anim nom sg persn,,,а,н,и,л,э,,S,ЁЋ»Ќј,S f anim nom sg;;;
+34781,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34782,3,ќго.,ќ√ќ.,INTJ,,,,о,г,о,,,INTJ,ќ√ќ.,INTJ;;;
+34783,4,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34784,5,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+34785,6,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+34786,7,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34787,8,"","",_,,,,,,,,,,,_,7";;;
+34788,9,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+34789,10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34790,11,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+34791,12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34792,13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34793,14,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+34794,15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34795,16,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34796,,,,,,,,,,,,,,,;;;
+34797,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34798,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34799,3,”,”,PR,,,у,,,,,,PR,”,PR;;;
+34800,4,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+34801,5,..,..,SENT,,,,,,,,,SENT,..,SENT;;;
+34802,,,,,,,,,,,,,,,;;;
+34803,1,ƒа,ƒј,INTJ,,,а,д,,,,,PART,ƒј,PART;;;
+34804,2,..,..,SENT,,,,,,,,,SENT,..,SENT;;;
+34805,,,,,,,,,,,,,,,;;;
+34806,1,я...,я...,SPRO anim sg 1p - nom,distort,,,,,€,,,SPRO,я...,SPRO sg 1p -;no;m;
+34807,2,Ќу,Ќ”,INTJ,,,у,н,,,,,PART,Ќ”,PART;;;
+34808,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34809,4,живу,∆»“№,V ipf intr praes sg indic act - 1p,,,у,в,и,ж,,,V,∆»“№,V ipf p;ra;es;sg indic - 1p
+34810,5,один,ќƒ»Ќ,A  nom sg plen m,,,н,и,д,о,,,A,ќƒ»Ќ,A - nom sg plen m -;;;
+34811,6,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34812,7,с,—,PR,,,с,,,,,,PR,—,PR;;;
+34813,8,бабушкой,ЅјЅ”Ў ј,S f anim ins sg,,,й,о,к,ш,у,б,S,ЅјЅ”Ў ј,S f anim ins s;g;;
+34814,9,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34815,,,,,,,,,,,,,,,;;;
+34816,1,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34817,2,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+34818,3,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+34819,4,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34820,5,"","",_,,,,,,,,,,,_,6";;;
+34821,6,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+34822,7,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34823,8,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+34824,9,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34825,10,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34826,11,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+34827,12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34828,13,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34829,,,,,,,,,,,,,,,;;;
+34830,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34831,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34832,3,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+34833,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34834,,,,,,,,,,,,,,,;;;
+34835,1,Ќо,Ќќ,CONJ,,,о,н,,,,,CONJ,Ќќ,CONJ;;;
+34836,2,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+34837,,,,,,,,,,,,,,,;;;
+34838,1,ѕолучаетс€,ѕќЋ”„ј“№—я,V ipf intr praes sg med indic - 3p,,,€,с,т,е,а,ч,;V,;ѕќЋ;”„ј“№—я,V ipf praes sg indic - 3p
+34839,2,так,“ј ,ADV -,,,к,а,т,,,,ADV,“ј ,ADV -;;;
+34840,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34841,4,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+34842,5,по,ѕќ,PR,,,о,п,,,,,PR,ѕќ,PR;;;
+34843,6,будн€м,Ѕ”ƒЌ»,S inan dat pl,,,м,€,н,д,у,б,S,Ѕ”ƒЌ»,S - inan dat pl;;;
+34844,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34845,8,аа,јј,INTJ,distort,,а,а,,,,,NONLEX,јј,NONLEX;;;
+34846,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34847,10,мне,я,SPRO anim sg 1p - loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+34848,11,приходитс€,ѕ–»’ќƒ»“№—я,V ipf intr med praes sg indic - 3p,,,€,с,т,и,д,;о,;V,ѕ;–»’ќƒ»“№—я,V ipf praes sg indic - 3p
+34849,12,всю,¬≈—№,APRO - acc sg plen f -,,,ю,с,в,,,,A,¬≈—№,A - acc sg plen f -;;;
+34850,13,рутину,–”“»Ќ,S f inan acc sg,,,у,н,и,т,у,р,S,–”“»Ќ,S f inan acc sg;;;
+34851,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34852,15,то,“ќ,S n anin nom sg,,,о,т,,,,,CONJ,“ќ,CONJ;;;
+34853,16,бишь,Ѕ»Ў№,PART,,,ь,ш,и,б,,,PART,Ѕ»Ў№,PART;;;
+34854,17,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34855,18,там,“јћ,ADV -,,,м,а,т,,,,ADV,“јћ,ADV -;;;
+34856,19,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34857,20,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34858,21,стирка,—“»– ј,S f inan nom sg,,,а,к,р,и,т,с,S,—“»– ј,S f inan nom sg;;;
+34859,22,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34860,23,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34861,24,готовка,√ќ“ќ¬ ј,S f inan nom sg,,,а,к,в,о,т,о,S,√ќ“ќ¬ ј,S f inan nom s;g;;
+34862,25,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34863,26,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34864,27,глажка,√Ћј∆ ј,S f inan nom sg,,,а,к,ж,а,л,г,S,√Ћј∆ ј,S f inan nom sg;;;
+34865,28,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34866,29,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34867,30,уборка,”Ѕќ– ј,S f inan nom sg,,,а,к,р,о,б,у,S,”Ѕќ– ј,S f inan nom sg;;;
+34868,31,-,-,PUNC,,,,,,,,,PUNC,-,PUNC;;;
+34869,32,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34870,33,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34871,34,это,Ё“ќ,S n inan acc sg,,,о,т,э,,,,S,Ё“ќ,S n inan acc sg;;;
+34872,35,делаю,ƒ≈Ћј“№,V ipf praes intr act sg indic - 1p,,,ю,а,л,е,д,,V,ƒ≈Ћј“№,;V;ipf;praes sg indic - 1p
+34873,36,самосто€тельно,—јћќ—“ќя“≈Ћ№Ќќ,ADV -,,,о,н,ь,л,е,т,ADV,—јћќ—“ќя“≈Ћ№Ќќ,A;DV;-;
+34874,37,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34875,38,да,ƒј,CONJ,,,а,д,,,,,CONJ,ƒј,CONJ;;;
+34876,39,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34877,40,там,“јћ,ADV -,,,м,а,т,,,,ADV,“јћ,ADV -;;;
+34878,41,походы,ѕќ’ќƒ,S inan nom pl,,,ы,д,о,х,о,п,S,ѕќ’ќƒ,S m inan nom pl;;;
+34879,42,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+34880,43,магазин,ћј√ј«»Ќ,S m inan acc sg,,,н,и,з,а,г,а,S,ћј√ј«»Ќ,S m inan acc s;g;;
+34881,44,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34882,45,все,¬—≈,APRO acc n sg plen,,,е,с,в,,,,S,¬—≈,S - - acc pl;;;
+34883,46,остальное,ќ—“јЋ№Ќќ≈,S n inan acc sg,,,е,о,н,ь,л,а,S,ќ—“јЋ№Ќќ≈,S n inan;n;om;sg
+34884,47,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34885,,,,,,,,,,,,,,,;;;
+34886,1,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+34887,2,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34888,,,,,,,,,,,,,,,;;;
+34889,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34890,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34891,3,»,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34892,4,поэтому,ѕќЁ“ќћ”,ADV -,,,у,м,о,т,э,о,ADV,ѕќЁ“ќћ”,ADV -;;;
+34893,5,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34894,6,ээм,ЁЁћ,INTJ,distort,,м,э,э,,,,S,ЁЁћ,S n inan nonflex nonflex;;;
+34895,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34896,8,именно,»ћ≈ЌЌќ,PART,,,о,н,н,е,м,и,PART,»ћ≈ЌЌќ,PART;;;
+34897,9,поэтому,ѕќЁ“ќћ”,ADV -,,,у,м,о,т,э,о,ADV,ѕќЁ“ќћ”,ADV -;;;
+34898,10,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34899,11,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+34900,12,переехал,ѕ≈–≈≈’ј“№,V pf praet  tran sg indic act m,,,л,а,х,е,е,р,V,ѕ≈–;≈≈;’ј“;№,V pf praet sg indic m -
+34901,13,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34902,,,,,,,,,,,,,,,;;;
+34903,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34904,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34905,3,“о есть,“о есть,PART,раздельно,,ь,т,с,е, ,о,-,“о есть,-;;;
+34906,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34907,5,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34908,6,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34909,7,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34910,8,хотел,’ќ“≈“№,V ipf intr praet sg indic act m ,,,л,е,т,о,х,,V,’ќ“≈“№,V i;pf;pr;aet sg indic m -
+34911,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34912,10,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34913,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34914,12,возложить,¬ќ«Ћќ∆»“№,V pf tran inf act,,,ь,т,и,ж,о,л,V,¬ќ«Ћќ∆»“№,V pf -;-;in;f - -
+34915,13,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+34916,14,себ€,—≈Ѕя,SPRO anim acc,,,€,б,е,с,,,SPRO,—≈Ѕя,SPRO - - - acc;;;
+34917,15,этот,Ё“ќ“,APRO acc sg plen m,,,т,о,т,э,,,A,Ё“ќ“,A - nom sg plen m -;;;
+34918,16,груз,√–”«,S m inan nom sg,,,з,у,р,г,,,S,√–”«,S m inan nom sg;;;
+34919,17,ответственности,ќ“¬≈“—“¬≈ЌЌќ—“№,S f inan gen sg,,,и,т,с,о,н,н,S,ќ“¬≈“—;“¬;≈ЌЌ;ќ—“№,S f inan gen sg
+34920,18,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34921,19,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34922,20,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34923,21,чтобы,„“ќЅџ,CONJ,,,ы,б,о,т,ч,,CONJ,„“ќЅџ,CONJ;;;
+34924,22,посмотреть,ѕќ—ћќ“–≈“№,V pf tran inf act,,,ь,т,е,р,т,о,V,ѕќ—ћќ“–≈“№,V p;f;- -;inf - -
+34925,23,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34926,24,чего,„“ќ,SPRO inan n gen sg,,,о,г,е,ч,,,S,„“ќ,S n - gen sg;;;
+34927,25,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34928,26,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+34929,27,этой,Ё“ќ“,APRO loc sg plen f,,,й,о,т,э,,,A,Ё“ќ“,A - loc sg plen f -;;;
+34930,28,жизни,∆»«Ќ№,S f inan loc sg,,,и,н,з,и,ж,,S,∆»«Ќ№,S f inan loc sg;;;
+34931,29,стою,—“ќя“№,V ipf praes intr sg act indic - 1p,,,ю,о,т,с,,,V,—“ќя“№,V;ip;f p;raes sg indic - 1p
+34932,30,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34933,,,,,,,,,,,,,,,;;;
+34934,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+34935,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+34936,3,јаа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34937,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+34938,,,,,,,,,,,,,,,;;;
+34939,1,“о,“ќ,S n anin nom sg,,,о,т,,,,,S,“ќ,S n - nom sg;;;
+34940,2,бишь,Ѕ»Ў№,PART,,,ь,ш,и,б,,,PART,Ѕ»Ў№,PART;;;
+34941,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34942,4,что,„“ќ,SPRO n sg acc anin ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+34943,5,это,Ё“ќ,SPRO n anin nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+34944,6,значит,«Ќј„»“№,V ipf intr act praes sg indic - 3p,,,т,и,ч,а,н,з,V,«Ќј„»;“№;,V;ipf praes sg indic - 3p
+34945,7,?,?,SENT,,,,,,,,,SENT,?,SENT;;;
+34946,,,,,,,,,,,,,,,;;;
+34947,1,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34948,2,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34949,3,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+34950,4,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"34951,5,"","",_,,,,,,,,,,,_,6";;;
+34952,6,тойсть,тойсть,PART,distort,,ь,т,с,й,о,т,V,“ќ…—“№,V ipf praes sg indic -;3;p;
+"34953,7,"","",_,,,,,,,,,,,_,6";;;
+34954,8,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34955,9,“о есть,“о есть,PART,раздельно,,ь,т,с,е, ,о,-,“о есть,-;;;
+34956,10,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34957,11,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34958,12,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+34959,13,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34960,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34961,15,если,≈—Ћ»,CONJ,,,и,л,с,е,,,CONJ,≈—Ћ»,CONJ;;;
+34962,16,раньше,–јЌќ,ADV comp,,,е,ш,ь,н,а,р,ADV,–јЌќ,ADV comp;;;
+34963,17,за,«ј,PR,,,а,з,,,,,PR,«ј,PR;;;
+34964,18,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34965,19,аам,јјћ,INTJ,distort,,м,а,а,,,,S,јјћ,S m anim nom sg;;;
+34966,20,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34967,21,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34968,22,noindex,NOINDEX,NONLEX,,,,,,,,,NONLEX,NOINDEX,NONLEX;;;
+34969,23,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+34970,24,[,[,PUNC,,,,,,,,,PUNC,[,PUNC;;;
+34971,25,нрзб,Ќ–«Ѕ,NONLEX,distort,,б,з,р,н,,,NONLEX,Ќ–«Ѕ,NONLEX;;;
+34972,26,],],PUNC,,,,,,,,,PUNC,],PUNC;;;
+34973,27,роль,–ќЋ№,S f inan nom sg,,,ь,л,о,р,,,S,–ќЋ№,S f inan nom sg;;;
+34974,28,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+34975,29,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+34976,30,noindex,NOINDEX,NONLEX,,,,,,,,,NONLEX,NOINDEX,NONLEX;;;
+34977,31,>...,>...,PUNC,,,,,,,,,PUNC,>...,PUNC;;;
+34978,32,какие-то, ј ќ…-“ќ,A acc pl plen,слитно,,о,т,,е,и,к,A, ј ќ…-“ќ,A - nom;pl;pl;en - -
+34979,33,бытовые,Ѕџ“ќ¬ќ…,A acc pl plen,,,е,ы,в,о,т,ы,A,Ѕџ“ќ¬ќ…,A - nom pl plen;-;-;
+34980,34,трудности,“–”ƒЌќ—“№,S inan nom pl,,,и,т,с,о,н,д,S,“–”ƒЌќ—“№,S f inan n;om;pl;
+34981,35,мои,ћќ…,APRO acc pl plen,,,и,о,м,,,,A,ћќ…,A - acc pl plen - inan;;;
+34982,36,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34983,37,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+34984,38,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34985,39,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+34986,40,себ€,—≈Ѕя,SPRO anim acc,,,€,б,е,с,,,SPRO,—≈Ѕя,SPRO - - - acc;;;
+34987,41,брала,Ѕ–ј“№,V ipf tran act praet sg indic f,,,а,л,а,р,б,,V,Ѕ–ј“№,V ipf;p;rae;t sg indic f -
+34988,42,мама,ћјћј,S f anim nom sg,,,а,м,а,м,,,S,ћјћј,S f anim nom sg;;;
+34989,43,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+34990,44,то,“ќ,CONJ,,,о,т,,,,,CONJ,“ќ,CONJ;;;
+34991,45,сейчас,—≈…„ј—,ADV -,,,с,а,ч,й,е,с,ADV,—≈…„ј—,ADV -;;;
+34992,46,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+34993,47,это,Ё“ќ,SPRO n anin acc sg,,,о,т,э,,,,S,Ё“ќ,S n - acc sg;;;
+34994,48,все,¬—≈,SPRO n anin acc sg,,,е,с,в,,,,S,¬—≈,S - - acc pl;;;
+34995,49,делаю,ƒ≈Ћј“№,V ipf tran act praes sg indic - 1p,,,ю,а,л,е,д,,V,ƒ≈Ћј“№,;V;ipf;praes sg indic - 1p
+34996,50,сам,—јћ,A acc sg plen m,,,м,а,с,,,,A,—јћ,A - nom sg plen m -;;;
+34997,51,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+34998,,,,,,,,,,,,,,,;;;
+34999,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35000,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35001,3,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35002,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35003,,,,,,,,,,,,,,,;;;
+35004,1,»,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35005,2,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35006,3,погружа€сь,ѕќ√–”∆ј“№—я,V ipf intr praes med - ger,,,ь,с,€,а,ж,у,V,ѕќ√–”;∆ј;“№—;я,V ipf praes - ger - -
+35007,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35008,5,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35009,6,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35010,7,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35011,8,эту,Ё“ќ“,APRO - acc sg plen f ,,,у,т,э,,,,A,Ё“ќ“,A - acc sg plen f -;;;
+35012,9,взрослую,¬«–ќ—Ћџ…,A - acc sg plen f -,,,ю,у,л,с,о,р,A,¬«–ќ—Ћџ…,A - acc;sg;pl;en f -
+35013,10,жизнь,∆»«Ќ№,S f inan acc sg,,,ь,н,з,и,ж,,S,∆»«Ќ№,S f inan acc sg;;;
+35014,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35015,12,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35016,13,понимаю,ѕќЌ»ћј“№,V ipf tran act praes sg indic - 1p,,,ю,а,м,и,н,о,V,ѕќ;Ќ»;ћј“;№,V ipf praes sg indic - 1p
+35017,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35018,15,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35019,16,мне,я,SPRO sg anim 1p - loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+35020,17,это,Ё“ќ,SPRO n inan acc sg,,,о,т,э,,,,S,Ё“ќ,S n inan acc sg;;;
+35021,18,все,¬≈—№,A acc n sg plen,,,е,с,в,,,,A,¬≈—№,A - nom pl plen - -;;;
+35022,19,очень,ќ„≈Ќ№,ADV -,,,ь,н,е,ч,о,,ADV,ќ„≈Ќ№,ADV -;;;
+35023,20,нравитс€,Ќ–ј¬»“№—я,V ipf intr med praes sg indic - 3p,,,€,с,т,и,в,а,V,;Ќ–;ј¬»;“№—я,V ipf praes sg indic - 3p
+35024,21,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35025,,,,,,,,,,,,,,,;;;
+35026,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35027,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35028,3,Ёээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35029,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35030,,,,,,,,,,,,,,,;;;
+35031,1,ћне,я,SPRO sg anim 1p - loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+35032,2,нравитс€,Ќ–ј¬»“№—я,V ipf intr med praes sg indic - 3p,,,€,с,т,и,в,а,V,Ќ;–ј;¬»“;№—я,V ipf praes sg indic - 3p
+35033,3,быть,Ѕџ“№,V ipf intr inf act,,,ь,т,ы,б,,,V,Ѕџ“№,V ipf - - inf - -;;;
+35034,4,самосто€тельным,—јћќ—“ќя“≈Ћ№Ќџ…,A ins sg plen m,,,м,ы,н,ь,л,е,A,—јћќ—“ќ;я“;≈Ћ№;Ќџ…,A - ins sg plen m -
+35035,5,прежде всего,прежде всего,PARENTH,раздельно,,о,г,е,с,в, ,-,прежде всего;,-;;
+35036,6,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35037,,,,,,,,,,,,,,,;;;
+35038,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35039,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35040,3,јаа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35041,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35042,,,,,,,,,,,,,,,;;;
+35043,1,“акже,“ј ∆≈,ADV -,,,е,ж,к,а,т,,ADV,“ј ∆≈,ADV -;;;
+35044,2,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35045,3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35046,4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35047,5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35048,6,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35049,7,"","",_,,,,,,,,,,,_,8";;;
+35050,8,щитаю,ў»“ј“№,V ipf tran praes sg indic act - 1p,distort,,ю,а,т,и,щ,,S,ў;»“;ј…,;S m anim dat sg
+"35051,9,"","",_,,,,,,,,,,,_,8";;;
+35052,10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35053,11,считаю,—„»“ј“№,V ipf tran praes sg indic act - 1p,,,ю,а,т,и,ч,с,V,—„»“;ј“;№,V;ipf praes sg indic - 1p
+35054,12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35055,13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35056,14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35057,15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35058,16,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35059,17,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35060,18,каждый, ј∆ƒџ…,A nom sg plen m,,,й,ы,д,ж,а,к,A, ј∆ƒџ…,A - nom sg plen m;-;;
+35061,19,уважающий,”¬ј∆ј“№,V partcp tran ipf praes nom sg plen m act,,,й,и,щ,ю,;а,;ж,P;ARTCP,”¬ј∆ј“№,PARTCP ipf inpraes acc sg plen m act inan
+35062,20,себ€,—≈Ѕя,SPRO anim acc,,,€,б,е,с,,,SPRO,—≈Ѕя,SPRO - - - acc;;;
+35063,21,мужчина,ћ”∆„»Ќј,S m anim nom sg,,,а,н,и,ч,ж,у,S,ћ”∆„»Ќј,S m anim nom s;g;;
+35064,22,должен,ƒќЋ∆Ќџ…,A sg brev m,,,н,е,ж,л,о,д,A,ƒќЋ∆Ќџ…,A - - sg brev m -;;;
+35065,23,уметь,”ћ≈“№,V ipf intr inf act,,,ь,т,е,м,у,,V,”ћ≈“№,V ipf - - inf - -;;;
+35066,24,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35067,25,ээ,ЁЁ,INTJ,distort,,э,э,,,,,NONLEX,ЁЁ,NONLEX;;;
+35068,26,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35069,27,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35070,28,готовить,√ќ“ќ¬»“№,V ipf intr inf act,,,ь,т,и,в,о,т,V,√ќ“ќ¬»“№,V ipf -;-;inf;- -
+35071,29,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35072,30,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35073,31,убирать,”Ѕ»–ј“№,V ipf intr inf act,,,ь,т,а,р,и,б,V,”Ѕ»–ј“№,V ipf - - i;nf;-;-
+35074,32,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35075,33,то есть,то есть,PART,раздельно,,ь,т,с,е, ,о,-,то есть,-;;;
+35076,34,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35077,35,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35078,36,общем,ќЅўE≈,S inan n loc sg,,,м,е,щ,б,о,,A,ќЅў»…,A - loc sg plen m -;;;
+35079,37,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35080,38,быть,Ѕџ“№,V ipf intr inf act,,,ь,т,ы,б,,,V,Ѕџ“№,V ipf - - inf - -;;;
+35081,39,домохоз€йкой,ƒќћќ’ќ«я… ј,S f anim ins sg,,,й,о,к,й,€,з,S,ƒќћќ’ќ«я… ј,S;f;an;im ins sg
+35082,40,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35083,41,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35084,42,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35085,43,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+35086,44,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35087,45,"","",_,,,,,,,,,,,_,46";;;
+35088,46,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+35089,47,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35090,48,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+35091,49,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35092,50,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35093,51,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35094,52,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35095,53,самой,—јћџ…,A ins sg plen f,,,й,о,м,а,с,,A,—јћџ…,A - gen sg plen f -;;;
+35096,54,насто€щей,Ќј—“ќяў»…,A ins sg plen f,,,й,е,щ,€,о,т,A,Ќј—“ќяў»…,A - ins;sg;pl;en f -
+35097,55,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35098,,,,,,,,,,,,,,,;;;
+35099,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35100,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35101,3,¬оот,¬ќќ“,PART,distort,,т,о,о,в,,,S,¬ќќ“,S n inan nonflex nonflex;;;
+35102,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35103,5,и...,»...,CONJ,distort,,,,,и,,,CONJ,»...,CONJ;;;
+35104,6,јаа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35105,7,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35106,,,,,,,,,,,,,,,;;;
+35107,1,»,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35108,2,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35109,3,общем,ќЅў»…,S inan n loc sg,,,м,е,щ,б,о,,A,ќЅў»…,A - loc sg plen m -;;;
+35110,4,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35111,5,счастлив,—„ј—“Ћ»¬џ…,A sg brev m,,,в,и,л,т,с,а,A,—„ј—“Ћ»¬џ…,A - - sg bre;v;m -;
+35112,6,от,ќ“,PR,,,т,о,,,,,PR,ќ“,PR;;;
+35113,7,того,“ќ,S n inan gen sg,,,о,г,о,т,,,S,“ќ,S n - gen sg;;;
+35114,8,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35115,9,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35116,10,сейчас,—≈…„ј—,ADV -,,,с,а,ч,й,е,с,ADV,—≈…„ј—,ADV -;;;
+35117,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35118,12,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35119,13,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35120,14,у,”,PR,,,у,,,,,,PR,”,PR;;;
+35121,15,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35122,16,есть,Ѕџ“№,V ipf intr act praes sg indic - 3p,,,ь,т,с,е,,,V,Ѕџ“№,V ipf;pr;aes;sg indic - 3p
+35123,17,возможность,¬ќ«ћќ∆Ќќ—“№,S f inan acc sg,,,ь,т,с,о,н,ж,S,¬ќ«ћќ∆Ќќ—“№,S;f;ina;n acc sg
+35124,18,потренировать,ѕќ“–≈Ќ»–ќ¬ј“№,V pf tran inf act,,,ь,т,а,в,о,р,V,ѕќ“–≈Ќ»–;ќ¬;ј“№;,V pf - - inf - -
+35125,19,такие,“ј ќ…,A acc pl plen,,,е,и,к,а,т,,A,“ј ќ…,A - nom pl plen - -;;;
+35126,20,навыки,Ќј¬џ ,S inan acc pl,,,и,к,ы,в,а,н,S,Ќј¬џ ,S m inan nom pl;;;
+35127,21,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35128,,,,,,,,,,,,,,,;;;
+35129,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35130,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35131,3,¬оот,¬ќќ“,PART,,,т,о,о,в,,,S,¬ќќ“,S n inan nonflex nonflex;;;
+35132,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35133,5,и,»,CONJ,,,и,,,,,,PART,»,PART;;;
+35134,6,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35135,,,,,,,,,,,,,,,;;;
+35136,1,Ёээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35137,2,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35138,,,,,,,,,,,,,,,;;;
+35139,1,„то,„“ќ,SPRO n inan nom sg,,,о,т,ч,,,,S,„“ќ,S n - acc sg;;;
+35140,2,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35141,,,,,,,,,,,,,,,;;;
+35142,1,“ак,“ј ,PART,,,к,а,т,,,,ADV,“ј ,ADV -;;;
+35143,2,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35144,3,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35145,,,,,,,,,,,,,,,;;;
+35146,1,ќ,ќ,PR,,,о,,,,,,PR,ќ,PR;;;
+35147,2,чем,„“ќ,SPRO n inan ins sg,,,м,е,ч,,,,S,„“ќ,S n - ins sg;;;
+35148,3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35149,4,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35150,5,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+35151,6,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35152,7,"","",_,,,,,,,,,,,_,6";;;
+35153,8,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+35154,9,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35155,10,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+35156,11,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35157,12,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35158,13,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35159,14,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35160,15,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35161,16,о,ќ,PR,,,о,,,,,,PR,ќ,PR;;;
+35162,17,чем,„≈ћ,SPRO n inan ins sg,,,м,е,ч,,,,CONJ,„≈ћ,CONJ;;;
+35163,18,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35164,19,начал,Ќј„јЋќ,S n inan gen pl,,,л,а,ч,а,н,,S,Ќј„јЋќ,S n inan gen pl;;;
+35165,20,говорить,√ќ¬ќ–»“№,V ipf - - inf - -,,,ь,т,и,р,о,в,V,√ќ¬ќ–»“№,V ipf - -;i;nf;- -
+35166,21,?,?,SENT,,,,,,,,,SENT,?,SENT;;;
+35167,,,,,,,,,,,,,,,;;;
+35168,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35169,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35170,3,я,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35171,4,начал,Ќј„ј“№,V tran praet pf indic act m sg,,,л,а,ч,а,н,,S,Ќј„јЋќ,S n i;na;n g;en pl
+35172,5,говорить,√ќ¬ќ–»“№,V ipf tran inf act,,,ь,т,и,р,о,в,V,√ќ¬ќ–»“№,V ipf - -;i;nf;- -
+35173,6,о,ќ,PR,,,о,,,,,,PR,ќ,PR;;;
+35174,7,том,“ќ,S n inan loc sg,,,м,о,т,,,,S,“ќ,S n - loc sg;;;
+35175,8,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35176,9,как, ј ,CONJ,,,к,а,к,,,,CONJ, ј ,CONJ;;;
+35177,10,проходит,ѕ–ќ’ќƒ»“№,V ipf tran praes sg indic act  - 3p,,,т,и,д,о,х,о,V;,ѕ;–ќ’;ќƒ»“№,V ipf praes sg indic - 3p
+35178,11,мо€,ћќ…,APRO nom sg plen f,,,€,о,м,,,,A,ћќ…,A - nom sg plen f -;;;
+35179,12,недел€,Ќ≈ƒ≈Ћя,S f inan nom sg,,,€,л,е,д,е,н,S,Ќ≈ƒ≈Ћя,S f inan nom sg;;;
+35180,13,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35181,,,,,,,,,,,,,,,;;;
+35182,1,јаа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35183,2,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35184,,,,,,,,,,,,,,,;;;
+35185,1,„то,„“ќ,SPRO inan n nom sg,,,о,т,ч,,,,S,„“ќ,S n - nom sg;;;
+35186,2,ж,∆,PART,distort,,ж,,,,,,PART,∆,PART;;;
+35187,3,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35188,,,,,,,,,,,,,,,;;;
+35189,1,ћо€,ћќ…,A - nom sg plen f -,,,€,о,м,,,,A,ћќ…,A - nom sg plen f -;;;
+35190,2,недел€,Ќ≈ƒ≈Ћя,S f inan nom sg,,,€,л,е,д,е,н,S,Ќ≈ƒ≈Ћя,S f inan nom sg;;;
+35191,3,начинаетс€,Ќј„»Ќј“№—я,V ipf intr praes sg med indic - 3p,,,€,с,т,е,а,н,;V,;Ќј„;»Ќј“№—я,V ipf praes sg indic - 3p
+35192,4,с,—,PR,,,с,,,,,,PR,—,PR;;;
+35193,5,уроков,”–ќ ,S inan gen pl,,,в,о,к,о,р,у,S,”–ќ ,S m inan gen pl;;;
+35194,6,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35195,7,ими,ќЌ»,SPRO inan pl ins,,,и,м,и,,,,SPRO,ќЌ»,SPRO pl - - ins;;;
+35196,8,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35197,9,заканчиваетс€,«ј јЌ„»¬ј“№—я,V ipf intr med praes sg indic - 3p,,,€,с,т,;е,;а,в;,V,«ј јЌ„»¬ј“№—я,V ipf praes sg indic - 3p
+35198,10,наверное,Ќј¬≈–Ќќ≈,PARENTH,,,е,о,н,р,е,в,ADV,Ќј¬≈–Ќќ≈,ADV -;;;
+35199,11,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35200,,,,,,,,,,,,,,,;;;
+35201,1,я,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35202,2,посто€нно,ѕќ—“ќяЌЌќ,ADV -,,,о,н,н,€,о,т,ADV,ѕќ—“ќяЌЌќ,ADV -;;;
+35203,3,учусь,”„»“№—я,V ipf intr praes med sg indic - 1p,,,ь,с,у,ч,у,,V,”„»“№—я;,V;ip;f praes sg indic - 1p
+35204,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35205,,,,,,,,,,,,,,,;;;
+35206,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35207,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35208,3,јаа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35209,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35210,,,,,,,,,,,,,,,;;;
+35211,1,¬стаю,¬—“ј¬ј“№,V ipf intr praes sg indic act  - 1p,,,ю,а,т,с,в,,V,¬—“ј¬;ј“;№,V;ipf praes sg indic - 1p
+35212,2,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35213,3,эм,Ёћ,INTJ,distort,,м,э,,,,,S,Ёћ,S n inan nonflex nonflex;;;
+35214,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35215,5,в,¬,PR,,,в,,,,,,S,¬,S - - nonflex nonflex;;;
+35216,6,6,6,NUM - - -,,,,,,,,,NUM,6,NUM - - -;;;
+35217,7,утра,”“–ќ,S n inan acc pl,,,а,р,т,у,,,S,”“–ќ,S n inan acc pl;;;
+35218,8,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35219,9,эм,Ёћ,INTJ,distort,,м,э,,,,,S,Ёћ,S n inan nonflex nonflex;;;
+35220,10,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35221,11,готовлю,√ќ“ќ¬»“№,V ipf tran praes sg indic act  - 1p,,,ю,л,в,о,т,о,V,√;ќ“;ќ¬»;“№,V ipf praes sg indic - 1p
+35222,12,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35223,13,еду,≈ƒј,S f inan acc sg,,,у,д,е,,,,S,≈ƒј,S f inan acc sg;;;
+35224,14,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+35225,15,учебу,”„≈Ѕј,S m inan loc sg,,,у,б,е,ч,у,,S,”„≈Ѕј,S m inan loc sg;;;
+35226,16,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35227,17,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35228,18,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35229,19,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35230,20,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35231,21,"","",_,,,,,,,,,,,_,22";;;
+35232,22,прииж€ю,ѕ–»≈∆ј“№,V ipf intr act praes sg indic - 1p,distort,,ю,€,ж,и,и;,р;,NO;NLEX,ѕ–»»∆яё,NONLEX
+"35233,23,"","",_,,,,,,,,,,,_,22";;;
+35234,24,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35235,25,приезжаю,ѕ–»≈«∆ј“№,V ipf intr act praes sg indic - 1p,,,ю,а,ж,з,е,и,V,;ѕ–;»≈«;∆ј“№,V ipf praes sg indic - 1p
+35236,26,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35237,27,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35238,28,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35239,29,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35240,30,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35241,31,8,8,NUM - - -,,,,,,,,,NUM,8,NUM - - -;;;
+35242,32,часов,„ј—,S inan gen pl,,,в,о,с,а,ч,,S,„ј—,S m inan gen pl;;;
+35243,33,вечера,¬≈„≈–,S m inan gen sg,,,а,р,е,ч,е,в,S,¬≈„≈–,S m inan gen sg;;;
+35244,34,после,ѕќ—Ћ≈,PR,,,е,л,с,о,п,,PR,ѕќ—Ћ≈,PR;;;
+35245,35,длительного,ƒЋ»“≈Ћ№Ќџ…,A gen sg plen m ,,,о,г,о,н,ь,л,A,ƒЋ»“≈Ћ№Ќџ…,A -;g;en;sg plen m -
+35246,36,загруженного,«ј√–”∆≈ЌЌџ…,A gen sg plen m ,,,о,г,о,н,н,е,PARTCP,«ј√–”«»;“№;,PA;RTCP pf praet acc sg plen m pass anim
+35247,37,дн€,ƒ≈Ќ№,S m inan gen sg,,,€,н,д,,,,S,ƒ≈Ќ№,S m inan gen sg;;;
+35248,38,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35249,39,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35250,40,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35251,41,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35252,42,пытаюсь,ѕџ“ј“№—я,V ipf intr praes med sg indic - 1p,,,ь,с,ю,а,т,ы,V,ѕџ;“ј;“№—;я,V ipf praes sg indic - 1p
+35253,43,успеть,”—ѕ≈“№,V pf intr inf act,,,ь,т,е,п,с,у,V,”—ѕ≈“№,V pf - - inf -;-;;
+35254,44,сделать,—ƒ≈Ћј“№,V pf intr inf act,,,ь,т,а,л,е,д,V,—ƒ≈Ћј“№,V pf - - inf;-;-;
+35255,45,уроки,”–ќ ,S inan acc pl,,,и,к,о,р,у,,S,”–ќ ,S m inan acc pl;;;
+35256,46,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35257,47,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35258,48,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35259,49,впихнуть,¬ѕ»’Ќ”“№,V pf intr inf act,,,ь,т,у,н,х,и,V,¬ѕ»’Ќ”“№,V pf - -;in;f -;-
+35260,50,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35261,51,это...,Ё“ќ...,SPRO n inan gen sg,distort,,,,,о,т,э,S,Ё“ќ...,S m inan g;en;sg;
+35262,52,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35263,53,этот,Ё“ќ“,APRO acc sg plen m,,,т,о,т,э,,,A,Ё“ќ“,A - acc sg plen m inan;;;
+35264,54,маленький,ћјЋ≈Ќ№ »…,A acc sg plen m,,,й,и,к,ь,н,е,A,ћјЋ≈Ќ№ »…,A - acc;sg;pl;en m inan
+35265,55,промежуток,ѕ–ќћ≈∆”“ќ ,S m inan acc sg,,,к,о,т,у,ж,е,S,ѕ–ќћ≈∆”“ќ ,S m i;na;n a;cc sg
+35266,56,времени,¬–≈ћя,S n inan gen sg,,,и,н,е,м,е,р,S,¬–≈ћя,S n inan gen sg;;;
+35267,57,от,ќ“,PR,,,т,о,,,,,PR,ќ“,PR;;;
+35268,58,приезда,ѕ–»≈«ƒ,S m inan gen sg,,,а,д,з,е,и,р,S,ѕ–»≈«ƒ,S m inan gen sg;;;
+35269,59,домой,ƒќћќ…,ADV -,,,й,о,м,о,д,,ADV,ƒќћќ…,ADV -;;;
+35270,60,до,ƒќ,PR,,,о,д,,,,,PR,ƒќ,PR;;;
+35271,61,сна,—ќЌ,S m inan gen sg,,,а,н,с,,,,S,—ќЌ,S m inan gen sg;;;
+35272,62,свою,—¬ќ…,APRO acc sg plen f,,,ю,о,в,с,,,A,—¬ќ…,A - acc sg plen f -;;;
+35273,63,личную,Ћ»„Ќџ…,A acc sg plen f,,,ю,у,н,ч,и,л,A,Ћ»„Ќџ…,A - acc sg plen f;-;;
+35274,64,жизнь,∆»«Ќ№,S f inan acc sg,,,ь,н,з,и,ж,,S,∆»«Ќ№,S f inan acc sg;;;
+35275,65,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35276,66,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35277,67,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35278,68,оп€ть,ќѕя“№,ADV -,,,ь,т,€,п,о,,ADV,ќѕя“№,ADV -;;;
+35279,69,же,∆≈,PART,,,е,ж,,,,,PART,∆≈,PART;;;
+35280,70,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35281,71,готовки,√ќ“ќ¬ ј,S inan gen pl,,,и,к,в,о,т,о,S,√ќ“ќ¬ ј,S f inan gen sg;;;
+35282,72,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35283,73,стирки,—“»– ј,S inan gen pl,,,и,к,р,и,т,с,S,—“»– ј,S f inan gen sg;;;
+35284,74,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35285,75,глажки,√Ћј∆ ј,S inan gen pl,,,и,к,ж,а,л,г,S,√Ћј∆ ј,S f inan acc pl;;;
+35286,76,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35287,77,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35288,78,это,Ё“ќ,SPRO n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35289,79,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35290,80,все,¬—≈,SPRO n inan nom sg,,,е,с,в,,,,A,¬≈—№,A - nom pl plen - -;;;
+35291,81,то,“ќ,S n inan acc sg,,,о,т,,,,,S,“ќ,S n - acc sg;;;
+35292,82,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35293,83,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35294,84,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35295,85,то,“ќ,NONLEX,,,о,т,,,,,NONLEX,“ќ,NONLEX;;;
+35296,86,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35297,87,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35298,88,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35299,89,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+35300,90,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35301,91,"","",_,,,,,,,,,,,_,92";;;
+35302,92,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+35303,93,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35304,94,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+35305,95,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35306,96,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35307,97,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35308,98,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35309,99,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35310,100,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35311,101,хотел,’ќ“≈“№,V ipf tran praet sg indic act m,,,л,е,т,о,х,,V,’ќ“≈“№,V;ip;f p;raet sg indic m -
+35312,102,попробовать,ѕќѕ–ќЅќ¬ј“№,V pf tran inf act,,,ь,т,а,в,о,б,V,ѕќѕ–ќЅќ¬ј“№;,V;pf;- - inf - -
+35313,103,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35314,104,какие-то, ј ќ…-“ќ,A acc pl plen,слитно,,о,т,,е,и,к,A, ј ќ…-“ќ,A - acc;p;l p;len - inan
+35315,105,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35316,106,ну,Ќ”,PART,,,у,н,,,,,PART,Ќ”,PART;;;
+35317,107,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35318,108,врем€,¬–≈ћя,S n inan nom sg,,,€,м,е,р,в,,S,¬–≈ћя,S n inan nom sg;;;
+35319,109,дл€,ƒЋя,PR,,,€,л,д,,,,PR,ƒЋя,PR;;;
+35320,110,себ€,—≈Ѕя,SPRO anim acc,,,€,б,е,с,,,SPRO,—≈Ѕя,SPRO - - - acc;;;
+35321,111,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35322,112,да,ƒј,CONJ,,,а,д,,,,,CONJ,ƒј,CONJ;;;
+35323,113,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35324,114,как-то, ј -“ќ,ADV -,слитно,,о,т,,к,а,к,ADV, ј -“ќ,ADV -;;;
+35325,115,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35326,,,,,,,,,,,,,,,;;;
+35327,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35328,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35329,3,¬оот,¬ќќ“,PART,,,т,о,о,в,,,S,¬ќќ“,S m inan nonflex nonflex;;;
+35330,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35331,,,,,,,,,,,,,,,;;;
+35332,1,»..,»..,CONJ,,,,,и,,,,CONJ,»..,CONJ;;;
+35333,2,я,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35334,3,не,Ќ≈,PART,,,е,н,,,,,PART,Ќ≈,PART;;;
+35335,4,знаю,«Ќј“№,V ipf tran act praes sg indic - 1p,,,ю,а,н,з,,,V,«Ќј“№,V ipf;p;rae;s sg indic - 1p
+35336,5,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35337,6,пока,ѕќ ј,ADV -,,,а,к,о,п,,,CONJ,ѕќ ј,CONJ;;;
+35338,7,дл€,ƒЋя,PR,,,€,л,д,,,,PR,ƒЋя,PR;;;
+35339,8,мен€,я,SPRO sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35340,9,это,Ё“ќ,SPRO n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35341,10,все,¬—≈,SPRO n inan nom sg,,,е,с,в,,,,S,¬—≈,S n - nom sg;;;
+35342,11,сложно,—Ћќ∆Ќќ,ADV -,,,о,н,ж,о,л,с,A,—Ћќ∆Ќџ…,A - - sg brev n -;;;
+35343,12,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35344,13,но,Ќќ,CONJ,,,о,н,,,,,CONJ,Ќќ,CONJ;;;
+35345,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35346,15,мне,я,SPRO anim sg 1p - loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+35347,16,кажетс€, ј«ј“№—я,V ipf intr praes med sg indic - 3p,,,€,с,т,е,ж,а,V, ј;«ј;“№—;я,V ipf praes sg indic - 3p
+35348,17,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35349,18,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35350,19,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35351,20,добьюсь,ƒќЅ»“№—я,V pf fut intr act sg indic - 1p,,,ь,с,ю,ь,б,о,V,ƒќЅ»“;№—;я,V;pf fut sg indic - 1p
+35352,21,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35353,22,эм,Ёћ,INTJ,distort,,м,э,,,,,S,Ёћ,S n inan nonflex nonflex;;;
+35354,23,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35355,24,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35356,25,этом,Ё“ќ,SPRO inan n - loc sg,,,м,о,т,э,,,S,Ё“ќ,S n - loc sg;;;
+35357,26,во,¬ќ,PR,,,о,в,,,,,PR,¬ќ,PR;;;
+35358,27,всем,¬—≈,SPRO n inan - loc sg,,,м,е,с,в,,,S,¬—≈,S n - loc sg;;;
+35359,28,прогресса,ѕ–ќ√–≈——,S m inan gen sg,,,а,с,с,е,р,г,S,ѕ–ќ√–≈——,S m inan g;en;sg;
+35360,29,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35361,30,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35362,31,смогу,—ћќ„№,V pf intr act fut sg indic - 1p,,,у,г,о,м,с,,V,—ћќ„№,V pf;fu;t s;g indic - 1p
+35363,32,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35364,33,эмм,Ёћћ,INTJ,distort,,м,м,э,,,,S,Ёћћј,S f inan nom sg;;;
+35365,34,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35366,35,распределить,–ј—ѕ–≈ƒ≈Ћ»“№,V pf tran inf act,,,ь,т,и,л,е,д,V,–ј—ѕ–≈ƒ≈Ћ»;“№;,V;pf - - inf - -
+35367,36,свое,—¬ќ…,APRO acc sg plen n,,,е,о,в,с,,,A,—¬ќ…,A - acc sg plen n inan;;;
+35368,37,врем€,¬–≈ћя,S n inan acc sg,,,€,м,е,р,в,,S,¬–≈ћя,S n inan acc sg;;;
+35369,38,настолько,Ќј—“ќЋ№ ќ,ADV -,,,о,к,ь,л,о,т,ADV,Ќј—“ќЋ№ ќ,ADV -;;;
+35370,39,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35371,40,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35372,41,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35373,42,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35374,43,"","",_,,,,,,,,,,,_,44";;;
+35375,44,прально,прально,ADV -,distort,,о,н,ь,л,а,р,ADV,ѕ–јЋ№Ќќ,ADV -;;;
+"35376,45,"","",_,,,,,,,,,,,_,44";;;
+35377,46,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35378,47,правильно,ѕ–ј¬»Ћ№Ќќ,ADV -,,,о,н,ь,л,и,в,ADV,ѕ–ј¬»Ћ№Ќќ,ADV -;;;
+35379,48,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35380,49,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35381,50,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35382,51,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35383,52,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35384,53,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35385,54,у,”,PR,,,у,,,,,,PR,”,PR;;;
+35386,55,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35387,56,все,¬—≈,SPRO n inan acc sg,,,е,с,в,,,,S,¬—≈,S - - acc pl;;;
+35388,57,будет,Ѕџ“№,V ipf intr act praes sg indic - 3p,,,т,е,д,у,б,,V,Ѕџ“№,V ip;f;pra;es sg indic - 3p
+35389,58,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35390,59,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35391,60,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35392,61,тикать,“» ј“№,V ipf intr inf act,,,ь,т,а,к,и,т,V,“» ј“№,V ipf - - inf;-;-;
+35393,62,по...,ѕќ...,PR,distort раздельно,,,,,о,п,,PR,ѕќ...,PR;;;
+35394,63,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35395,64,как, ј ,PART,,,к,а,к,,,,CONJ, ј ,CONJ;;;
+35396,65,по,ѕќ,PR,,,о,п,,,,,PR,ѕќ,PR;;;
+35397,66,часам,„ј—џ,S m inan dat pl,,,м,а,с,а,ч,,S,„ј—џ,S m inan dat pl;;;
+35398,67,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35399,,,,,,,,,,,,,,,;;;
+35400,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35401,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35402,3,¬оот,¬ќќ“,PART,distort,,т,о,о,в,,,S,¬ќќ“,S m inan nonflex nonflex;;;
+35403,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35404,,,,,,,,,,,,,,,;;;
+35405,1,»...,»...,CONJ,distort раздельно,,,,,и,,,CONJ,»...,CONJ;;;
+35406,2,„то,„“ќ,SPRO n inan nom sg,,,о,т,ч,,,,S,„“ќ,S n - nom sg;;;
+35407,3,самое,—јћџ…,A nom sg plen n,,,е,о,м,а,с,,A,—јћџ…,A - nom sg plen n -;;;
+35408,4,главное,√Ћј¬Ќќ≈,S n inan nom sg,,,е,о,н,в,а,л,S,√Ћј¬Ќќ≈,S n inan nom sg;;;
+35409,5,дл€,ƒЋя,PR,,,€,л,д,,,,PR,ƒЋя,PR;;;
+35410,6,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35411,7,-,-,PUNC,,,,,,,,,PUNC,-,PUNC;;;
+35412,8,это,Ё“ќ,SPRO n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35413,9,не,Ќ≈,PART,,,е,н,,,,,PART,Ќ≈,PART;;;
+35414,10,тер€ть,“≈–я“№,V ipf tran inf act,,,ь,т,€,р,е,т,V,“≈–я“№,V ipf - - inf;-;-;
+35415,11,уверенность,”¬≈–≈ЌЌќ—“№,S f inan acc sg,,,ь,т,с,о,н,н,S,”¬≈–≈ЌЌќ—“№,S;f;ina;n acc sg
+35416,12,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35417,,,,,,,,,,,,,,,;;;
+35418,1,Ќе,Ќ≈,PART,,,е,н,,,,,PART,Ќ≈,PART;;;
+35419,2,тер€ть,“≈–я“№,V ipf tran inf act,,,ь,т,€,р,е,т,V,“≈–я“№,V ipf - - inf -;-;;
+35420,3,уверенность,”¬≈–≈ЌЌќ—“№,S f inan acc sg,,,ь,т,с,о,н,н,S,”¬≈–≈ЌЌќ—“№,S f;i;nan;acc sg
+35421,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35422,5,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35423,6,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35424,7,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35425,8,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35426,9,"","",_,,,,,,,,,,,_,10";;;
+35427,10,“ость,“о есть,PART,distort,,ь,т,с,о,т,,S,“ќ—“№,S f anim acc sg;;;
+"35428,11,"","",_,,,,,,,,,,,_,10";;;
+35429,12,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35430,13,то есть,“о есть,PART,раздельно,,ь,т,с,е, ,о,-,то есть,-;;;
+35431,14,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35432,15,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35433,16,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35434,17,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35435,18,не,Ќ≈,PART,,,е,н,,,,,PART,Ќ≈,PART;;;
+35436,19,опускать,ќѕ”— ј“№,V ipf tran inf act,,,ь,т,а,к,с,у,V,ќѕ”— ј“№,V ipf -;-;inf;- -
+35437,20,руки,–” ј,S inan acc pl,,,и,к,у,р,,,S,–” ј,S f inan acc pl;;;
+35438,21,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35439,,,,,,,,,,,,,,,;;;
+35440,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35441,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35442,3,јаээ,јјЁЁ,INTJ,distort,,э,э,а,а,,,NONLEX,јјЁЁ,NONLEX;;;
+35443,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35444,,,,,,,,,,,,,,,;;;
+35445,1,ѕризнатьс€,ѕ–»«Ќј“№—я,V pf intr inf act,,,€,с,ь,т,а,н,V,ѕ–»«Ќј“№—я,V pf;-;-;inf - -
+35446,2,честно,„≈—“Ќќ,ADV -,,,о,н,т,с,е,ч,ADV,„≈—“Ќќ,ADV -;;;
+35447,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35448,4,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35449,5,первую,ѕ≈–¬џ…,A - acc sg plen f -,,,ю,у,в,р,е,п,A,ѕ≈–¬џ…,A - acc sg ple;n;f -;
+35450,6,неделю,Ќ≈ƒ≈Ћя,S inan acc sg,,,ю,л,е,д,е,н,S,Ќ≈ƒ≈Ћя,S f inan acc sg;;;
+35451,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35452,8,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35453,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35454,10,когда, ќ√ƒј,CONJ,,,а,д,г,о,к,,CONJ, ќ√ƒј,CONJ;;;
+35455,11,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35456,12,жил,∆»“№,V ipf intr act praet sg indic m -,,,л,и,ж,,,,V,∆»“№,V ipf pra;et;sg;indic m -
+35457,13,один,ќƒ»Ќ,A nom sg plen m,,,н,и,д,о,,,A,ќƒ»Ќ,A - nom sg plen m -;;;
+35458,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35459,15,у,”,PR,,,у,,,,,,PR,”,PR;;;
+35460,16,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35461,17,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35462,18,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35463,19,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35464,20,така€,“ј ќ…,A nom sg plen f,,,€,а,к,а,т,,A,“ј ќ…,A - nom sg plen f -;;;
+35465,21,склонность,— ЋќЌЌќ—“№,S f inan nom sg,,,ь,т,с,о,н,н,S,— ЋќЌЌќ—“№,S f i;na;n n;om sg
+35466,22,была,Ѕџ“№,V intr act ipf praet sg indic f ,,,а,л,ы,б,,,V,Ѕџ“№,V ipf pr;ae;t s;g indic f -
+35467,23,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35468,,,,,,,,,,,,,,,;;;
+35469,1,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35470,2,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35471,3,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35472,4,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35473,5,"","",_,,,,,,,,,,,_,6";;;
+35474,6,“ойсть,“ойсть,PART,distort,,ь,т,с,й,о,т,S,“ќ…—“№,S m anim nom sg;;;
+"35475,7,"","",_,,,,,,,,,,,_,6";;;
+35476,8,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35477,9,“о есть,“о есть,PART,раздельно,,ь,т,с,е, ,о,-,“о есть,-;;;
+35478,10,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35479,11,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35480,12,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35481,13,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35482,14,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35483,15,уже,”∆≈,ADV -,,,е,ж,у,,,,ADV,”∆≈,ADV -;;;
+35484,16,готов,√ќ“ќ¬џ…,A sg brev m,,,в,о,т,о,г,,A,√ќ“ќ¬џ…,A - - sg brev m -;;;
+35485,17,был,Ѕџ“№,V ipf intr act praet sg indic m,,,л,ы,б,,,,V,Ѕџ“№,V ipf praet;s;g i;ndic m -
+35486,18,опустить,ќѕ”—“»“№,V pf tran act inf,,,ь,т,и,т,с,у,V,ќѕ”—“»“№,V pf - -;in;f -;-
+35487,19,руки,–” ј,S inan acc pl,,,и,к,у,р,,,S,–” ј,S f inan acc pl;;;
+35488,20,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35489,21,переехать,ѕ≈–≈≈’ј“№,V pf tran act inf,,,ь,т,а,х,е,е,V,ѕ≈–≈≈’ј“№,V pf -;-;in;f - -
+35490,22,домой,ƒќћќ…,ADV -,,,й,о,м,о,д,,ADV,ƒќћќ…,ADV -;;;
+35491,23,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35492,24,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35493,25,там,“јћ,ADV -,,,м,а,т,,,,ADV,“јћ,ADV -;;;
+35494,26,:,:,PUNC,,,,,,,,,PUNC,:,PUNC;;;
+"35495,27,"","",_,,,,,,,,,,,_,26";;;
+35496,28,ћам,ћјћј,S f anim voc sg,,,м,а,м,,,,S,ћјћј,S f anim voc sg;;;
+35497,29,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35498,30,забери,«јЅ–ј“№,V pf tran act sg imper - 2p,,,и,р,е,б,а,з,V,«јЅ–ј“№,V p;f;#»ћя?;g imper - 2p
+35499,31,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35500,32,обратно,ќЅ–ј“Ќќ,ADV -,,,о,н,т,а,р,б,ADV,ќЅ–ј“Ќќ,ADV -;;;
+"35501,33,"","",_,,,,,,,,,,,_,32";;;
+35502,34,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35503,35,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35504,36,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35505,37,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+35506,38,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35507,39,"","",_,,,,,,,,,,,_,40";;;
+35508,40,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+35509,41,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35510,42,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+35511,43,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35512,44,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35513,45,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35514,46,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35515,47,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35516,48,все,¬≈—№,APRO nom pl plen,,,е,с,в,,,,A,¬≈—№,A - nom pl plen - -;;;
+35517,49,такое,“ј ќE,S n sg nom inan,,,е,о,к,а,т,,A,“ј ќ…,A - acc sg plen n ina;n;;
+35518,50,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35519,,,,,,,,,,,,,,,;;;
+35520,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35521,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35522,3,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35523,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35524,5,но,Ќќ,CONJ,,,о,н,,,,,CONJ,Ќќ,CONJ;;;
+35525,6,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35526,,,,,,,,,,,,,,,;;;
+35527,1,я,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35528,2,к, ,PR,,,к,,,,,,PR, ,PR;;;
+35529,3,тому,“ќ,S n inan dat sg,,,у,м,о,т,,,S,“ќ,S n - dat sg;;;
+35530,4,же,∆≈,PART,,,е,ж,,,,,PART,∆≈,PART;;;
+35531,5,еще,≈ў≈,ADV -,,,е,щ,е,,,,ADV,≈ў≈,ADV -;;;
+35532,6,заболел,«јЅќЋ≈“№,V pf intr praet sg indic m act,,,л,е,л,о,б,а,V,«јЅќЋ≈“;№,;V p;f praet sg indic m -
+35533,7,тогда,“ќ√ƒј,ADV -,,,а,д,г,о,т,,ADV,“ќ√ƒј,ADV -;;;
+35534,8,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35535,9,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35536,10,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35537,11,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35538,12,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35539,13,"","",_,,,,,,,,,,,_,12";;;
+35540,14,от,ќ“,PR,,,т,о,,,,,PR,ќ“,PR;;;
+"35541,15,"","",_,,,,,,,,,,,_,16";;;
+35542,16,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35543,17,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35544,18,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35545,19,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35546,20,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35547,21,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35548,22,эти,Ё“ќ“,APRO nom pl plen,,,и,т,э,,,,A,Ё“ќ“,A - nom pl plen - -;;;
+35549,23,все,¬≈—№,APRO nom pl plen,,,е,с,в,,,,S,¬—≈,S - - acc pl;;;
+35550,24,сопли,—ќѕЋя,S inan nom pl,,,и,л,п,о,с,,S,—ќѕЋя,S - - nom pl;;;
+35551,25,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35552,26,чихи,„»’,S inan nom pl,,,и,х,и,ч,,,S,„»’,S m inan acc pl;;;
+35553,27,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35554,28,кашли, јЎ≈Ћ№,S inan nom pl,,,и,л,ш,а,к,,S, јЎ≈Ћ№,S f inan nom sg;;;
+35555,29,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35556,,,,,,,,,,,,,,,;;;
+35557,1,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35558,2,вс€,¬≈—№,APRO nom sg plen f,,,€,с,в,,,,A,¬≈—№,A - nom sg plen f -;;;
+35559,3,эта,Ё“ќ“,APRO nom sg plen f,,,а,т,э,,,,A,Ё“ќ“,A - nom sg plen f -;;;
+35560,4,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35561,5,непри€тна€,Ќ≈ѕ–»я“Ќџ…,A nom sg plen f,,,€,а,н,т,€,и,A,Ќ≈ѕ–»я“Ќџ…,A - no;m;sg;plen f -
+35562,6,ерунда,≈–”Ќƒј,S f inan nom sg,,,а,д,н,у,р,е,S,≈–”Ќƒј,S f inan nom sg;;;
+35563,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35564,8,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35565,9,настроение,Ќј—“–ќ≈Ќ»≈,S n inan nom sg,,,е,и,н,е,о,р,S,Ќј—“–ќ≈Ќ»≈,S n in;an;no;m sg
+35566,10,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35567,11,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35568,12,дожд,ƒќ∆ƒ,NONLEX,слитно,,д,ж,о,д,,,S,ƒќ∆ƒ,S n inan nonflex nonflex;;;
+35569,13,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35570,14,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35571,15,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+35572,16,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35573,17,"","",_,,,,,,,,,,,_,18";;;
+35574,18,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+"35575,19,"","",_,,,,,,,,,,,_,18";;;
+35576,20,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35577,21,«апинка,«јѕ»Ќ ј,S f inan nom sg,,,а,к,н,и,п,а,S,«јѕ»Ќ ј,S f inan nom s;g;;
+35578,22,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35579,23,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35580,24,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35581,25,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35582,26,лива€,(дожд)Ћ»¬џ…,A nom sg plen f,distort,,€,а,в,и,л,,A,Ћ»¬џ…,A - nom;sg;pl;en f -
+35583,27,погода,ѕќ√ќƒј,S f inan nom sg,,,а,д,о,г,о,п,S,ѕќ√ќƒј,S f inan nom sg;;;
+35584,28,повли€ла,ѕќ¬Ћ»я“№,V pf intr act praet sg indic f,,,а,л,€,и,л,в,V,ѕќ¬Ћ»;я“;№,V;pf praet sg indic f -
+35585,29,очень,ќ„≈Ќ№,ADV -,,,ь,н,е,ч,о,,ADV,ќ„≈Ќ№,ADV -;;;
+35586,30,сильно,—»Ћ№Ќќ,ADV -,,,о,н,ь,л,и,с,ADV,—»Ћ№Ќќ,ADV -;;;
+35587,31,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35588,,,,,,,,,,,,,,,;;;
+35589,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35590,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35591,3,ѕр€м,ѕ–яћ,PART,distort,,м,€,р,п,,,A,ѕ–яћќ…,A - - sg brev m -;;;
+35592,4,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35593,5,вообще,¬ќќЅў≈,ADV -,,,е,щ,б,о,о,в,ADV,¬ќќЅў≈,ADV -;;;
+35594,6,поникший,ѕќЌ» Ќ”“№,V partcp pf praet acc sg plen m intr plen act,,,й,и,;ш,;к,и;,н,PARTCP,ѕќЌ» Ќ”“№,PARTCP pf praet acc sg plen m act inan
+35595,7,был,Ѕџ“№,V ipf intr act praet sg indic m,,,л,ы,б,,,,V,Ѕџ“№,V ipf praet;sg;in;dic m -
+35596,8,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35597,,,,,,,,,,,,,,,;;;
+35598,1,Ќо,Ќќ,CONJ,,,о,н,,,,,CONJ,Ќќ,CONJ;;;
+35599,2,все же,все же,PART,раздельно,,е,ж, ,е,с,в,ZERO,все же,ZERO;;;
+35600,3,собралс€,—ќЅ–ј“№—я,V pf intr act praet sg indic m,,,€,с,л,а,р,б,V,—ќЅ–ј;“№;—я,;V pf praet sg indic m -
+35601,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35602,5,вз€л,¬«я“№,V pf intr act praet sg indic m,,,л,€,з,в,,,V,¬«я“№,V pf prae;t;sg;indic m -
+35603,6,себ€,—≈Ѕя,SPRO anim acc,,,€,б,е,с,,,SPRO,—≈Ѕя,SPRO - - - acc;;;
+35604,7,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35605,8,руки,–” ј,S f inan acc pl,,,и,к,у,р,,,S,–” ј,S f inan acc pl;;;
+35606,9,и...,»...,CONJ,раздельно,,,,,и,,,CONJ,»...,CONJ;;;
+35607,10,иду,»ƒ“»,V ipf intr act praes sg indic - 1p,,,у,д,и,,,,V,»ƒ“»,V ipf pr;ae;s s;g indic - 1p
+35608,11,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+35609,12,ќлимп,ќЋ»ћѕ,S m inan acc sg,,,п,м,и,л,о,,S,ќЋ»ћѕ,S m inan acc sg;;;
+35610,13,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35611,,,,,,,,,,,,,,,;;;
+35612,1,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35613,2,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35614,3,эмм,Ёћћ,S f inan nom sg,distort,,м,м,э,,,,S,Ёћћј,S f inan nom sg;;;
+35615,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35616,,,,,,,,,,,,,,,;;;
+35617,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35618,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35619,3,ћне,я,SPRO anim sg 1p - loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+35620,4,очень,ќ„≈Ќ№,ADV -,,,ь,н,е,ч,о,,ADV,ќ„≈Ќ№,ADV -;;;
+35621,5,нравитс€,Ќ–ј¬»“№—я,V ipf intr med praes sg indic - 3p,,,€,с,т,и,в,а,V,Ќ;–ј;¬»“;№—я,V ipf praes sg indic - 3p
+35622,6,учитьс€,”„»“№—я,V ipf med intr inf,,,€,с,ь,т,и,ч,V,”„»“№—я,V ipf - - in;f;- -;
+35623,7,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35624,8,своем,—¬ќ…,APRO loc sg plen m,,,м,е,о,в,с,,A,—¬ќ…,A - loc sg plen m -;;;
+35625,9,университете,”Ќ»¬≈–—»“≈“,S m inan loc sg,,,е,т,е,т,и,с,S,”Ќ»¬≈–—»“≈“,S;m;ina;n loc sg
+35626,10,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35627,11,мне,я,SPRO anim sg 1p - loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+35628,12,нравитс€,Ќ–ј¬»“№—я,V ipf intr med praes sg indic - 3p,,,€,с,т,и,в,а,V,;Ќ–;ј¬»;“№—я,V ipf praes sg indic - 3p
+35629,13,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35630,14,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35631,15,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35632,16,это,Ё“ќ,APRO n nom sg plen,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35633,17,место,ћ≈—“ќ,S n inan nom sg,,,о,т,с,е,м,,S,ћ≈—“ќ,S n inan nom sg;;;
+35634,18,потому,ѕќ“ќћ”,ADV -,,,у,м,о,т,о,п,ADV,ѕќ“ќћ”,ADV -;;;
+35635,19,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35636,20,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35637,21,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35638,22,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35639,23,оно,ќЌќ,SPRO inan sg 3p n nom,,,о,н,о,,,,SPRO,ќЌќ,SPRO sg 3p n nom;;;
+35640,24,не,Ќ≈,PART,,,е,н,,,,,PART,Ќ≈,PART;;;
+35641,25,нуж...,Ќ”∆...,NONLEX,слитно,,,,,ж,у,н,S,Ќ”∆...,S m inan acc sg;;;
+35642,26,нуждаетс€,Ќ”∆ƒј“№—я,V ipf intr med praes sg indic - 3p,,,€,с,т,е,а,д,V;,Ќ;”∆ƒ;ј“№—я,V ipf praes sg indic - 3p
+35643,27,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35644,28,лишней,Ћ»ЎЌ»…,A dat sg plen f,,,й,е,н,ш,и,л,A,Ћ»ЎЌ»…,A - dat sg plen f;-;;
+35645,29,рекламе,–≈ Ћјћј,S f inan dat sg,,,е,м,а,л,к,е,S,–≈ Ћјћј,S f inan dat s;g;;
+35646,30,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35647,31,как, ј ,CONJ,,,к,а,к,,,,CONJ, ј ,CONJ;;;
+35648,32,некоторые,Ќ≈ ќ“ќ–џ…,A nom pl plen,,,е,ы,р,о,т,о,A,Ќ≈ ќ“ќ–џ…,A - nom pl;p;len;- -
+35649,33,вузы,¬”«,S inan nom pl,,,ы,з,у,в,,,S,¬”«,S m inan nom pl;;;
+35650,34,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35651,35,например,Ќјѕ–»ћ≈–,ADV -,,,р,е,м,и,р,п,ADV,Ќјѕ–»ћ≈–,ADV -;;;
+35652,36,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35653,37,—инерги€,—»Ќ≈–√»я,S m inan gen sg,,,€,и,г,р,е,н,S,—»Ќ≈–√»я,S m inan ge;n;sg;
+35654,38,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35655,,,,,,,,,,,,,,,;;;
+35656,1,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35657,2,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35658,3,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+35659,4,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35660,5,"","",_,,,,,,,,,,,_,6";;;
+35661,6,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+"35662,7,"","",_,,,,,,,,,,,_,6";;;
+35663,8,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35664,9,√овор€т,√ќ¬ќ–»“№,V ipf tran act praes pl indic - 3p,,,т,€,р,о,в,о,V,√ќ¬;ќ–;»“№;,V ipf praes pl indic - 3p
+35665,10,одновременно,ќƒЌќ¬–≈ћ≈ЌЌќ,ADV -,,,о,н,н,е,м,е,ADV,ќƒЌќ¬–≈ћ≈ЌЌќ,ADV -;;;
+35666,11,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35667,12,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35668,13,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35669,14,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35670,15,Ёээ...,ЁЁЁ...,INTJ,distort,,,,,э,э,э,NONLEX,ЁЁЁ...,NONLEX;;;
+35671,16,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35672,17,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35673,,,,,,,,,,,,,,,;;;
+35674,1,Ёлина,ЁЋ»Ќј,S f anim nom sg persn,,,а,н,и,л,э,,S,ЁЋ»Ќј,S f anim nom sg;;;
+35675,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35676,3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35677,4,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35678,5,class,CLASS,NONLEX,,,,,,,,,NONLEX,CLASS,NONLEX;;;
+35679,6,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35680,7,"","",_,,,,,,,,,,,_,6";;;
+35681,8,note,NOTE,NONLEX,,,,,,,,,NONLEX,NOTE,NONLEX;;;
+35682,9,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35683,10,смех,—ћ≈’,S m inan nom sg,,,х,е,м,с,,,S,—ћ≈’,S m inan nom sg;;;
+35684,11,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35685,12,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35686,13,span,SPAN,NONLEX,,,,,,,,,NONLEX,SPAN,NONLEX;;;
+35687,14,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35688,15,Ёто,Ё“ќ,SPRO n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35689,16,идеальный,»ƒ≈јЋ№Ќџ…,A nom sg plen m,,,й,ы,н,ь,л,а,A,»ƒ≈јЋ№Ќџ…,A - nom;sg;pl;en m -
+35690,17,вуз,¬”«,S m inan nom sg abbr,,,з,у,в,,,,S,¬”«,S m inan nom sg;;;
+35691,18,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35692,19,ты,“џ,SPRO sg anim 2p - nom,,,ы,т,,,,,SPRO,“џ,SPRO sg 2p - nom;;;
+35693,20,чего,„≈√ќ,ADV -,,,о,г,е,ч,,,ADV,„≈√ќ,ADV -;;;
+35694,21,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35695,,,,,,,,,,,,,,,;;;
+35696,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35697,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35698,3, онечно, ќЌ≈„Ќќ,PARENTH,,,о,н,ч,е,н,о,ADV, ќЌ≈„Ќќ,ADV -;;;
+35699,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35700,5,идеальный,»ƒ≈јЋ№Ќџ…,A nom sg plen m,,,й,ы,н,ь,л,а,A,»ƒ≈јЋ№Ќџ…,A - nom s;g;ple;n m -
+35701,6,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35702,,,,,,,,,,,,,,,;;;
+35703,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35704,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35705,3,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35706,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35707,,,,,,,,,,,,,,,;;;
+35708,1,Ёмм,Ёћћ,S f anim acc pl,distort,,м,м,э,,,,S,Ёћћј,S f anim acc pl;;;
+35709,2,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35710,,,,,,,,,,,,,,,;;;
+35711,1,Ёто,Ё“ќ,SPRO n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35712,2,место,ћ≈—“ќ,S n inan nom sg,,,о,т,с,е,м,,S,ћ≈—“ќ,S n inan nom sg;;;
+35713,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35714,4,о,ќ,PR,,,о,,,,,,PR,ќ,PR;;;
+35715,5,котором, ќ“ќ–џ…,APRO loc sg plen m,,,м,о,р,о,т,о,A, ќ“ќ–џ…,A - loc sg p;le;n m;-
+35716,6,знают,«Ќј“№,V ipf tran act praes pl indic - 3p,,,т,ю,а,н,з,,V,«Ќј“№,V i;pf;pr;aes pl indic - 3p
+35717,7,те,“ќ“,APRO nom pl plen,,,е,т,,,,,A,“ќ“,A - acc pl plen - inan;;;
+35718,8,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35719,9,кому, “ќ,SPRO m dat sg anim,,,у,м,о,к,,,S, “ќ,S m - dat sg;;;
+35720,10,надо,Ќјƒќ,ADV -,,,о,д,а,н,,,ADV,Ќјƒќ,ADV -;;;
+35721,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35722,12,то есть,то есть,PART,раздельно,,ь,т,с,е, ,о,-,то есть,-;;;
+35723,13,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35724,14,считаю,—„»“ј“№,V ipf tran act praes sg indic - 1p,,,ю,а,т,и,ч,с,V,—„»“;ј“;№,V;ipf praes sg indic - 1p
+35725,15,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35726,16,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35727,17,это,Ё“ќ,SPRO n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35728,18,отличное,ќ“Ћ»„Ќџ…,A nom sg plen n,,,е,о,н,ч,и,л,A,ќ“Ћ»„Ќџ…,A - nom sg;pl;en;n -
+35729,19,качественное, ј„≈—“¬≈ЌЌџ…,A nom sg plen n,,,е,о,н,н,е,в,A, ј„≈—“¬≈ЌЌџ…;,A;-;nom sg plen n -
+35730,20,место,ћ≈—“ќ,S n inan nom sg,,,о,т,с,е,м,,S,ћ≈—“ќ,S n inan nom sg;;;
+35731,21,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35732,,,,,,,,,,,,,,,;;;
+35733,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35734,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35735,3,»,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35736,4,даже,ƒј∆≈,PART,,,е,ж,а,д,,,PART,ƒј∆≈,PART;;;
+35737,5,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35738,6,аа,јј,INTJ,distort,,а,а,,,,,NONLEX,јј,NONLEX;;;
+35739,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35740,8,если,≈—Ћ»,CONJ,,,и,л,с,е,,,CONJ,≈—Ћ»,CONJ;;;
+35741,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35742,10,провер€ть,ѕ–ќ¬≈–я“№,V ipf tran inf act,,,ь,т,€,р,е,в,V,ѕ–ќ¬≈–я“№,V ipf;-;-;inf - -
+35743,11,по,ѕќ,PR,,,о,п,,,,,PR,ѕќ,PR;;;
+35744,12,бирже,Ѕ»–∆ј,S f inan loc sg,,,е,ж,р,и,б,,S,Ѕ»–∆ј,S f inan loc sg;;;
+35745,13,труда,“–”ƒ,S m inan gen sg,,,а,д,у,р,т,,S,“–”ƒ,S m inan gen sg;;;
+35746,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35747,15,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35748,16,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35749,17,не,Ќ≈,PART,,,е,н,,,,,PART,Ќ≈,PART;;;
+35750,18,найдетс€,Ќј…“»—№,V pf intr act fut sg indic - 3p,,,€,с,т,е,д,й,V,Ќј…“»;—№;,V;pf fut sg indic - 3p
+35751,19,ни,Ќ»,PART,,,и,н,,,,,PART,Ќ»,PART;;;
+35752,20,одного,ќƒ»Ќ,A gen sg plen m,,,о,г,о,н,д,о,A,ќƒ»Ќ,A - gen sg plen m -;;;
+35753,21,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35754,22,аа,јј,INTJ,distort,,а,а,,,,,NONLEX,јј,NONLEX;;;
+35755,23,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35756,24,выпускника,¬џѕ”— Ќ» ,S m anim gen sg,,,а,к,и,н,к,с,S,¬џѕ”— Ќ» ,S m ani;m;gen;sg
+35757,25,моего,ћќ…,APRO gen sg plen m,,,о,г,е,о,м,,A,ћќ…,A - gen sg plen m -;;;
+35758,26,университета,”Ќ»¬≈–—»“≈“,S m inan gen sg,,,а,т,е,т,и,с,S,”Ќ»¬≈–—»“≈“,S;m;in;an gen sg
+35759,27,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35760,28,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35761,29,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35762,30,который, ќ“ќ–џ…,APRO nom sg plen m,,,й,ы,р,о,т,о,A, ќ“ќ–џ…,A - nom sg;pl;en;m -
+35763,31,будет,Ѕџ“№,V ipf intr act praes sg indic - 3p,,,т,е,д,у,б,,V,Ѕџ“№,V ip;f;pra;es sg indic - 3p
+35764,32,свободен,—¬ќЅќƒЌџ…,A sg brev m,,,н,е,д,о,б,о,A,—¬ќЅќƒЌџ…,A - - sg brev;m;-;
+35765,33,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35766,,,,,,,,,,,,,,,;;;
+35767,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35768,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35769,3,“о есть,“о есть,PART,раздельно,,ь,т,с,е, ,о,-,“о есть,-;;;
+35770,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35771,5,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35772,6,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35773,7,практически,ѕ–ј “»„≈— »,ADV -,,,и,к,с,е,ч,и,ADV,ѕ–ј “»„≈— »,ADV -;;;
+35774,8,полностью,ѕќЋЌќ—“№ё,ADV -,,,ю,ь,т,с,о,н,ADV,ѕќЋЌќ—“№ё,ADV -;;;
+35775,9,в...,¬...,PR,distort,,,,,в,,,PR,¬...,PR;;;
+35776,10,вуз,¬”«,S m inan acc sg abbr,,,з,у,в,,,,S,¬”«,S m inan acc sg;;;
+35777,11,обеспечивает,ќЅ≈—ѕ≈„»¬ј“№,V ipf tran act praes sg indic - 3p,,,т,е,а,в;,и;,ч,;V,ќЅ≈—ѕ≈„»¬ј“№,V ipf praes sg indic - 3p
+35778,12,тру...,тру...,NONLEX,слитно,,,,,у,р,т,A,“–”...,A - loc pl plen - -;;;
+35779,13,трудообес,трудообес,NONLEX,слитно,,с,е,б,о,о,д,S,“–”ƒќќЅ≈—,S m inan ac;c;sg;
+35780,14,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35781,,,,,,,,,,,,,,,;;;
+35782,1, ак, ј ,ADV -,,,к,а,к,,,,ADV, ј ,ADV -;;;
+35783,2,это,Ё“ќ,SPRO n inan acc sg,,,о,т,э,,,,S,Ё“ќ,S n inan acc sg;;;
+35784,3,сказать,— ј«ј“№,V pf tran inf act,,,ь,т,а,з,а,к,V,— ј«ј“№,V pf - - inf;-;-;
+35785,4,?,?,SENT,,,,,,,,,SENT,?,SENT;;;
+35786,,,,,,,,,,,,,,,;;;
+35787,1,Ёлина,ЁЋ»Ќј,S f anim nom sg persn,,,а,н,и,л,э,,S,ЁЋ»Ќј,S f anim nom sg;;;
+35788,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35789,3,“рудоустройство,“–”ƒќ”—“–ќ…—“¬ќ,S n inan nom sg,,,о,в,т,с,й,о,S,“–”ƒќ”—;“–;ќ…—;“¬ќ,S f inan nom sg
+35790,4,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35791,,,,,,,,,,,,,,,;;;
+35792,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35793,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35794,3,“рудоустройство,“–”ƒќ”—“–ќ…—“¬ќ,S n inan acc sg,,,о,в,т,с,й,о,S,“–”ƒќ”—;“–;ќ…—;“¬ќ,S n inan acc sg
+35795,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35796,5,да,ƒј,PART,,,а,д,,,,,CONJ,ƒј,CONJ;;;
+35797,6,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35798,7,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35799,8,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35800,9,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35801,10,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35802,11,"","",_,,,,,,,,,,,_,12";;;
+35803,12,прайльно,ѕ–ј…Ћ№Ќќ,ADV -,distort,,о,н,ь,л,й,а,ADV,ѕ–ј…Ћ№Ќќ,ADV -;;;
+"35804,13,"","",_,,,,,,,,,,,_,12";;;
+35805,14,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35806,15,правильно,ѕ–ј¬»Ћ№Ќќ,ADV -,,,о,н,ь,л,и,в,ADV,ѕ–ј¬»Ћ№Ќќ,ADV -;;;
+35807,16,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35808,17,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35809,18,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35810,19,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35811,20,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35812,,,,,,,,,,,,,,,;;;
+35813,1,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35814,2,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35815,3,своим,—¬ќ…,APRO ins pl plen ,,,м,и,о,в,с,,A,—¬ќ…,A - ins sg plen m -;;;
+35816,4,выпускникам,¬џѕ”— Ќ» ,S anim dat pl,,,м,а,к,и,н,к,S,¬џѕ”— Ќ» ,S m anim;da;t p;l
+35817,5,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35818,,,,,,,,,,,,,,,;;;
+35819,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35820,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35821,3,Ёто,Ё“ќ,SPRO n sg nom inan ,,,о,т,э,,,,PART,Ё“ќ,PART;;;
+35822,4,ш...,Ў...,NONLEX,distort,,,,,ш,,,S,Ў...,S - - nonflex nonflex;;;
+35823,5,это,Ё“ќ,SPRO n sg nom inan ,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35824,6,очень,ќ„≈Ќ№,ADV -,,,ь,н,е,ч,о,,ADV,ќ„≈Ќ№,ADV -;;;
+35825,7,радует,–јƒќ¬ј“№,V ipf tran act praes sg indic - 3p,,,т,е,у,д,а,р,V,–јƒќ;¬ј;“№,;V ipf praes sg indic - 3p
+35826,8,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35827,9,стимулирует,—“»ћ”Ћ»–ќ¬ј“№,V ipf tran act praes sg indic - 3p,,,т,е,у,р,;и,;л,V;,—“»ћ”Ћ»–ќ¬ј“№,V ipf praes sg indic - 3p
+35828,10,учитьс€,”„»“№—я,V ipf intr inf med,,,€,с,ь,т,и,ч,V,”„»“№—я,V ipf - - i;nf;-;-
+35829,11,дальше,ƒјЋ≈ ќ,ADV comp,,,е,ш,ь,л,а,д,ADV,ƒјЋ≈ ќ,ADV comp;;;
+35830,12,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35831,,,,,,,,,,,,,,,;;;
+35832,1,¬оот,¬ќќ“,PART,distort,,т,о,о,в,,,S,¬ќќ“,S m inan nonflex nonflex;;;
+35833,2,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35834,,,,,,,,,,,,,,,;;;
+35835,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35836,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35837,3,¬се,¬≈—№,APRO nom pl plen,,,е,с,в,,,,A,¬≈—№,A - nom pl plen - -;;;
+35838,4,люди,„≈Ћќ¬≈ ,S anim nom pl,,,и,д,ю,л,,,S,„≈Ћќ¬≈ ,S m anim nom pl;;;
+35839,5,очень,ќ„≈Ќ№,ADV -,,,ь,н,е,ч,о,,ADV,ќ„≈Ќ№,ADV -;;;
+35840,6,приветливые,ѕ–»¬≈“Ћ»¬џ…,A nom pl plen,,,е,ы,в,и,л,т,A,ѕ–»¬≈“Ћ»¬џ…,A - n;om;pl;plen - -
+35841,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35842,8,то есть,то есть,PART,раздельно,,ь,т,с,е, ,о,-,то есть,-;;;
+35843,9,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35844,10,эм,Ёћ,INTJ,distort,,м,э,,,,,S,Ёћ,S n inan nonflex nonflex;;;
+35845,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35846,12,вуз,¬”«,S m inan nom sg abbr,,,з,у,в,,,,S,¬”«,S m inan nom sg;;;
+35847,13,маленький,ћјЋ≈Ќ№ »…,A nom sg plen m,,,й,и,к,ь,н,е,A,ћјЋ≈Ќ№ »…,A - nom;sg;pl;en m -
+35848,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35849,15,узконаправленный,”« ќЌјѕ–ј¬Ћ≈ЌЌџ…,A nom sg plen m,,,й,ы,н,н,е,л,A,”« ќ;Ќј;ѕ–ј;¬Ћ≈ЌЌџ…,A - gen sg plen m -
+35850,16,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35851,17,поэтому,ѕќЁ“ќћ”,ADV -,,,у,м,о,т,э,о,ADV,ѕќЁ“ќћ”,ADV -;;;
+35852,18,все,¬—≈,SPRO nom pl anim,,,е,с,в,,,,S,¬—≈,S - - nom pl;;;
+35853,19,очень,ќ„≈Ќ№,ADV -,,,ь,н,е,ч,о,,ADV,ќ„≈Ќ№,ADV -;;;
+35854,20,хорошо,’ќ–ќЎќ,ADV -,,,о,ш,о,р,о,х,ADV,’ќ–ќЎќ,ADV -;;;
+35855,21,друг,ƒ–”√,S anim nom sg m,,,г,у,р,д,,,S,ƒ–”√,S - - nom sg;;;
+35856,22,друга,ƒ–”√,S m anim acc sg,,,а,г,у,р,д,,S,ƒ–”√,S - - acc sg;;;
+35857,23,знают,«Ќј“№,V ipf tran act praes pl indic - 3p,,,т,ю,а,н,з,,V,«Ќј“№,V;ip;f p;raes pl indic - 3p
+35858,24,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35859,25,все,¬—≈,SPRO nom pl anim,,,е,с,в,,,,S,¬—≈,S - - nom pl;;;
+35860,26,сплочены,—ѕЋќ“»“№,V partcp tran pf praet pl brev pass,,,ы,н,е,ч,о,л,PA;RT;CP,;—ѕЋќ“»“№,PARTCP pf praet - pl brev - pass -
+35861,27,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35862,,,,,,,,,,,,,,,;;;
+35863,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35864,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35865,3,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35866,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35867,5,и...,»...,CONJ,distort,,,,,и,,,CONJ,»...,CONJ;;;
+35868,6,это,Ё“ќ,SPRO n nom sg inan,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35869,7,помогает,ѕќћќ√ј“№,V ipf praes intr act sg indic - 3p,,,т,е,а,г,о,м,V,ѕќ;ћќ;√ј“;№,V ipf praes sg indic - 3p
+35870,8,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+35871,9,как..., ј ...,ADV -,distort,,,,,к,а,к,ADV, ј ...,ADV -;;;
+35872,10,учитьс€,”„»“№—я,V ipf inf intr med,,,€,с,ь,т,и,ч,V,”„»“№—я,V ipf - - i;nf;-;-
+35873,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35874,12,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35875,13,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35876,14,так и,так и,CONJ,раздельно,,и, ,к,а,т,,ZERO,так и,ZERO;;;
+35877,15,прогрессировать,ѕ–ќ√–≈——»–ќ¬ј“№,V ipf intr act inf,,,ь,т,а,в,о,р,V,ѕ–ќ;√–;≈——;»–ќ¬ј“№,V ipf - - inf - -
+35878,16,как-то, ј -“ќ,ADV -,слитно,,о,т,,к,а,к,ADV, ј -“ќ,ADV -;;;
+35879,17,внутренне,¬Ќ”“–≈ЌЌ≈,ADV -,,,е,н,н,е,р,т,ADV,¬Ќ”“–≈ЌЌ≈,ADV -;;;
+35880,18,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35881,19,раскрывать,–ј— –џ¬ј“№,V ipf tran act inf,,,ь,т,а,в,ы,р,V,–ј— –џ¬ј“№,V;ip;f -;- inf - -
+35882,20,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35883,21,себе,—≈Ѕя,SPRO anim loc,,,е,б,е,с,,,SPRO,—≈Ѕя,SPRO - - - loc;;;
+35884,22,новые,Ќќ¬џ…,A acc pl plen,,,е,ы,в,о,н,,A,Ќќ¬џ…,A - acc pl plen - inan;;;
+35885,23,таланты,“јЋјЌ“,S inan acc pl,,,ы,т,н,а,л,а,S,“јЋјЌ“,S m inan acc pl;;;
+35886,24,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35887,25,показывать,ѕќ ј«џ¬ј“№,V ipf tran act inf,,,ь,т,а,в,ы,з,V,ѕќ ј«џ¬ј“№,V;ip;f -;- inf - -
+35888,26,всем,¬—≈,SPRO anim dat pl,,,м,е,с,в,,,S,¬—≈,S - - dat pl;;;
+35889,27,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35890,28,что,„“ќ,CONJ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35891,29,ты,“џ,SPRO sg 2p - nom anim,,,ы,т,,,,,SPRO,“џ,SPRO sg 2p - nom;;;
+35892,30,уже,”∆≈,ADV -,,,е,ж,у,,,,ADV,”∆≈,ADV -;;;
+35893,31,умеешь,”ћ≈“№,V ipf intr act praes sg indic - 2p,,,ь,ш,е,е,м,у,V,”ћ≈“№,;V;ipf;praes sg indic - 2p
+35894,32,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35895,,,,,,,,,,,,,,,;;;
+35896,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35897,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35898,3,Ёээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35899,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35900,,,,,,,,,,,,,,,;;;
+35901,1,“о есть,“о есть,PART,раздельно,,ь,т,с,е, ,о,-,“о есть,-;;;
+35902,2,это,Ё“ќ,INTJ,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35903,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35904,4,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35905,5,считаю,—„»“ј“№,V ipf tran act praes sg indic - 1p,,,ю,а,т,и,ч,с,V,—„»“ј;“№;,V;ipf praes sg indic - 1p
+35906,6,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35907,7,мой,ћќ…,APRO nom sg plen m,,,й,о,м,,,,A,ћќ…,A - nom sg plen m -;;;
+35908,8,университет,”Ќ»¬≈–—»“≈“,S m inan nom sg,,,т,е,т,и,с,р,S,”Ќ»¬≈–—»“≈“,S m;i;nan;nom sg
+35909,9,-,-,PUNC,,,,,,,,,PUNC,-,PUNC;;;
+35910,10,это,Ё“ќ,SPRO n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+35911,11,лучша€,Ћ”„Ў»…,A supr nom sg plen f,,,€,а,ш,ч,у,л,A,Ћ”„Ў»…,A supr nom s;g;ple;n f -
+35912,12,площадка,ѕЋќўјƒ ј,S f inan nom sg,,,а,к,д,а,щ,о,S,ѕЋќўјƒ ј,S f inan no;m;sg;
+35913,13,дл€,ƒЋя,PR,,,€,л,д,,,,PR,ƒЋя,PR;;;
+35914,14,мен€,я,SPRO sg 1p - acc anim,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35915,15,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35916,16,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+35917,17,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35918,18,с,—,PR,,,с,,,,,,PR,—,PR;;;
+35919,19,которой, ќ“ќ–џ…,APRO loc sg plen f,,,й,о,р,о,т,о,A, ќ“ќ–џ…,A - loc sg;pl;en;f -
+35920,20,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35921,21,могу...,ћќ„№...,V ipf intr praes sg indic act - 1p,distort,,,,,у,г,о,V;,ћ;ќ„№;...,V ipf praes sg indic - 1p
+35922,22,добитьс€,ƒќЅ»“№—я,V pf intr inf,,,€,с,ь,т,и,б,V,ƒќЅ»“№—я,V pf - - inf;-;-;
+35923,23,каких-то, ј ќ…-“ќ,A acc pl plen,слитно,,о,т,,х,и,к,A, ј ќ…-“ќ,A - acc;pl;pl;en - anim
+35924,24,высот,¬џ—ќ“ј,S inan gen pl,,,т,о,с,ы,в,,S,¬џ—ќ“ј,S f inan gen pl;;;
+35925,25,дальше,ƒјЋ≈ ќ,ADV comp,,,е,ш,ь,л,а,д,ADV,ƒјЋ≈ ќ,ADV comp;;;
+35926,26,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35927,,,,,,,,,,,,,,,;;;
+35928,1,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35929,2,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35930,3,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+35931,4,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"35932,5,"","",_,,,,,,,,,,,_,6";;;
+35933,6,воооот,¬ќќќќ“,NONLEX,distort,,т,о,о,о,о,в,S,¬ќќќќ“,S n inan nonflex non;fl;ex;
+"35934,7,"","",_,,,,,,,,,,,_,8";;;
+35935,8,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35936,9,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+35937,10,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+35938,11,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+35939,12,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+35940,13,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+35941,14,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35942,,,,,,,,,,,,,,,;;;
+35943,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35944,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35945,3,„то,„“ќ,S inan n sg acc,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+35946,4,еще,≈ў≈,ADV -,,,е,щ,е,,,,ADV,≈ў≈,ADV -;;;
+35947,5,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35948,6,могу,ћќ„№,V ipf intr praes sg indic act - 1p,,,у,г,о,м,,,V,ћќ„№,V ipf p;ra;es;sg indic - 1p
+35949,7,рассказать,–ј—— ј«ј“№,V pf tran inf act,,,ь,т,а,з,а,к,V,–ј—— ј«ј“№,V pf;-;-;inf - -
+35950,8,?,?,SENT,,,,,,,,,SENT,?,SENT;;;
+35951,,,,,,,,,,,,,,,;;;
+35952,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35953,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35954,3,я,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35955,4,могу,ћќ„№,V ipf intr praes sg indic act - 1p,,,у,г,о,м,,,V,ћќ„№,V ipf p;ra;es;sg indic - 1p
+35956,5,рассказать,–ј—— ј«ј“№,V pf tran inf act,,,ь,т,а,з,а,к,V,–ј—— ј«ј“№,V pf;-;-;inf - -
+35957,6,о,ќ,PR,,,о,,,,,,PR,ќ,PR;;;
+35958,7,ск...,— ...,NONLEX,distort,,,,,к,с,,S,— ...,S m inan nonflex nonflex;;;
+35959,8,своих,—¬ќ…,A gen pl plen,,,х,и,о,в,с,,A,—¬ќ…,A - gen pl plen - -;;;
+35960,9,каких-то, ј ќ…-“ќ,A gen pl plen,слитно,,о,т,,х,и,к,A, ј ќ…-“ќ,A - gen p;l;ple;n - -
+35961,10,хобби,’ќЅЅ»,S n inan nonflex,,,и,б,б,о,х,,S,’ќЅЅ»,S n inan nonflex non;fl;ex;
+35962,11,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35963,12,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35964,13,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35965,,,,,,,,,,,,,,,;;;
+35966,1,¬,¬,PR,,,в,,,,,,PR,¬,PR;;;
+35967,2,данный,ƒјЌЌџ…,A acc sg plen m,,,й,ы,н,н,а,д,A,ƒјЌЌџ…,A - acc sg plen m;in;an;
+35968,3,момент,ћќћ≈Ќ“,S m inan acc sg,,,т,н,е,м,о,м,S,ћќћ≈Ќ“,S m inan acc sg;;;
+35969,4,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35970,5,хочу,’ќ“≈“№,V ipf tran act praes sg indic - 1p,,,у,ч,о,х,,,V,’ќ“≈“№,V i;pf;pr;aes sg indic - 1p
+35971,6,научитьс€,Ќј”„»“№—я,V pf intr inf act,,,€,с,ь,т,и,ч,V,Ќј”„»“№—я,V pf -;-;inf;- -
+35972,7,играть,»√–ј“№,V ipf tran inf act,,,ь,т,а,р,г,и,V,»√–ј“№,V ipf - - inf -;-;;
+35973,8,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+35974,9,гитаре,√»“ј–ј,S f inan loc sg,,,е,р,а,т,и,г,S,√»“ј–ј,S f inan loc sg;;;
+35975,10,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+35976,,,,,,,,,,,,,,,;;;
+35977,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+35978,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+35979,3,јааа,јјјј,INTJ,distort,,а,а,а,а,,,S,јјјј,S m anim nonflex nonflex;;;
+35980,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+35981,,,,,,,,,,,,,,,;;;
+35982,1,я,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35983,2,пытаюсь,ѕџ“ј“№—я,V ipf intr med praes sg indic - 1p,,,ь,с,ю,а,т,ы,V,ѕџ“;ј“;№—я;,V ipf praes sg indic - 1p
+35984,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35985,4,ааа,јјј,INTJ,distort,,а,а,а,,,,S,јјј,S m inan nonflex nonflex;;;
+35986,5,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35987,6,как, ј ,CONJ,,,к,а,к,,,,CONJ, ј ,CONJ;;;
+35988,7,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+35989,8,уже,”∆≈,ADV -,,,е,ж,у,,,,ADV,”∆≈,ADV -;;;
+35990,9,сказал,— ј«ј“№,V pf tran act praet sg indic m,,,л,а,з,а,к,с,V,— ј«ј“№,V;p;f p;raet sg indic m -
+35991,10,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+35992,11,у,”,PR,,,у,,,,,,PR,”,PR;;;
+35993,12,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+35994,13,очень,ќ„≈Ќ№,ADV -,,,ь,н,е,ч,о,,ADV,ќ„≈Ќ№,ADV -;;;
+35995,14,мало,ћјЋќ,ADV -,,,о,л,а,м,,,ADV,ћјЋќ,ADV -;;;
+35996,15,св...,—¬...,NONLEX,distort,,,,,в,с,,S,—¬...,S m inan gen sg;;;
+35997,16,свободного,—¬ќЅќƒЌџ…,A gen sg plen n,,,о,г,о,н,д,о,A,—¬ќЅќƒЌџ…,A - gen;s;g p;len n -
+35998,17,времени,¬–≈ћя,S n inan gen sg,,,и,н,е,м,е,р,S,¬–≈ћя,S n inan gen sg;;;
+35999,18,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36000,19,пытаюсь,ѕџ“ј“№—я,V ipf intr act  praes sg indic - 1p,,,ь,с,ю,а,т,ы,V,ѕ;џ“;ј“№;—я,V ipf praes sg indic - 1p
+36001,20,впихнуть,¬ѕ»’Ќ”“№,V pf tran inf act,,,ь,т,у,н,х,и,V,¬ѕ»’Ќ”“№,V pf - -;in;f -;-
+36002,21,туда,“”ƒј,ADV -,,,а,д,у,т,,,ADV,“”ƒј,ADV -;;;
+36003,22,еще,≈ў≈,ADV -,,,е,щ,е,,,,ADV,≈ў≈,ADV -;;;
+36004,23,и,»,CONJ,,,и,,,,,,CONJ,»,CONJ;;;
+36005,24,зан€ти€,«јЌя“»≈,S inan nom pl,,,€,и,т,€,н,а,S,«јЌя“»≈,S n inan nom pl;;;
+36006,25,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+36007,26,гитаре,√»“ј–ј,S f inan loc sg,,,е,р,а,т,и,г,S,√»“ј–ј,S f inan loc sg;;;
+36008,27,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36009,28,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+36010,29,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+36011,,,,,,,,,,,,,,,;;;
+36012,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+36013,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+36014,3,“ак же,“ак же,ADV PART,раздельно,,е,ж, ,к,а,т,-,“ак же,-;;;
+36015,4,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+36016,5,пытаюсь,ѕџ“ј“№—я,V ipf intr med praes sg indic - 1p,,,ь,с,ю,а,т,ы,V,ѕџ“;ј“;№—я;,V ipf praes sg indic - 1p
+36017,6,самосто€тельно,—јћќ—“ќя“≈Ћ№Ќќ,ADV -,,,о,н,ь,л,е,т,ADV,—јћќ—“ќя“≈Ћ№Ќќ,AD;V;-;
+36018,7,выучить,¬џ”„»“№,V pf tran inf act,,,ь,т,и,ч,у,ы,V,¬џ”„»“№,V pf - - inf;-;-;
+36019,8,французский,‘–јЌ÷”«— »…,A acc sg plen m ,,,й,и,к,с,з,у,A,‘–јЌ÷”«— »…,A;-;acc;sg plen m inan
+36020,9,€зык,я«џ ,S m inan acc sg,,,к,ы,з,€,,,S,я«џ ,S m inan acc sg;;;
+36021,10,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36022,11,воот,¬ќќ“,PART,distort,,т,о,о,в,,,S,¬ќќ“,S n inan nonflex nonflex;;;
+36023,12,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36024,13,ээм,ЁЁћ,INTJ,distort,,м,э,э,,,,S,ЁЁћ,S n inan nonflex nonflex;;;
+36025,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36026,15,мне,я,SPRO anim sg 1p - loc,,,е,н,м,,,,SPRO,я,SPRO sg 1p - loc;;;
+36027,16,дали,ƒј“№,V tran pf indic act praet pl ,,,и,л,а,д,,,S,ƒјЋ№,S f inan lo;c;sg;
+36028,17,один,ќƒ»Ќ,A nom sg plen m,,,н,и,д,о,,,A,ќƒ»Ќ,A - nom sg plen m -;;;
+36029,18,год,√ќƒ,S m inan nom sg,,,д,о,г,,,,S,√ќƒ,S m inan nom sg;;;
+36030,19,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+36031,20,это,Ё“ќ,S n inan acc sg,,,о,т,э,,,,S,Ё“ќ,S n - acc sg;;;
+36032,21,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36033,22,чтобы,„“ќЅџ,CONJ,,,ы,б,о,т,ч,,CONJ,„“ќЅџ,CONJ;;;
+36034,23,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+36035,,,,,,,,,,,,,,,;;;
+36036,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+36037,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+36038,3,“ам,“јћ,ADV -,,,м,а,т,,,,ADV,“јћ,ADV -;;;
+36039,4,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36040,5,в,¬,PR,,,в,,,,,,PR,¬,PR;;;
+36041,6,общем,ќЅў≈≈,S loc sg inan m,,,м,е,щ,б,о,,A,ќЅў»…,A - loc sg plen m -;;;
+36042,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36043,8,там,“јћ,ADV -,,,м,а,т,,,,ADV,“јћ,ADV -;;;
+36044,9,сложности,—Ћќ∆Ќќ—“№,S f inan nom pl,,,и,т,с,о,н,ж,S,—Ћќ∆Ќќ—“№,S f inan;no;m p;l
+36045,10,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36046,11,конечно, ќЌ≈„Ќќ,ADV -,,,о,н,ч,е,н,о,ADV, ќЌ≈„Ќќ,ADV -;;;
+36047,12,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36048,13,там,“јћ,PART,,,м,а,т,,,,PART,“јћ,PART;;;
+36049,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36050,15,эээ,ЁЁЁ,INTJ,distort,,э,э,э,,,,NONLEX,ЁЁЁ,NONLEX;;;
+36051,16,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36052,17,это,Ё“ќ,S n inan nom sg,,,о,т,э,,,,S,Ё“ќ,S n - nom sg;;;
+36053,18,уже,”∆≈,ADV -,,,е,ж,у,,,,ADV,”∆≈,ADV -;;;
+36054,19,про,ѕ–ќ,PR,,,о,р,п,,,,PR,ѕ–ќ,PR;;;
+36055,20,вуз,¬”«,S m inan acc sg abbr,,,з,у,в,,,,S,¬”«,S m inan acc sg;;;
+36056,21,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36057,22,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+36058,23,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+36059,,,,,,,,,,,,,,,;;;
+36060,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+36061,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+36062,3,Ќо,Ќќ,CONJ,,,о,н,,,,,CONJ,Ќќ,CONJ;;;
+36063,4,у,”,PR,,,у,,,,,,PR,”,PR;;;
+36064,5,мен€,я,SPRO anim sg 1p - acc,,,€,н,е,м,,,SPRO,я,SPRO sg 1p - acc;;;
+36065,6,стоит,—“ќя“№,V ipf intr act praes sg indic - 3p,,,т,и,о,т,с,,V,—“ќя“№,V;i;pf;praes sg indic - 3p
+36066,7,задача,«јƒј„ј,S f inan nom sg,,,а,ч,а,д,а,з,S,«јƒј„ј,S f inan nom sg;;;
+36067,8,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36068,9,стоит,—“ќя“№,V ipf intr act praes sg indic - 3p,,,т,и,о,т,с,,V,—“ќя“№,V;i;pf;praes sg indic - 3p
+36069,10,цель,÷≈Ћ№,S f inan nom sg,,,ь,л,е,ц,,,S,÷≈Ћ№,S f inan nom sg;;;
+36070,11,выучить,¬џ”„»“№,V pf tran inf act,,,ь,т,и,ч,у,ы,V,¬џ”„»“№,V pf - - inf;-;-;
+36071,12,французский,‘–јЌ÷”«— »…,A acc sg plen m ,,,й,и,к,с,з,у,A,‘–јЌ÷”«— »…,A;-;ac;c sg plen m inan
+36072,13,€зык,я«џ ,S m inan acc sg,,,к,ы,з,€,,,S,я«џ ,S m inan acc sg;;;
+36073,14,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36074,15,там,“јћ,ADV -,,,м,а,т,,,,ADV,“јћ,ADV -;;;
+36075,16,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36076,17,до,ƒќ,PR,,,о,д,,,,,PR,ƒќ,PR;;;
+36077,18,определенного,ќѕ–≈ƒ≈Ћ≈ЌЌџ…,A gen sg plen m,,,о,г,о,н,н,е,A,ќѕ–≈ƒ≈Ћ≈ЌЌџ;…,;A -;gen sg plen m -
+36078,19,уровн€,”–ќ¬≈Ќ№,S m inan gen sg,,,€,н,в,о,р,у,S,”–ќ¬≈Ќ№,S m inan gen sg;;;
+36079,20,за,«ј,PR,,,а,з,,,,,PR,«ј,PR;;;
+36080,21,один,ќƒ»Ќ,A nom sg plen m,,,н,и,д,о,,,A,ќƒ»Ќ,A - acc sg plen m inan;;;
+36081,22,год,√ќƒ,S m inan acc sg,,,д,о,г,,,,S,√ќƒ,S m inan acc sg;;;
+36082,23,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36083,24,вот,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+36084,25,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+36085,,,,,,,,,,,,,,,;;;
+36086,1,јндрей,јЌƒ–≈…,S m anim nom sg persn,,,й,е,р,д,н,а,S,јЌƒ–≈…,S m anim nom;s;g;
+36087,2,@,@,PUNC,,,,,,,,,PUNC,@,PUNC;;;
+36088,3,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+36089,4,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+36090,5,form,FORM,NONLEX,,,,,,,,,NONLEX,FORM,NONLEX;;;
+36091,6,=,=,PUNC,,,,,,,,,PUNC,=,PUNC;;;
+"36092,7,"","",_,,,,,,,,,,,_,8";;;
+36093,8,тоисть,“ќ»—“№,NONLEX,distort,,ь,т,с,и,о,т,S,“ќ»—“№,S f inan acc sg;;;
+"36094,9,"","",_,,,,,,,,,,,_,8";;;
+36095,10,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+36096,11,“о есть,“о есть,PART,раздельно,,ь,т,с,е, ,о,-,“о есть,-;;;
+36097,12,<,<,PUNC,,,,,,,,,PUNC,<,PUNC;;;
+36098,13,/,/,PUNC,,,,,,,,,PUNC,/,PUNC;;;
+36099,14,distinct,DISTINCT,NONLEX,,,,,,,,,NONLEX,DISTINCT,NONLEX;;;
+36100,15,>,>,PUNC,,,,,,,,,PUNC,>,PUNC;;;
+36101,16,жизнь,∆»«Ќ№,S f inan nom sg,,,ь,н,з,и,ж,,S,∆»«Ќ№,S f inan nom sg;;;
+36102,17,кипит, »ѕ≈“№,V ipf intr act praes sg indic - 3p,,,т,и,п,и,к,,V, »ѕ≈“№,;V;ipf;praes sg indic - 3p
+36103,18,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36104,19,жизнь,∆»«Ќ№,S f inan nom sg,,,ь,н,з,и,ж,,S,∆»«Ќ№,S f inan nom sg;;;
+36105,20,не,Ќ≈,PART,,,е,н,,,,,PART,Ќ≈,PART;;;
+36106,21,стоит,—“ќ»“№,V ipf tran act praes sg indic - 3p,,,т,и,о,т,с,,V,—“ќ»“№,;V;ipf;praes sg indic - 3p
+36107,22,на,Ќј,PR,,,а,н,,,,,PR,Ќј,PR;;;
+36108,23,месте,ћ≈—“ќ,S n inan loc sg,,,е,т,с,е,м,,S,ћ≈—“ќ,S n inan loc sg;;;
+36109,24,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+36110,,,,,,,,,,,,,,,;;;
+36111,1,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+36112,2,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36113,3,аэмм,јЁћћ,INTJ,distort,,м,м,э,а,,,S,јЁћћ,S f inan nom sg;;;
+36114,4,...,...,SENT,,,,,,,,,SENT,...,SENT;;;
+36115,,,,,,,,,,,,,,,;;;
+36116,1,¬зросла€,¬«–ќ—Ћџ…,A nom sg plen f,,,€,а,л,с,о,р,A,¬«–ќ—Ћџ…,A - nom sg p;le;n f;-
+36117,2,жизнь,∆»«Ќ№,S f inan nom sg,,,ь,н,з,и,ж,,S,∆»«Ќ№,S f inan nom sg;;;
+36118,3,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36119,4,насто€ща€,Ќј—“ќяў»…,A nom sg plen f,,,€,а,щ,€,о,т,A,Ќј—“ќяў»…,A - nom s;g;ple;n f -
+36120,5,взросла€,¬«–ќ—Ћџ…,A nom sg plen f,,,€,а,л,с,о,р,A,¬«–ќ—Ћџ…,A - nom sg p;le;n f;-
+36121,6,жизнь,∆»«Ќ№,S f inan nom sg,,,ь,н,з,и,ж,,S,∆»«Ќ№,S f inan nom sg;;;
+36122,7,,,,,PUNC,,,,,,,,,PUNC,,,PUNC;;;
+36123,8,что,„“ќ,SPRO inan n sg nom ,,,о,т,ч,,,,CONJ,„“ќ,CONJ;;;
+36124,9,€,я,SPRO anim sg 1p - nom,,,€,,,,,,SPRO,я,SPRO sg 1p - nom;;;
+36125,10,могу,ћќ„№,V ipf intr act praes sg indic - 1p,,,у,г,о,м,,,V,ћќ„№,V ipf;pr;aes;sg indic - 1p
+36126,11,сказать,— ј«ј“№,V pf tran  inf act,,,ь,т,а,з,а,к,V,— ј«ј“№,V pf - - in;f;- -;
+36127,12,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+36128,,,,,,,,,,,,,,,;;;
+36129,1,¬от,¬ќ“,PART,,,т,о,в,,,,PART,¬ќ“,PART;;;
+36130,2,.,.,SENT,,,,,,,,,SENT,.,SENT;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
+,,,,,,,,,,,,,,,;;;
