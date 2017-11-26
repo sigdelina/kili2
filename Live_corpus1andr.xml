@@ -1,0 +1,1682 @@
+﻿	#	FORM	LEMMA	GRAM	COMMENT	CHECKED	RIGHT1	RIGHT2	RIGHT3	RIGHT4	RIGHT5	RIGHT6	POS	AUTO_LEMMA	AUTO_GRAM
+34485	#doc=sample_video_transcript.2.txt														
+34486	1	﻿	﻿	PUNC									PUNC	﻿	PUNC
+34487	2	Элина	ЭЛИНА	S f anim nom sg persn			а	н	и	л	э		S	ЭЛИНА	S f anim nom sg
+34488	3	@	@	PUNC									PUNC	@	PUNC
+34489	4	Так	ТАК	PARENTH			к	а	т				ADV	ТАК	ADV -
+34490	5					PUNC									PUNC			PUNC
+34491	6	согласен	СОГЛАСНЫЙ	A - - sg brev m -			н	е	с	а	л	г	A	СОГЛАСНЫЙ	A - - sg brev m -
+34492	7	ли	ЛИ	PART			и	л					PART	ЛИ	PART
+34493	8	ты	ТЫ	SPRO sg 2p - nom			ы	т					SPRO	ТЫ	SPRO sg 2p - nom
+34494	9					PUNC									PUNC			PUNC
+34495	10	чтобы	ЧТОБЫ	CONJ			ы	б	о	т	ч		CONJ	ЧТОБЫ	CONJ
+34496	11	твои	ТВОЙ	APRO acc pl			и	о	в	т			A	ТВОЙ	A - nom pl plen - -
+34497	12	данные	ДАННЫЕ	S - inan acc pl			е	ы	н	н	а	д	S	ДАННЫЕ	S - inan nom pl
+34498	13	потом	ПОТОМ	ADV -			м	о	т	о	п		ADV	ПОТОМ	ADV -
+34499	14	появились	ПОЯВИТЬСЯ	V pf praet pl indic act - -			ь	с	и	л	и	в	V	ПОЯВИТЬСЯ	V pf praet pl indic - -
+34500	15					PUNC									PUNC			PUNC
+34501	16	м	М	INTJ			м						S	М	S - - nonflex nonflex
+34502	17					PUNC									PUNC			PUNC
+34503	18	в	В	PR			в						S	В	S - - nonflex nonflex
+34504	19	<	<	PUNC									PUNC	<	PUNC
+34505	20	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34506	21	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34507	22	=	=	PUNC									PUNC	=	PUNC
+34508	23	"	"	_											_	24
+34509	24	интырнэте	интырнэте	S m inan loc sg	distort		е	т	э	н	р	ы	S	ИНТЫРНЭТА	S f anim loc sg
+34510	25	"	"	_											_	24
+34511	26	>	>	PUNC									PUNC	>	PUNC
+34512	27	инетернете	ИНЕТЕРНЕТ	S m inan loc sg			е	т	е	н	р	е	S	ИНЕТЕРНЕТ	S f inan nom sg
+34513	28	<	<	PUNC									PUNC	<	PUNC
+34514	29	/	/	PUNC									PUNC	/	PUNC
+34515	30	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34516	31	>	>	PUNC									PUNC	>	PUNC
+34517	32	в	В	PR			в						PR	В	PR
+34518	33	свободном	СВОБОДНЫЙ	A - loc sg plen m -			м	о	н	д	о	б	A	СВОБОДНЫЙ	A - loc sg plen m -
+34519	34	доступе	ДОСТУП	S m inan loc sg			е	п	у	т	с	о	S	ДОСТУП	S m inan loc sg
+34520	35	?	?	SENT									SENT	?	SENT
+34521															
+34522	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34523	2	@	@	PUNC									PUNC	@	PUNC
+34524	3	Да	ДА	PART			а	д					PART	ДА	PART
+34525	4					PUNC									PUNC			PUNC
+34526	5	конечно	КОНЕЧНО	PARENTH			о	н	ч	е	н	о	ADV	КОНЕЧНО	ADV -
+34527	6	.	.	SENT									SENT	.	SENT
+34528															
+34529	1	Элина	ЭЛИНА	S f anim nom sg persn			а	н	и	л	э		S	ЭЛИНА	S f anim nom sg
+34530	2	@	@	PUNC									PUNC	@	PUNC
+34531	3	Ну	НУ	INTJ			у	н					PART	НУ	PART
+34532	4					PUNC									PUNC			PUNC
+34533	5	все	ВСЕ	S n inan nom sg			е	с	в				S	ВСЕ	S - - acc pl
+34534	6					PUNC									PUNC			PUNC
+34535	7	в	В	PR			в						PR	В	PR
+34536	8	принципе	ПРИНЦИП	S m inan loc sg			е	п	и	ц	н	и	S	ПРИНЦИП	S m inan loc sg
+34537	9					PUNC									PUNC			PUNC
+34538	10	<	<	PUNC									PUNC	<	PUNC
+34539	11	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34540	12	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34541	13	=	=	PUNC									PUNC	=	PUNC
+34542	14	"	"	_											_	15
+34543	15	можш	можш	V ipf praes intr act sg indic 2p	distort		ш	ж	о	м			NONLEX	МОЖШ	NONLEX
+34544	16	"	"	_											_	15
+34545	17	>	>	PUNC									PUNC	>	PUNC
+34546	18	можешь	МОЧЬ	V ipf praes intr act sg indic 2p			ь	ш	е	ж	о	м	V	МОЧЬ	V ipf praes sg indic - 2p
+34547	19	<	<	PUNC									PUNC	<	PUNC
+34548	20	/	/	PUNC									PUNC	/	PUNC
+34549	21	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34550	22	>	>	PUNC									PUNC	>	PUNC
+34551	23	начинать	НАЧИНАТЬ	V ipf  intr inf act			ь	т	а	н	и	ч	V	НАЧИНАТЬ	V ipf - - inf - -
+34552	24	говорить	ГОВОРИТЬ	V ipf  intr inf act			ь	т	и	р	о	в	V	ГОВОРИТЬ	V ipf - - inf - -
+34553	25	.	.	SENT									SENT	.	SENT
+34554															
+34555	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34556	2	@	@	PUNC									PUNC	@	PUNC
+34557	3	Итак	ИТАК	PARENTH			к	а	т	и			CONJ	ИТАК	CONJ
+34558	4					PUNC									PUNC			PUNC
+34559	5	ну	НУ	INTJ			у	н					PART	НУ	PART
+34560	6	что	ЧТО	ADV			о	т	ч				S	ЧТО	S n - nom sg
+34561	7	ж	ж	PART	distort		ж						PART	Ж	PART
+34562	8	.	.	SENT									SENT	.	SENT
+34563															
+34564	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34565	2	@	@	PUNC									PUNC	@	PUNC
+34566	3	Меня	Я	SPRO sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+34567	4	попросили	ПОПРОСИТЬ	V tran pf indic  act praet pl 			и	л	и	с	о	р	V	ПОПРОСИТЬ	V pf praet pl indic - -
+34568	5	рассказать	РАССКАЗАТЬ	V pf tran inf act			ь	т	а	з	а	к	V	РАССКАЗАТЬ	V pf - - inf - -
+34569	6	о	О	PR			о						PR	О	PR
+34570	7	любом	ЛЮБОЙ	A loc sg plen m			м	о	б	ю	л		A	ЛЮБОЙ	A - loc sg plen m -
+34571	8	случае	СЛУЧАЙ	S m inan loc sg			е	а	ч	у	л	с	S	СЛУЧАЙ	S m inan loc sg
+34572	9					PUNC									PUNC			PUNC
+34573	10	каком-то	КАКОЙ-ТО	A loc sg plen m	слитно		о	т		м	о	к	A	КАКОЙ-ТО	A - loc sg plen m -
+34574	11					PUNC									PUNC			PUNC
+34575	12	из	ИЗ	PR			з	и					PR	ИЗ	PR
+34576	13	моей	МОЙ	APRO loc sg plen f			й	е	о	м			A	МОЙ	A - loc sg plen f -
+34577	14	жизни	ЖИЗНЬ	S f inan loc sg			и	н	з	и	ж		S	ЖИЗНЬ	S f inan loc sg
+34578	15					PUNC									PUNC			PUNC
+34579	16	ммм	МММ	INTJ	distort		м	м	м				S	МММ	S n inan loc sg
+34580	17	.	.	SENT									SENT	.	SENT
+34581															
+34582	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34583	2	@	@	PUNC									PUNC	@	PUNC
+34584	3	Я	Я	SPRO anim sg 1p - nom			я						S	Я	S - - nonflex nonflex
+34585	4					PUNC									PUNC			PUNC
+34586	5	<	<	PUNC									PUNC	<	PUNC
+34587	6	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34588	7	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34589	8	=	=	PUNC									PUNC	=	PUNC
+34590	9	"	"	_											_	10
+34591	10	наэрно	наэрно	PARENTH	distort		о	н	р	э	а	н	A	НАЭРНЫЙ	A - gen sg plen m -
+34592	11	"	"	_											_	10
+34593	12	>	>	PUNC									PUNC	>	PUNC
+34594	13	наверное	НАВЕРНОЕ	PARENTH			е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -
+34595	14	<	<	PUNC									PUNC	<	PUNC
+34596	15	/	/	PUNC									PUNC	/	PUNC
+34597	16	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34598	17	>	>	PUNC									PUNC	>	PUNC
+34599	18	наверное	НАВЕРНОЕ	PARENTH			е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -
+34600	19	расскажу	РАССКАЗАТЬ	V pf fut tran sg indic 1p act			у	ж	а	к	с	с	V	РАССКАЗАТЬ	V pf fut sg indic - 1p
+34601	20	<	<	PUNC									PUNC	<	PUNC
+34602	21	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34603	22	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34604	23	=	=	PUNC									PUNC	=	PUNC
+34605	24	"	"	_											_	25
+34606	25	пра	пра	PR	distort		а	р	п				S	ПРА	S f anim gen pl
+34607	26	"	"	_											_	25
+34608	27	>	>	PUNC									PUNC	>	PUNC
+34609	28	про	ПРО	PR			о	р	п				PR	ПРО	PR
+34610	29	<	<	PUNC									PUNC	<	PUNC
+34611	30	/	/	PUNC									PUNC	/	PUNC
+34612	31	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34613	32	>	>	PUNC									PUNC	>	PUNC
+34614	33	...	...	SENT									SENT	...	SENT
+34615															
+34616	1	Да	ДА	PARENTH			а	д					CONJ	ДА	CONJ
+34617	2	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34618	3	расскажу	РАССКАЗАТЬ	V pf fut tran sg indic 1p act			у	ж	а	к	с	с	V	РАССКАЗАТЬ	V pf fut sg indic - 1p
+34619	4	<	<	PUNC									PUNC	<	PUNC
+34620	5	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34621	6	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34622	7	=	=	PUNC									PUNC	=	PUNC
+34623	8	"	"	_											_	9
+34624	9	праа	праа	PR	distort		а	а	р	п			S	ПРАА	S m inan nonflex nonflex
+34625	10	"	"	_											_	9
+34626	11	>	>	PUNC									PUNC	>	PUNC
+34627	12	про	ПРО	PR			о	р	п				PR	ПРО	PR
+34628	13	<	<	PUNC									PUNC	<	PUNC
+34629	14	/	/	PUNC									PUNC	/	PUNC
+34630	15	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34631	16	>	>	PUNC									PUNC	>	PUNC
+34632	17	то	ТО	SPRO n inan sg acc			о	т					CONJ	ТО	CONJ
+34633	18					PUNC									PUNC			PUNC
+34634	19	что	ЧТО	SPRO n inan acc sg			о	т	ч				S	ЧТО	S n inan acc sg
+34635	20	<	<	PUNC									PUNC	<	PUNC
+34636	21	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34637	22	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34638	23	=	=	PUNC									PUNC	=	PUNC
+34639	24	"	"	_											_	25
+34640	25	щас	щас	ADV -	distort		с	а	щ				ADV	ЩАС	ADV -
+34641	26	"	"	_											_	25
+34642	27	>	>	PUNC									PUNC	>	PUNC
+34643	28	сейчас	СЕЙЧАС	ADV -			с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -
+34644	29	<	<	PUNC									PUNC	<	PUNC
+34645	30	/	/	PUNC									PUNC	/	PUNC
+34646	31	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34647	32	>	>	PUNC									PUNC	>	PUNC
+34648	33	происходит	ПРОИСХОДИТЬ	V ipf intr act praes sg indic - 3p			т	и	д	о	х	с	V	ПРОИСХОДИТЬ	V ipf praes sg indic - 3p
+34649	34	в	В	PR			в						PR	В	PR
+34650	35	моей	МОЙ	APRO - loc sg plen f -			й	е	о	м			A	МОЙ	A - loc sg plen f -
+34651	36	жизни	ЖИЗНЬ	S f inan loc sg			и	н	з	и	ж		S	ЖИЗНЬ	S f inan loc sg
+34652	37	.	.	SENT									SENT	.	SENT
+34653															
+34654	1	Элина	ЭЛИНА	S f anim nom sg persn			а	н	и	л	э		S	ЭЛИНА	S f anim nom sg
+34655	2	@	@	PUNC									PUNC	@	PUNC
+34656	3	Еее	ЕЕЕ	INTJ	distort		е	е	е				NONLEX	ЕЕЕ	NONLEX
+34657	4	.	.	SENT									SENT	.	SENT
+34658															
+34659	1	<	<	PUNC									PUNC	<	PUNC
+34660	2	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+34661	3	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+34662	4	=	=	PUNC									PUNC	=	PUNC
+34663	5	"	"	_											_	6
+34664	6	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+34665	7	>	>	PUNC									PUNC	>	PUNC
+34666	8	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+34667	9	<	<	PUNC									PUNC	<	PUNC
+34668	10	/	/	PUNC									PUNC	/	PUNC
+34669	11	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+34670	12	>	>	PUNC									PUNC	>	PUNC
+34671	13	.	.	SENT									SENT	.	SENT
+34672															
+34673	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34674	2	@	@	PUNC									PUNC	@	PUNC
+34675	3	Ха	ХА	INTJ	distort		а	х					INTJ	ХА	INTJ
+34676	4	.	.	SENT									SENT	.	SENT
+34677															
+34678	1	Я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34679	2	расскажу	РАССКАЗАТЬ	V pf intr fut sg indic - 1p			у	ж	а	к	с	с	V	РАССКАЗАТЬ	V pf fut sg indic - 1p
+34680	3	<	<	PUNC									PUNC	<	PUNC
+34681	4	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34682	5	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34683	6	=	=	PUNC									PUNC	=	PUNC
+34684	7	"	"	_											_	8
+34685	8	праа	праа	PR	distort		а	а	р	п			S	ПРАА	S m inan nonflex nonflex
+34686	9	"	"	_											_	8
+34687	10	>	>	PUNC									PUNC	>	PUNC
+34688	11	про	ПРО	PR			о	р	п				PR	ПРО	PR
+34689	12	<	<	PUNC									PUNC	<	PUNC
+34690	13	/	/	PUNC									PUNC	/	PUNC
+34691	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34692	15	>	>	PUNC									PUNC	>	PUNC
+34693	16	мои	МОЙ	APRO acc pl plen			и	о	м				A	МОЙ	A - nom pl plen - -
+34694	17	рабочие	РАБОЧИЙ	A acc pl plen			е	и	ч	о	б	а	A	РАБОЧИЙ	A - nom pl plen - -
+34695	18	будни	БУДНИ	S inan acc pl			и	н	д	у	б		S	БУДНИ	S - inan nom pl
+34696	19					PUNC									PUNC			PUNC
+34697	20	пожалуй	ПОЖАЛУЙ	PARENTH			й	у	л	а	ж	о	PART	ПОЖАЛУЙ	PART
+34698	21	.	.	SENT									SENT	.	SENT
+34699															
+34700	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34701	2	@	@	PUNC									PUNC	@	PUNC
+34702	3	Ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34703	4	...	...	SENT									SENT	...	SENT
+34704															
+34705	1	Итак	ИТАК	PARENTH			к	а	т	и			CONJ	ИТАК	CONJ
+34706	2					PUNC									PUNC			PUNC
+34707	3	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34708	4	сейчас	СЕЙЧАС	ADV -			с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -
+34709	5	сделал	СДЕЛАТЬ	V pf praet tran act sg indic m			л	а	л	е	д	с	V	СДЕЛАТЬ	V pf praet sg indic m -
+34710	6	большой	БОЛЬШОЙ	A acc sg plen m			й	о	ш	ь	л	о	A	БОЛЬШОЙ	A - nom sg plen m -
+34711	7	шаг	ШАГ	S m inan nom sg			г	а	ш				S	ШАГ	S m inan nom sg
+34712	8	в	В	PR			в						PR	В	PR
+34713	9	своей	СВОЙ	APRO loc sg plen f			й	е	о	в	с		A	СВОЙ	A - loc sg plen f -
+34714	10	жизни	ЖИЗНЬ	S f inan loc sg			и	н	з	и	ж		S	ЖИЗНЬ	S f inan loc sg
+34715	11					PUNC									PUNC			PUNC
+34716	12	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34717	13	<	<	PUNC									PUNC	<	PUNC
+34718	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34719	15	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34720	16	=	=	PUNC									PUNC	=	PUNC
+34721	17	"	"	_											_	18
+34722	18	щитаю	ЩИТАТЬ	V ipf praes tran sg indic act - 1p	distort		ю	а	т	и	щ		S	ЩИТАЙ	S m anim dat sg
+34723	19	"	"	_											_	18
+34724	20	>	>	PUNC									PUNC	>	PUNC
+34725	21	считаю	СЧИТАТЬ	V ipf praes tran sg indic act - 1p			ю	а	т	и	ч	с	V	СЧИТАТЬ	V ipf praes sg indic - 1p
+34726	22	<	<	PUNC									PUNC	<	PUNC
+34727	23	/	/	PUNC									PUNC	/	PUNC
+34728	24	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34729	25	>	>	PUNC									PUNC	>	PUNC
+34730	26					PUNC									PUNC			PUNC
+34731	27	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34732	28					PUNC									PUNC			PUNC
+34733	29	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34734	30					PUNC									PUNC			PUNC
+34735	31	движусь	ДВИГАТЬСЯ	V ipf praes intr sg indic act - 1p			ь	с	у	ж	и	в	V	ДВИГАТЬСЯ	V ipf praes sg indic - 1p
+34736	32					PUNC									PUNC			PUNC
+34737	33	эмм	ЭММ	INTJ	distort		м	м	э				S	ЭММА	S f anim acc pl
+34738	34					PUNC									PUNC			PUNC
+34739	35	к	К	PR			к						PR	К	PR
+34740	36	более	БОЛЕЕ	ADV			е	е	л	о	б		ADV	БОЛЕЕ	ADV -
+34741	37	самостоятельной	САМОСТОЯТЕЛЬНЫЙ	A - dat sg plen f -			й	о	н	ь	л	е	A	САМОСТОЯТЕЛЬНЫЙ	A - gen sg plen f -
+34742	38	жизни	ЖИЗНЬ	S f inan dat sg			и	н	з	и	ж		S	ЖИЗНЬ	S f inan gen sg
+34743	39	.	.	SENT									SENT	.	SENT
+34744															
+34745	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34746	2	@	@	PUNC									PUNC	@	PUNC
+34747	3	Ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34748	4	...	...	SENT									SENT	...	SENT
+34749															
+34750	1	То	ТО	S n anin nom sg			о	т					S	ТО	S n - nom sg
+34751	2	бишь	БИШЬ	PART			ь	ш	и	б			PART	БИШЬ	PART
+34752	3					PUNC									PUNC			PUNC
+34753	4	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+34754	5					PUNC									PUNC			PUNC
+34755	6	все	ВЕСЬ	APRO acc plen pl	distort		е	с	в				S	ВСЕ	S - - acc pl
+34756	7	18	18	NUM - - -									NUM	18	NUM - - -
+34757	8	лет	ГОД	S inan gen pl			т	е	л				S	ГОД	S m inan gen pl
+34758	9	моей	МОЙ	A gen sg plen f			й	е	о	м			A	МОЙ	A - gen sg plen f -
+34759	10	жизни	ЖИЗНЬ	S f inan gen sg			и	н	з	и	ж		S	ЖИЗНЬ	S f inan gen sg
+34760	11	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34761	12	жил	ЖИТЬ	V ipf intr praet sg indic act m			л	и	ж				V	ЖИТЬ	V ipf praet sg indic m -
+34762	13	с	С	PR			с						PR	С	PR
+34763	14	родителями	РОДИТЕЛЬ	S anim ins pl			и	м	я	л	е	т	S	РОДИТЕЛЬ	S m anim ins pl
+34764	15					PUNC									PUNC			PUNC
+34765	16	и	И	CONJ			и						CONJ	И	CONJ
+34766	17	сейчас	СЕЙЧАС	ADV -			с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -
+34767	18	мне	Я	SPRO anim sg 1p loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+34768	19	выдалась	ВЫДАТЬСЯ	V pf praet intr sg med indic f			ь	с	а	л	а	д	V	ВЫДАТЬСЯ	V pf praet sg indic f -
+34769	20	возможность	ВОЗМОЖНОСТЬ	S f inan acc sg			ь	т	с	о	н	ж	S	ВОЗМОЖНОСТЬ	S f inan nom sg
+34770	21	и	И	CONJ			и						CONJ	И	CONJ
+34771	22	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34772	23					PUNC									PUNC			PUNC
+34773	24	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34774	25					PUNC									PUNC			PUNC
+34775	26	теперь	ТЕПЕРЬ	ADV -			ь	р	е	п	е	т	ADV	ТЕПЕРЬ	ADV -
+34776	27	живу	ЖИТЬ	V ipf intr praes sg indic act - 1p			у	в	и	ж			V	ЖИТЬ	V ipf praes sg indic - 1p
+34777	28	один	ОДИН	A  nom sg plen m			н	и	д	о			A	ОДИН	A - nom sg plen m -
+34778	29	...	...	SENT									SENT	...	SENT
+34779															
+34780	1	Элина	ЭЛИНА	S f anim nom sg persn			а	н	и	л	э		S	ЭЛИНА	S f anim nom sg
+34781	2	@	@	PUNC									PUNC	@	PUNC
+34782	3	Ого.	ОГО.	INTJ				о	г	о			INTJ	ОГО.	INTJ
+34783	4	<	<	PUNC									PUNC	<	PUNC
+34784	5	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+34785	6	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+34786	7	=	=	PUNC									PUNC	=	PUNC
+34787	8	"	"	_											_	7
+34788	9	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+34789	10	>	>	PUNC									PUNC	>	PUNC
+34790	11	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+34791	12	<	<	PUNC									PUNC	<	PUNC
+34792	13	/	/	PUNC									PUNC	/	PUNC
+34793	14	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+34794	15	>	>	PUNC									PUNC	>	PUNC
+34795	16	.	.	SENT									SENT	.	SENT
+34796															
+34797	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34798	2	@	@	PUNC									PUNC	@	PUNC
+34799	3	У	У	PR			у						PR	У	PR
+34800	4	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+34801	5	..	..	SENT									SENT	..	SENT
+34802															
+34803	1	Да	ДА	INTJ			а	д					PART	ДА	PART
+34804	2	..	..	SENT									SENT	..	SENT
+34805															
+34806	1	Я...	Я...	SPRO anim sg 1p - nom	distort					я			SPRO	Я...	SPRO sg 1p - nom
+34807	2	Ну	НУ	INTJ			у	н					PART	НУ	PART
+34808	3					PUNC									PUNC			PUNC
+34809	4	живу	ЖИТЬ	V ipf intr praes sg indic act - 1p			у	в	и	ж			V	ЖИТЬ	V ipf praes sg indic - 1p
+34810	5	один	ОДИН	A  nom sg plen m			н	и	д	о			A	ОДИН	A - nom sg plen m -
+34811	6	и	И	CONJ			и						CONJ	И	CONJ
+34812	7	с	С	PR			с						PR	С	PR
+34813	8	бабушкой	БАБУШКА	S f anim ins sg			й	о	к	ш	у	б	S	БАБУШКА	S f anim ins sg
+34814	9	.	.	SENT									SENT	.	SENT
+34815															
+34816	1	<	<	PUNC									PUNC	<	PUNC
+34817	2	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+34818	3	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+34819	4	=	=	PUNC									PUNC	=	PUNC
+34820	5	"	"	_											_	6
+34821	6	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+34822	7	>	>	PUNC									PUNC	>	PUNC
+34823	8	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+34824	9	<	<	PUNC									PUNC	<	PUNC
+34825	10	/	/	PUNC									PUNC	/	PUNC
+34826	11	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+34827	12	>	>	PUNC									PUNC	>	PUNC
+34828	13	.	.	SENT									SENT	.	SENT
+34829															
+34830	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34831	2	@	@	PUNC									PUNC	@	PUNC
+34832	3	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+34833	4	.	.	SENT									SENT	.	SENT
+34834															
+34835	1	Но	НО	CONJ			о	н					CONJ	НО	CONJ
+34836	2	...	...	SENT									SENT	...	SENT
+34837															
+34838	1	Получается	ПОЛУЧАТЬСЯ	V ipf intr praes sg med indic - 3p			я	с	т	е	а	ч	V	ПОЛУЧАТЬСЯ	V ipf praes sg indic - 3p
+34839	2	так	ТАК	ADV -			к	а	т				ADV	ТАК	ADV -
+34840	3					PUNC									PUNC			PUNC
+34841	4	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+34842	5	по	ПО	PR			о	п					PR	ПО	PR
+34843	6	будням	БУДНИ	S inan dat pl			м	я	н	д	у	б	S	БУДНИ	S - inan dat pl
+34844	7					PUNC									PUNC			PUNC
+34845	8	аа	АА	INTJ	distort		а	а					NONLEX	АА	NONLEX
+34846	9					PUNC									PUNC			PUNC
+34847	10	мне	Я	SPRO anim sg 1p - loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+34848	11	приходится	ПРИХОДИТЬСЯ	V ipf intr med praes sg indic - 3p			я	с	т	и	д	о	V	ПРИХОДИТЬСЯ	V ipf praes sg indic - 3p
+34849	12	всю	ВЕСЬ	APRO - acc sg plen f -			ю	с	в				A	ВЕСЬ	A - acc sg plen f -
+34850	13	рутину	РУТИН	S f inan acc sg			у	н	и	т	у	р	S	РУТИН	S f inan acc sg
+34851	14					PUNC									PUNC			PUNC
+34852	15	то	ТО	S n anin nom sg			о	т					CONJ	ТО	CONJ
+34853	16	бишь	БИШЬ	PART			ь	ш	и	б			PART	БИШЬ	PART
+34854	17					PUNC									PUNC			PUNC
+34855	18	там	ТАМ	ADV -			м	а	т				ADV	ТАМ	ADV -
+34856	19					PUNC									PUNC			PUNC
+34857	20	и	И	CONJ			и						CONJ	И	CONJ
+34858	21	стирка	СТИРКА	S f inan nom sg			а	к	р	и	т	с	S	СТИРКА	S f inan nom sg
+34859	22					PUNC									PUNC			PUNC
+34860	23	и	И	CONJ			и						CONJ	И	CONJ
+34861	24	готовка	ГОТОВКА	S f inan nom sg			а	к	в	о	т	о	S	ГОТОВКА	S f inan nom sg
+34862	25					PUNC									PUNC			PUNC
+34863	26	и	И	CONJ			и						CONJ	И	CONJ
+34864	27	глажка	ГЛАЖКА	S f inan nom sg			а	к	ж	а	л	г	S	ГЛАЖКА	S f inan nom sg
+34865	28					PUNC									PUNC			PUNC
+34866	29	и	И	CONJ			и						CONJ	И	CONJ
+34867	30	уборка	УБОРКА	S f inan nom sg			а	к	р	о	б	у	S	УБОРКА	S f inan nom sg
+34868	31	-	-	PUNC									PUNC	-	PUNC
+34869	32	и	И	CONJ			и						CONJ	И	CONJ
+34870	33	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34871	34	это	ЭТО	S n inan acc sg			о	т	э				S	ЭТО	S n inan acc sg
+34872	35	делаю	ДЕЛАТЬ	V ipf praes intr act sg indic - 1p			ю	а	л	е	д		V	ДЕЛАТЬ	V ipf praes sg indic - 1p
+34873	36	самостоятельно	САМОСТОЯТЕЛЬНО	ADV -			о	н	ь	л	е	т	ADV	САМОСТОЯТЕЛЬНО	ADV -
+34874	37					PUNC									PUNC			PUNC
+34875	38	да	ДА	CONJ			а	д					CONJ	ДА	CONJ
+34876	39					PUNC									PUNC			PUNC
+34877	40	там	ТАМ	ADV -			м	а	т				ADV	ТАМ	ADV -
+34878	41	походы	ПОХОД	S inan nom pl			ы	д	о	х	о	п	S	ПОХОД	S m inan nom pl
+34879	42	в	В	PR			в						PR	В	PR
+34880	43	магазин	МАГАЗИН	S m inan acc sg			н	и	з	а	г	а	S	МАГАЗИН	S m inan acc sg
+34881	44	и	И	CONJ			и						CONJ	И	CONJ
+34882	45	все	ВСЕ	APRO acc n sg plen			е	с	в				S	ВСЕ	S - - acc pl
+34883	46	остальное	ОСТАЛЬНОЕ	S n inan acc sg			е	о	н	ь	л	а	S	ОСТАЛЬНОЕ	S n inan nom sg
+34884	47	.	.	SENT									SENT	.	SENT
+34885															
+34886	1	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+34887	2	.	.	SENT									SENT	.	SENT
+34888															
+34889	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34890	2	@	@	PUNC									PUNC	@	PUNC
+34891	3	И	И	CONJ			и						CONJ	И	CONJ
+34892	4	поэтому	ПОЭТОМУ	ADV -			у	м	о	т	э	о	ADV	ПОЭТОМУ	ADV -
+34893	5					PUNC									PUNC			PUNC
+34894	6	ээм	ЭЭМ	INTJ	distort		м	э	э				S	ЭЭМ	S n inan nonflex nonflex
+34895	7					PUNC									PUNC			PUNC
+34896	8	именно	ИМЕННО	PART			о	н	н	е	м	и	PART	ИМЕННО	PART
+34897	9	поэтому	ПОЭТОМУ	ADV -			у	м	о	т	э	о	ADV	ПОЭТОМУ	ADV -
+34898	10	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34899	11	и	И	CONJ			и						CONJ	И	CONJ
+34900	12	переехал	ПЕРЕЕХАТЬ	V pf praet  tran sg indic act m			л	а	х	е	е	р	V	ПЕРЕЕХАТЬ	V pf praet sg indic m -
+34901	13	.	.	SENT									SENT	.	SENT
+34902															
+34903	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34904	2	@	@	PUNC									PUNC	@	PUNC
+34905	3	То есть	То есть	PART	раздельно		ь	т	с	е	о	-	То есть	-
+34906	4					PUNC									PUNC			PUNC
+34907	5	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34908	6					PUNC									PUNC			PUNC
+34909	7	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34910	8	хотел	ХОТЕТЬ	V ipf intr praet sg indic act m 			л	е	т	о	х		V	ХОТЕТЬ	V ipf praet sg indic m -
+34911	9					PUNC									PUNC			PUNC
+34912	10	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34913	11					PUNC									PUNC			PUNC
+34914	12	возложить	ВОЗЛОЖИТЬ	V pf tran inf act			ь	т	и	ж	о	л	V	ВОЗЛОЖИТЬ	V pf - - inf - -
+34915	13	на	НА	PR			а	н					PR	НА	PR
+34916	14	себя	СЕБЯ	SPRO anim acc			я	б	е	с			SPRO	СЕБЯ	SPRO - - - acc
+34917	15	этот	ЭТОТ	APRO acc sg plen m			т	о	т	э			A	ЭТОТ	A - nom sg plen m -
+34918	16	груз	ГРУЗ	S m inan nom sg			з	у	р	г			S	ГРУЗ	S m inan nom sg
+34919	17	ответственности	ОТВЕТСТВЕННОСТЬ	S f inan gen sg			и	т	с	о	н	н	S	ОТВЕТСТВЕННОСТЬ	S f inan gen sg
+34920	18					PUNC									PUNC			PUNC
+34921	19	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34922	20					PUNC									PUNC			PUNC
+34923	21	чтобы	ЧТОБЫ	CONJ			ы	б	о	т	ч		CONJ	ЧТОБЫ	CONJ
+34924	22	посмотреть	ПОСМОТРЕТЬ	V pf tran inf act			ь	т	е	р	т	о	V	ПОСМОТРЕТЬ	V pf - - inf - -
+34925	23					PUNC									PUNC			PUNC
+34926	24	чего	ЧТО	SPRO inan n gen sg			о	г	е	ч			S	ЧТО	S n - gen sg
+34927	25	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34928	26	в	В	PR			в						PR	В	PR
+34929	27	этой	ЭТОТ	APRO loc sg plen f			й	о	т	э			A	ЭТОТ	A - loc sg plen f -
+34930	28	жизни	ЖИЗНЬ	S f inan loc sg			и	н	з	и	ж		S	ЖИЗНЬ	S f inan loc sg
+34931	29	стою	СТОЯТЬ	V ipf praes intr sg act indic - 1p			ю	о	т	с			V	СТОЯТЬ	V ipf praes sg indic - 1p
+34932	30	.	.	SENT									SENT	.	SENT
+34933															
+34934	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+34935	2	@	@	PUNC									PUNC	@	PUNC
+34936	3	Ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34937	4	...	...	SENT									SENT	...	SENT
+34938															
+34939	1	То	ТО	S n anin nom sg			о	т					S	ТО	S n - nom sg
+34940	2	бишь	БИШЬ	PART			ь	ш	и	б			PART	БИШЬ	PART
+34941	3					PUNC									PUNC			PUNC
+34942	4	что	ЧТО	SPRO n sg acc anin 			о	т	ч				CONJ	ЧТО	CONJ
+34943	5	это	ЭТО	SPRO n anin nom sg			о	т	э				S	ЭТО	S n - nom sg
+34944	6	значит	ЗНАЧИТЬ	V ipf intr act praes sg indic - 3p			т	и	ч	а	н	з	V	ЗНАЧИТЬ	V ipf praes sg indic - 3p
+34945	7	?	?	SENT									SENT	?	SENT
+34946															
+34947	1	<	<	PUNC									PUNC	<	PUNC
+34948	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34949	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+34950	4	=	=	PUNC									PUNC	=	PUNC
+34951	5	"	"	_											_	6
+34952	6	тойсть	тойсть	PART	distort		ь	т	с	й	о	т	V	ТОЙСТЬ	V ipf praes sg indic - 3p
+34953	7	"	"	_											_	6
+34954	8	>	>	PUNC									PUNC	>	PUNC
+34955	9	То есть	То есть	PART	раздельно		ь	т	с	е	о	-	То есть	-
+34956	10	<	<	PUNC									PUNC	<	PUNC
+34957	11	/	/	PUNC									PUNC	/	PUNC
+34958	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+34959	13	>	>	PUNC									PUNC	>	PUNC
+34960	14					PUNC									PUNC			PUNC
+34961	15	если	ЕСЛИ	CONJ			и	л	с	е			CONJ	ЕСЛИ	CONJ
+34962	16	раньше	РАНО	ADV comp			е	ш	ь	н	а	р	ADV	РАНО	ADV comp
+34963	17	за	ЗА	PR			а	з					PR	ЗА	PR
+34964	18					PUNC									PUNC			PUNC
+34965	19	аам	ААМ	INTJ	distort		м	а	а				S	ААМ	S m anim nom sg
+34966	20					PUNC									PUNC			PUNC
+34967	21	<	<	PUNC									PUNC	<	PUNC
+34968	22	noindex	NOINDEX	NONLEX									NONLEX	NOINDEX	NONLEX
+34969	23	>	>	PUNC									PUNC	>	PUNC
+34970	24	[	[	PUNC									PUNC	[	PUNC
+34971	25	нрзб	НРЗБ	NONLEX	distort		б	з	р	н			NONLEX	НРЗБ	NONLEX
+34972	26	]	]	PUNC									PUNC	]	PUNC
+34973	27	роль	РОЛЬ	S f inan nom sg			ь	л	о	р			S	РОЛЬ	S f inan nom sg
+34974	28	<	<	PUNC									PUNC	<	PUNC
+34975	29	/	/	PUNC									PUNC	/	PUNC
+34976	30	noindex	NOINDEX	NONLEX									NONLEX	NOINDEX	NONLEX
+34977	31	>...	>...	PUNC									PUNC	>...	PUNC
+34978	32	какие-то	КАКОЙ-ТО	A acc pl plen	слитно		о	т		е	и	к	A	КАКОЙ-ТО	A - nom pl plen - -
+34979	33	бытовые	БЫТОВОЙ	A acc pl plen			е	ы	в	о	т	ы	A	БЫТОВОЙ	A - nom pl plen - -
+34980	34	трудности	ТРУДНОСТЬ	S inan nom pl			и	т	с	о	н	д	S	ТРУДНОСТЬ	S f inan nom pl
+34981	35	мои	МОЙ	APRO acc pl plen			и	о	м				A	МОЙ	A - acc pl plen - inan
+34982	36					PUNC									PUNC			PUNC
+34983	37	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+34984	38					PUNC									PUNC			PUNC
+34985	39	на	НА	PR			а	н					PR	НА	PR
+34986	40	себя	СЕБЯ	SPRO anim acc			я	б	е	с			SPRO	СЕБЯ	SPRO - - - acc
+34987	41	брала	БРАТЬ	V ipf tran act praet sg indic f			а	л	а	р	б		V	БРАТЬ	V ipf praet sg indic f -
+34988	42	мама	МАМА	S f anim nom sg			а	м	а	м			S	МАМА	S f anim nom sg
+34989	43					PUNC									PUNC			PUNC
+34990	44	то	ТО	CONJ			о	т					CONJ	ТО	CONJ
+34991	45	сейчас	СЕЙЧАС	ADV -			с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -
+34992	46	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+34993	47	это	ЭТО	SPRO n anin acc sg			о	т	э				S	ЭТО	S n - acc sg
+34994	48	все	ВСЕ	SPRO n anin acc sg			е	с	в				S	ВСЕ	S - - acc pl
+34995	49	делаю	ДЕЛАТЬ	V ipf tran act praes sg indic - 1p			ю	а	л	е	д		V	ДЕЛАТЬ	V ipf praes sg indic - 1p
+34996	50	сам	САМ	A acc sg plen m			м	а	с				A	САМ	A - nom sg plen m -
+34997	51	.	.	SENT									SENT	.	SENT
+34998															
+34999	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35000	2	@	@	PUNC									PUNC	@	PUNC
+35001	3	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35002	4	.	.	SENT									SENT	.	SENT
+35003															
+35004	1	И	И	CONJ			и						CONJ	И	CONJ
+35005	2					PUNC									PUNC			PUNC
+35006	3	погружаясь	ПОГРУЖАТЬСЯ	V ipf intr praes med - ger			ь	с	я	а	ж	у	V	ПОГРУЖАТЬСЯ	V ipf praes - ger - -
+35007	4					PUNC									PUNC			PUNC
+35008	5	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35009	6					PUNC									PUNC			PUNC
+35010	7	в	В	PR			в						PR	В	PR
+35011	8	эту	ЭТОТ	APRO - acc sg plen f 			у	т	э				A	ЭТОТ	A - acc sg plen f -
+35012	9	взрослую	ВЗРОСЛЫЙ	A - acc sg plen f -			ю	у	л	с	о	р	A	ВЗРОСЛЫЙ	A - acc sg plen f -
+35013	10	жизнь	ЖИЗНЬ	S f inan acc sg			ь	н	з	и	ж		S	ЖИЗНЬ	S f inan acc sg
+35014	11					PUNC									PUNC			PUNC
+35015	12	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35016	13	понимаю	ПОНИМАТЬ	V ipf tran act praes sg indic - 1p			ю	а	м	и	н	о	V	ПОНИМАТЬ	V ipf praes sg indic - 1p
+35017	14					PUNC									PUNC			PUNC
+35018	15	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35019	16	мне	Я	SPRO sg anim 1p - loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+35020	17	это	ЭТО	SPRO n inan acc sg			о	т	э				S	ЭТО	S n inan acc sg
+35021	18	все	ВЕСЬ	A acc n sg plen			е	с	в				A	ВЕСЬ	A - nom pl plen - -
+35022	19	очень	ОЧЕНЬ	ADV -			ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -
+35023	20	нравится	НРАВИТЬСЯ	V ipf intr med praes sg indic - 3p			я	с	т	и	в	а	V	НРАВИТЬСЯ	V ipf praes sg indic - 3p
+35024	21	.	.	SENT									SENT	.	SENT
+35025															
+35026	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35027	2	@	@	PUNC									PUNC	@	PUNC
+35028	3	Эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35029	4	...	...	SENT									SENT	...	SENT
+35030															
+35031	1	Мне	Я	SPRO sg anim 1p - loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+35032	2	нравится	НРАВИТЬСЯ	V ipf intr med praes sg indic - 3p			я	с	т	и	в	а	V	НРАВИТЬСЯ	V ipf praes sg indic - 3p
+35033	3	быть	БЫТЬ	V ipf intr inf act			ь	т	ы	б			V	БЫТЬ	V ipf - - inf - -
+35034	4	самостоятельным	САМОСТОЯТЕЛЬНЫЙ	A ins sg plen m			м	ы	н	ь	л	е	A	САМОСТОЯТЕЛЬНЫЙ	A - ins sg plen m -
+35035	5	прежде всего	прежде всего	PARENTH	раздельно		о	г	е	с	в	-	прежде всего	-
+35036	6	.	.	SENT									SENT	.	SENT
+35037															
+35038	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35039	2	@	@	PUNC									PUNC	@	PUNC
+35040	3	Ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35041	4	...	...	SENT									SENT	...	SENT
+35042															
+35043	1	Также	ТАКЖЕ	ADV -			е	ж	к	а	т		ADV	ТАКЖЕ	ADV -
+35044	2	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35045	3	<	<	PUNC									PUNC	<	PUNC
+35046	4	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35047	5	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35048	6	=	=	PUNC									PUNC	=	PUNC
+35049	7	"	"	_											_	8
+35050	8	щитаю	ЩИТАТЬ	V ipf tran praes sg indic act - 1p	distort		ю	а	т	и	щ		S	ЩИТАЙ	S m anim dat sg
+35051	9	"	"	_											_	8
+35052	10	>	>	PUNC									PUNC	>	PUNC
+35053	11	считаю	СЧИТАТЬ	V ipf tran praes sg indic act - 1p			ю	а	т	и	ч	с	V	СЧИТАТЬ	V ipf praes sg indic - 1p
+35054	12	<	<	PUNC									PUNC	<	PUNC
+35055	13	/	/	PUNC									PUNC	/	PUNC
+35056	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35057	15	>	>	PUNC									PUNC	>	PUNC
+35058	16					PUNC									PUNC			PUNC
+35059	17	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35060	18	каждый	КАЖДЫЙ	A nom sg plen m			й	ы	д	ж	а	к	A	КАЖДЫЙ	A - nom sg plen m -
+35061	19	уважающий	УВАЖАТЬ	V partcp tran ipf praes nom sg plen m act			й	и	щ	ю	а	ж	PARTCP	УВАЖАТЬ	PARTCP ipf inpraes acc sg plen m act inan
+35062	20	себя	СЕБЯ	SPRO anim acc			я	б	е	с			SPRO	СЕБЯ	SPRO - - - acc
+35063	21	мужчина	МУЖЧИНА	S m anim nom sg			а	н	и	ч	ж	у	S	МУЖЧИНА	S m anim nom sg
+35064	22	должен	ДОЛЖНЫЙ	A sg brev m			н	е	ж	л	о	д	A	ДОЛЖНЫЙ	A - - sg brev m -
+35065	23	уметь	УМЕТЬ	V ipf intr inf act			ь	т	е	м	у		V	УМЕТЬ	V ipf - - inf - -
+35066	24					PUNC									PUNC			PUNC
+35067	25	ээ	ЭЭ	INTJ	distort		э	э					NONLEX	ЭЭ	NONLEX
+35068	26					PUNC									PUNC			PUNC
+35069	27	и	И	CONJ			и						CONJ	И	CONJ
+35070	28	готовить	ГОТОВИТЬ	V ipf intr inf act			ь	т	и	в	о	т	V	ГОТОВИТЬ	V ipf - - inf - -
+35071	29					PUNC									PUNC			PUNC
+35072	30	и	И	CONJ			и						CONJ	И	CONJ
+35073	31	убирать	УБИРАТЬ	V ipf intr inf act			ь	т	а	р	и	б	V	УБИРАТЬ	V ipf - - inf - -
+35074	32					PUNC									PUNC			PUNC
+35075	33	то есть	то есть	PART	раздельно		ь	т	с	е	о	-	то есть	-
+35076	34					PUNC									PUNC			PUNC
+35077	35	в	В	PR			в						PR	В	PR
+35078	36	общем	ОБЩEЕ	S inan n loc sg			м	е	щ	б	о		A	ОБЩИЙ	A - loc sg plen m -
+35079	37					PUNC									PUNC			PUNC
+35080	38	быть	БЫТЬ	V ipf intr inf act			ь	т	ы	б			V	БЫТЬ	V ipf - - inf - -
+35081	39	домохозяйкой	ДОМОХОЗЯЙКА	S f anim ins sg			й	о	к	й	я	з	S	ДОМОХОЗЯЙКА	S f anim ins sg
+35082	40					PUNC									PUNC			PUNC
+35083	41	<	<	PUNC									PUNC	<	PUNC
+35084	42	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35085	43	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+35086	44	=	=	PUNC									PUNC	=	PUNC
+35087	45	"	"	_											_	46
+35088	46	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+35089	47	>	>	PUNC									PUNC	>	PUNC
+35090	48	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+35091	49	<	<	PUNC									PUNC	<	PUNC
+35092	50	/	/	PUNC									PUNC	/	PUNC
+35093	51	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35094	52	>	>	PUNC									PUNC	>	PUNC
+35095	53	самой	САМЫЙ	A ins sg plen f			й	о	м	а	с		A	САМЫЙ	A - gen sg plen f -
+35096	54	настоящей	НАСТОЯЩИЙ	A ins sg plen f			й	е	щ	я	о	т	A	НАСТОЯЩИЙ	A - ins sg plen f -
+35097	55	.	.	SENT									SENT	.	SENT
+35098															
+35099	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35100	2	@	@	PUNC									PUNC	@	PUNC
+35101	3	Воот	ВООТ	PART	distort		т	о	о	в			S	ВООТ	S n inan nonflex nonflex
+35102	4					PUNC									PUNC			PUNC
+35103	5	и...	И...	CONJ	distort					и			CONJ	И...	CONJ
+35104	6	Ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35105	7	...	...	SENT									SENT	...	SENT
+35106															
+35107	1	И	И	CONJ			и						CONJ	И	CONJ
+35108	2	в	В	PR			в						PR	В	PR
+35109	3	общем	ОБЩИЙ	S inan n loc sg			м	е	щ	б	о		A	ОБЩИЙ	A - loc sg plen m -
+35110	4	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35111	5	счастлив	СЧАСТЛИВЫЙ	A sg brev m			в	и	л	т	с	а	A	СЧАСТЛИВЫЙ	A - - sg brev m -
+35112	6	от	ОТ	PR			т	о					PR	ОТ	PR
+35113	7	того	ТО	S n inan gen sg			о	г	о	т			S	ТО	S n - gen sg
+35114	8					PUNC									PUNC			PUNC
+35115	9	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35116	10	сейчас	СЕЙЧАС	ADV -			с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -
+35117	11					PUNC									PUNC			PUNC
+35118	12	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35119	13					PUNC									PUNC			PUNC
+35120	14	у	У	PR			у						PR	У	PR
+35121	15	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35122	16	есть	БЫТЬ	V ipf intr act praes sg indic - 3p			ь	т	с	е			V	БЫТЬ	V ipf praes sg indic - 3p
+35123	17	возможность	ВОЗМОЖНОСТЬ	S f inan acc sg			ь	т	с	о	н	ж	S	ВОЗМОЖНОСТЬ	S f inan acc sg
+35124	18	потренировать	ПОТРЕНИРОВАТЬ	V pf tran inf act			ь	т	а	в	о	р	V	ПОТРЕНИРОВАТЬ	V pf - - inf - -
+35125	19	такие	ТАКОЙ	A acc pl plen			е	и	к	а	т		A	ТАКОЙ	A - nom pl plen - -
+35126	20	навыки	НАВЫК	S inan acc pl			и	к	ы	в	а	н	S	НАВЫК	S m inan nom pl
+35127	21	.	.	SENT									SENT	.	SENT
+35128															
+35129	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35130	2	@	@	PUNC									PUNC	@	PUNC
+35131	3	Воот	ВООТ	PART			т	о	о	в			S	ВООТ	S n inan nonflex nonflex
+35132	4					PUNC									PUNC			PUNC
+35133	5	и	И	CONJ			и						PART	И	PART
+35134	6	...	...	SENT									SENT	...	SENT
+35135															
+35136	1	Эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35137	2	...	...	SENT									SENT	...	SENT
+35138															
+35139	1	Что	ЧТО	SPRO n inan nom sg			о	т	ч				S	ЧТО	S n - acc sg
+35140	2	.	.	SENT									SENT	.	SENT
+35141															
+35142	1	Так	ТАК	PART			к	а	т				ADV	ТАК	ADV -
+35143	2	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35144	3	...	...	SENT									SENT	...	SENT
+35145															
+35146	1	О	О	PR			о						PR	О	PR
+35147	2	чем	ЧТО	SPRO n inan ins sg			м	е	ч				S	ЧТО	S n - ins sg
+35148	3	<	<	PUNC									PUNC	<	PUNC
+35149	4	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35150	5	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+35151	6	=	=	PUNC									PUNC	=	PUNC
+35152	7	"	"	_											_	6
+35153	8	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+35154	9	>	>	PUNC									PUNC	>	PUNC
+35155	10	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+35156	11	<	<	PUNC									PUNC	<	PUNC
+35157	12	/	/	PUNC									PUNC	/	PUNC
+35158	13	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35159	14	>	>	PUNC									PUNC	>	PUNC
+35160	15					PUNC									PUNC			PUNC
+35161	16	о	О	PR			о						PR	О	PR
+35162	17	чем	ЧЕМ	SPRO n inan ins sg			м	е	ч				CONJ	ЧЕМ	CONJ
+35163	18	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35164	19	начал	НАЧАЛО	S n inan gen pl			л	а	ч	а	н		S	НАЧАЛО	S n inan gen pl
+35165	20	говорить	ГОВОРИТЬ	V ipf - - inf - -			ь	т	и	р	о	в	V	ГОВОРИТЬ	V ipf - - inf - -
+35166	21	?	?	SENT									SENT	?	SENT
+35167															
+35168	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35169	2	@	@	PUNC									PUNC	@	PUNC
+35170	3	Я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35171	4	начал	НАЧАТЬ	V tran praet pf indic act m sg			л	а	ч	а	н		S	НАЧАЛО	S n inan gen pl
+35172	5	говорить	ГОВОРИТЬ	V ipf tran inf act			ь	т	и	р	о	в	V	ГОВОРИТЬ	V ipf - - inf - -
+35173	6	о	О	PR			о						PR	О	PR
+35174	7	том	ТО	S n inan loc sg			м	о	т				S	ТО	S n - loc sg
+35175	8					PUNC									PUNC			PUNC
+35176	9	как	КАК	CONJ			к	а	к				CONJ	КАК	CONJ
+35177	10	проходит	ПРОХОДИТЬ	V ipf tran praes sg indic act  - 3p			т	и	д	о	х	о	V	ПРОХОДИТЬ	V ipf praes sg indic - 3p
+35178	11	моя	МОЙ	APRO nom sg plen f			я	о	м				A	МОЙ	A - nom sg plen f -
+35179	12	неделя	НЕДЕЛЯ	S f inan nom sg			я	л	е	д	е	н	S	НЕДЕЛЯ	S f inan nom sg
+35180	13	.	.	SENT									SENT	.	SENT
+35181															
+35182	1	Ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35183	2	...	...	SENT									SENT	...	SENT
+35184															
+35185	1	Что	ЧТО	SPRO inan n nom sg			о	т	ч				S	ЧТО	S n - nom sg
+35186	2	ж	Ж	PART	distort		ж						PART	Ж	PART
+35187	3	.	.	SENT									SENT	.	SENT
+35188															
+35189	1	Моя	МОЙ	A - nom sg plen f -			я	о	м				A	МОЙ	A - nom sg plen f -
+35190	2	неделя	НЕДЕЛЯ	S f inan nom sg			я	л	е	д	е	н	S	НЕДЕЛЯ	S f inan nom sg
+35191	3	начинается	НАЧИНАТЬСЯ	V ipf intr praes sg med indic - 3p			я	с	т	е	а	н	V	НАЧИНАТЬСЯ	V ipf praes sg indic - 3p
+35192	4	с	С	PR			с						PR	С	PR
+35193	5	уроков	УРОК	S inan gen pl			в	о	к	о	р	у	S	УРОК	S m inan gen pl
+35194	6					PUNC									PUNC			PUNC
+35195	7	ими	ОНИ	SPRO inan pl ins			и	м	и				SPRO	ОНИ	SPRO pl - - ins
+35196	8	и	И	CONJ			и						CONJ	И	CONJ
+35197	9	заканчивается	ЗАКАНЧИВАТЬСЯ	V ipf intr med praes sg indic - 3p			я	с	т	е	а	в	V	ЗАКАНЧИВАТЬСЯ	V ipf praes sg indic - 3p
+35198	10	наверное	НАВЕРНОЕ	PARENTH			е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -
+35199	11	.	.	SENT									SENT	.	SENT
+35200															
+35201	1	Я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35202	2	постоянно	ПОСТОЯННО	ADV -			о	н	н	я	о	т	ADV	ПОСТОЯННО	ADV -
+35203	3	учусь	УЧИТЬСЯ	V ipf intr praes med sg indic - 1p			ь	с	у	ч	у		V	УЧИТЬСЯ	V ipf praes sg indic - 1p
+35204	4	.	.	SENT									SENT	.	SENT
+35205															
+35206	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35207	2	@	@	PUNC									PUNC	@	PUNC
+35208	3	Ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35209	4	...	...	SENT									SENT	...	SENT
+35210															
+35211	1	Встаю	ВСТАВАТЬ	V ipf intr praes sg indic act  - 1p			ю	а	т	с	в		V	ВСТАВАТЬ	V ipf praes sg indic - 1p
+35212	2					PUNC									PUNC			PUNC
+35213	3	эм	ЭМ	INTJ	distort		м	э					S	ЭМ	S n inan nonflex nonflex
+35214	4					PUNC									PUNC			PUNC
+35215	5	в	В	PR			в						S	В	S - - nonflex nonflex
+35216	6	6	6	NUM - - -									NUM	6	NUM - - -
+35217	7	утра	УТРО	S n inan acc pl			а	р	т	у			S	УТРО	S n inan acc pl
+35218	8					PUNC									PUNC			PUNC
+35219	9	эм	ЭМ	INTJ	distort		м	э					S	ЭМ	S n inan nonflex nonflex
+35220	10					PUNC									PUNC			PUNC
+35221	11	готовлю	ГОТОВИТЬ	V ipf tran praes sg indic act  - 1p			ю	л	в	о	т	о	V	ГОТОВИТЬ	V ipf praes sg indic - 1p
+35222	12					PUNC									PUNC			PUNC
+35223	13	еду	ЕДА	S f inan acc sg			у	д	е				S	ЕДА	S f inan acc sg
+35224	14	на	НА	PR			а	н					PR	НА	PR
+35225	15	учебу	УЧЕБА	S m inan loc sg			у	б	е	ч	у		S	УЧЕБА	S m inan loc sg
+35226	16					PUNC									PUNC			PUNC
+35227	17	<	<	PUNC									PUNC	<	PUNC
+35228	18	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35229	19	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35230	20	=	=	PUNC									PUNC	=	PUNC
+35231	21	"	"	_											_	22
+35232	22	приижяю	ПРИЕЖАТЬ	V ipf intr act praes sg indic - 1p	distort		ю	я	ж	и	и	р	NONLEX	ПРИИЖЯЮ	NONLEX
+35233	23	"	"	_											_	22
+35234	24	>	>	PUNC									PUNC	>	PUNC
+35235	25	приезжаю	ПРИЕЗЖАТЬ	V ipf intr act praes sg indic - 1p			ю	а	ж	з	е	и	V	ПРИЕЗЖАТЬ	V ipf praes sg indic - 1p
+35236	26	<	<	PUNC									PUNC	<	PUNC
+35237	27	/	/	PUNC									PUNC	/	PUNC
+35238	28	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35239	29	>	>	PUNC									PUNC	>	PUNC
+35240	30	в	В	PR			в						PR	В	PR
+35241	31	8	8	NUM - - -									NUM	8	NUM - - -
+35242	32	часов	ЧАС	S inan gen pl			в	о	с	а	ч		S	ЧАС	S m inan gen pl
+35243	33	вечера	ВЕЧЕР	S m inan gen sg			а	р	е	ч	е	в	S	ВЕЧЕР	S m inan gen sg
+35244	34	после	ПОСЛЕ	PR			е	л	с	о	п		PR	ПОСЛЕ	PR
+35245	35	длительного	ДЛИТЕЛЬНЫЙ	A gen sg plen m 			о	г	о	н	ь	л	A	ДЛИТЕЛЬНЫЙ	A - gen sg plen m -
+35246	36	загруженного	ЗАГРУЖЕННЫЙ	A gen sg plen m 			о	г	о	н	н	е	PARTCP	ЗАГРУЗИТЬ	PARTCP pf praet acc sg plen m pass anim
+35247	37	дня	ДЕНЬ	S m inan gen sg			я	н	д				S	ДЕНЬ	S m inan gen sg
+35248	38	и	И	CONJ			и						CONJ	И	CONJ
+35249	39					PUNC									PUNC			PUNC
+35250	40	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35251	41					PUNC									PUNC			PUNC
+35252	42	пытаюсь	ПЫТАТЬСЯ	V ipf intr praes med sg indic - 1p			ь	с	ю	а	т	ы	V	ПЫТАТЬСЯ	V ipf praes sg indic - 1p
+35253	43	успеть	УСПЕТЬ	V pf intr inf act			ь	т	е	п	с	у	V	УСПЕТЬ	V pf - - inf - -
+35254	44	сделать	СДЕЛАТЬ	V pf intr inf act			ь	т	а	л	е	д	V	СДЕЛАТЬ	V pf - - inf - -
+35255	45	уроки	УРОК	S inan acc pl			и	к	о	р	у		S	УРОК	S m inan acc pl
+35256	46					PUNC									PUNC			PUNC
+35257	47	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35258	48					PUNC									PUNC			PUNC
+35259	49	впихнуть	ВПИХНУТЬ	V pf intr inf act			ь	т	у	н	х	и	V	ВПИХНУТЬ	V pf - - inf - -
+35260	50	в	В	PR			в						PR	В	PR
+35261	51	это...	ЭТО...	SPRO n inan gen sg	distort					о	т	э	S	ЭТО...	S m inan gen sg
+35262	52	в	В	PR			в						PR	В	PR
+35263	53	этот	ЭТОТ	APRO acc sg plen m			т	о	т	э			A	ЭТОТ	A - acc sg plen m inan
+35264	54	маленький	МАЛЕНЬКИЙ	A acc sg plen m			й	и	к	ь	н	е	A	МАЛЕНЬКИЙ	A - acc sg plen m inan
+35265	55	промежуток	ПРОМЕЖУТОК	S m inan acc sg			к	о	т	у	ж	е	S	ПРОМЕЖУТОК	S m inan acc sg
+35266	56	времени	ВРЕМЯ	S n inan gen sg			и	н	е	м	е	р	S	ВРЕМЯ	S n inan gen sg
+35267	57	от	ОТ	PR			т	о					PR	ОТ	PR
+35268	58	приезда	ПРИЕЗД	S m inan gen sg			а	д	з	е	и	р	S	ПРИЕЗД	S m inan gen sg
+35269	59	домой	ДОМОЙ	ADV -			й	о	м	о	д		ADV	ДОМОЙ	ADV -
+35270	60	до	ДО	PR			о	д					PR	ДО	PR
+35271	61	сна	СОН	S m inan gen sg			а	н	с				S	СОН	S m inan gen sg
+35272	62	свою	СВОЙ	APRO acc sg plen f			ю	о	в	с			A	СВОЙ	A - acc sg plen f -
+35273	63	личную	ЛИЧНЫЙ	A acc sg plen f			ю	у	н	ч	и	л	A	ЛИЧНЫЙ	A - acc sg plen f -
+35274	64	жизнь	ЖИЗНЬ	S f inan acc sg			ь	н	з	и	ж		S	ЖИЗНЬ	S f inan acc sg
+35275	65					PUNC									PUNC			PUNC
+35276	66	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35277	67					PUNC									PUNC			PUNC
+35278	68	опять	ОПЯТЬ	ADV -			ь	т	я	п	о		ADV	ОПЯТЬ	ADV -
+35279	69	же	ЖЕ	PART			е	ж					PART	ЖЕ	PART
+35280	70					PUNC									PUNC			PUNC
+35281	71	готовки	ГОТОВКА	S inan gen pl			и	к	в	о	т	о	S	ГОТОВКА	S f inan gen sg
+35282	72					PUNC									PUNC			PUNC
+35283	73	стирки	СТИРКА	S inan gen pl			и	к	р	и	т	с	S	СТИРКА	S f inan gen sg
+35284	74					PUNC									PUNC			PUNC
+35285	75	глажки	ГЛАЖКА	S inan gen pl			и	к	ж	а	л	г	S	ГЛАЖКА	S f inan acc pl
+35286	76					PUNC									PUNC			PUNC
+35287	77	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35288	78	это	ЭТО	SPRO n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+35289	79	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35290	80	все	ВСЕ	SPRO n inan nom sg			е	с	в				A	ВЕСЬ	A - nom pl plen - -
+35291	81	то	ТО	S n inan acc sg			о	т					S	ТО	S n - acc sg
+35292	82					PUNC									PUNC			PUNC
+35293	83	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35294	84					PUNC									PUNC			PUNC
+35295	85	то	ТО	NONLEX			о	т					NONLEX	ТО	NONLEX
+35296	86					PUNC									PUNC			PUNC
+35297	87	<	<	PUNC									PUNC	<	PUNC
+35298	88	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35299	89	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+35300	90	=	=	PUNC									PUNC	=	PUNC
+35301	91	"	"	_											_	92
+35302	92	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+35303	93	>	>	PUNC									PUNC	>	PUNC
+35304	94	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+35305	95	<	<	PUNC									PUNC	<	PUNC
+35306	96	/	/	PUNC									PUNC	/	PUNC
+35307	97	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35308	98	>	>	PUNC									PUNC	>	PUNC
+35309	99	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35310	100	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35311	101	хотел	ХОТЕТЬ	V ipf tran praet sg indic act m			л	е	т	о	х		V	ХОТЕТЬ	V ipf praet sg indic m -
+35312	102	попробовать	ПОПРОБОВАТЬ	V pf tran inf act			ь	т	а	в	о	б	V	ПОПРОБОВАТЬ	V pf - - inf - -
+35313	103	и	И	CONJ			и						CONJ	И	CONJ
+35314	104	какие-то	КАКОЙ-ТО	A acc pl plen	слитно		о	т		е	и	к	A	КАКОЙ-ТО	A - acc pl plen - inan
+35315	105					PUNC									PUNC			PUNC
+35316	106	ну	НУ	PART			у	н					PART	НУ	PART
+35317	107					PUNC									PUNC			PUNC
+35318	108	время	ВРЕМЯ	S n inan nom sg			я	м	е	р	в		S	ВРЕМЯ	S n inan nom sg
+35319	109	для	ДЛЯ	PR			я	л	д				PR	ДЛЯ	PR
+35320	110	себя	СЕБЯ	SPRO anim acc			я	б	е	с			SPRO	СЕБЯ	SPRO - - - acc
+35321	111					PUNC									PUNC			PUNC
+35322	112	да	ДА	CONJ			а	д					CONJ	ДА	CONJ
+35323	113					PUNC									PUNC			PUNC
+35324	114	как-то	КАК-ТО	ADV -	слитно		о	т		к	а	к	ADV	КАК-ТО	ADV -
+35325	115	.	.	SENT									SENT	.	SENT
+35326															
+35327	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35328	2	@	@	PUNC									PUNC	@	PUNC
+35329	3	Воот	ВООТ	PART			т	о	о	в			S	ВООТ	S m inan nonflex nonflex
+35330	4	.	.	SENT									SENT	.	SENT
+35331															
+35332	1	И..	И..	CONJ					и				CONJ	И..	CONJ
+35333	2	Я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35334	3	не	НЕ	PART			е	н					PART	НЕ	PART
+35335	4	знаю	ЗНАТЬ	V ipf tran act praes sg indic - 1p			ю	а	н	з			V	ЗНАТЬ	V ipf praes sg indic - 1p
+35336	5					PUNC									PUNC			PUNC
+35337	6	пока	ПОКА	ADV -			а	к	о	п			CONJ	ПОКА	CONJ
+35338	7	для	ДЛЯ	PR			я	л	д				PR	ДЛЯ	PR
+35339	8	меня	Я	SPRO sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35340	9	это	ЭТО	SPRO n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+35341	10	все	ВСЕ	SPRO n inan nom sg			е	с	в				S	ВСЕ	S n - nom sg
+35342	11	сложно	СЛОЖНО	ADV -			о	н	ж	о	л	с	A	СЛОЖНЫЙ	A - - sg brev n -
+35343	12					PUNC									PUNC			PUNC
+35344	13	но	НО	CONJ			о	н					CONJ	НО	CONJ
+35345	14					PUNC									PUNC			PUNC
+35346	15	мне	Я	SPRO anim sg 1p - loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+35347	16	кажется	КАЗАТЬСЯ	V ipf intr praes med sg indic - 3p			я	с	т	е	ж	а	V	КАЗАТЬСЯ	V ipf praes sg indic - 3p
+35348	17					PUNC									PUNC			PUNC
+35349	18	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35350	19	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35351	20	добьюсь	ДОБИТЬСЯ	V pf fut intr act sg indic - 1p			ь	с	ю	ь	б	о	V	ДОБИТЬСЯ	V pf fut sg indic - 1p
+35352	21					PUNC									PUNC			PUNC
+35353	22	эм	ЭМ	INTJ	distort		м	э					S	ЭМ	S n inan nonflex nonflex
+35354	23					PUNC									PUNC			PUNC
+35355	24	в	В	PR			в						PR	В	PR
+35356	25	этом	ЭТО	SPRO inan n - loc sg			м	о	т	э			S	ЭТО	S n - loc sg
+35357	26	во	ВО	PR			о	в					PR	ВО	PR
+35358	27	всем	ВСЕ	SPRO n inan - loc sg			м	е	с	в			S	ВСЕ	S n - loc sg
+35359	28	прогресса	ПРОГРЕСС	S m inan gen sg			а	с	с	е	р	г	S	ПРОГРЕСС	S m inan gen sg
+35360	29					PUNC									PUNC			PUNC
+35361	30	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35362	31	смогу	СМОЧЬ	V pf intr act fut sg indic - 1p			у	г	о	м	с		V	СМОЧЬ	V pf fut sg indic - 1p
+35363	32					PUNC									PUNC			PUNC
+35364	33	эмм	ЭММ	INTJ	distort		м	м	э				S	ЭММА	S f inan nom sg
+35365	34					PUNC									PUNC			PUNC
+35366	35	распределить	РАСПРЕДЕЛИТЬ	V pf tran inf act			ь	т	и	л	е	д	V	РАСПРЕДЕЛИТЬ	V pf - - inf - -
+35367	36	свое	СВОЙ	APRO acc sg plen n			е	о	в	с			A	СВОЙ	A - acc sg plen n inan
+35368	37	время	ВРЕМЯ	S n inan acc sg			я	м	е	р	в		S	ВРЕМЯ	S n inan acc sg
+35369	38	настолько	НАСТОЛЬКО	ADV -			о	к	ь	л	о	т	ADV	НАСТОЛЬКО	ADV -
+35370	39	<	<	PUNC									PUNC	<	PUNC
+35371	40	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35372	41	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35373	42	=	=	PUNC									PUNC	=	PUNC
+35374	43	"	"	_											_	44
+35375	44	прально	прально	ADV -	distort		о	н	ь	л	а	р	ADV	ПРАЛЬНО	ADV -
+35376	45	"	"	_											_	44
+35377	46	>	>	PUNC									PUNC	>	PUNC
+35378	47	правильно	ПРАВИЛЬНО	ADV -			о	н	ь	л	и	в	ADV	ПРАВИЛЬНО	ADV -
+35379	48	<	<	PUNC									PUNC	<	PUNC
+35380	49	/	/	PUNC									PUNC	/	PUNC
+35381	50	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35382	51	>	>	PUNC									PUNC	>	PUNC
+35383	52					PUNC									PUNC			PUNC
+35384	53	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35385	54	у	У	PR			у						PR	У	PR
+35386	55	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35387	56	все	ВСЕ	SPRO n inan acc sg			е	с	в				S	ВСЕ	S - - acc pl
+35388	57	будет	БЫТЬ	V ipf intr act praes sg indic - 3p			т	е	д	у	б		V	БЫТЬ	V ipf praes sg indic - 3p
+35389	58					PUNC									PUNC			PUNC
+35390	59	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35391	60					PUNC									PUNC			PUNC
+35392	61	тикать	ТИКАТЬ	V ipf intr inf act			ь	т	а	к	и	т	V	ТИКАТЬ	V ipf - - inf - -
+35393	62	по...	ПО...	PR	distort раздельно					о	п		PR	ПО...	PR
+35394	63					PUNC									PUNC			PUNC
+35395	64	как	КАК	PART			к	а	к				CONJ	КАК	CONJ
+35396	65	по	ПО	PR			о	п					PR	ПО	PR
+35397	66	часам	ЧАСЫ	S m inan dat pl			м	а	с	а	ч		S	ЧАСЫ	S m inan dat pl
+35398	67	.	.	SENT									SENT	.	SENT
+35399															
+35400	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35401	2	@	@	PUNC									PUNC	@	PUNC
+35402	3	Воот	ВООТ	PART	distort		т	о	о	в			S	ВООТ	S m inan nonflex nonflex
+35403	4	.	.	SENT									SENT	.	SENT
+35404															
+35405	1	И...	И...	CONJ	distort раздельно					и			CONJ	И...	CONJ
+35406	2	Что	ЧТО	SPRO n inan nom sg			о	т	ч				S	ЧТО	S n - nom sg
+35407	3	самое	САМЫЙ	A nom sg plen n			е	о	м	а	с		A	САМЫЙ	A - nom sg plen n -
+35408	4	главное	ГЛАВНОЕ	S n inan nom sg			е	о	н	в	а	л	S	ГЛАВНОЕ	S n inan nom sg
+35409	5	для	ДЛЯ	PR			я	л	д				PR	ДЛЯ	PR
+35410	6	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35411	7	-	-	PUNC									PUNC	-	PUNC
+35412	8	это	ЭТО	SPRO n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+35413	9	не	НЕ	PART			е	н					PART	НЕ	PART
+35414	10	терять	ТЕРЯТЬ	V ipf tran inf act			ь	т	я	р	е	т	V	ТЕРЯТЬ	V ipf - - inf - -
+35415	11	уверенность	УВЕРЕННОСТЬ	S f inan acc sg			ь	т	с	о	н	н	S	УВЕРЕННОСТЬ	S f inan acc sg
+35416	12	.	.	SENT									SENT	.	SENT
+35417															
+35418	1	Не	НЕ	PART			е	н					PART	НЕ	PART
+35419	2	терять	ТЕРЯТЬ	V ipf tran inf act			ь	т	я	р	е	т	V	ТЕРЯТЬ	V ipf - - inf - -
+35420	3	уверенность	УВЕРЕННОСТЬ	S f inan acc sg			ь	т	с	о	н	н	S	УВЕРЕННОСТЬ	S f inan acc sg
+35421	4					PUNC									PUNC			PUNC
+35422	5	<	<	PUNC									PUNC	<	PUNC
+35423	6	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35424	7	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35425	8	=	=	PUNC									PUNC	=	PUNC
+35426	9	"	"	_											_	10
+35427	10	Тость	То есть	PART	distort		ь	т	с	о	т		S	ТОСТЬ	S f anim acc sg
+35428	11	"	"	_											_	10
+35429	12	>	>	PUNC									PUNC	>	PUNC
+35430	13	то есть	То есть	PART	раздельно		ь	т	с	е	о	-	то есть	-
+35431	14	<	<	PUNC									PUNC	<	PUNC
+35432	15	/	/	PUNC									PUNC	/	PUNC
+35433	16	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35434	17	>	>	PUNC									PUNC	>	PUNC
+35435	18	не	НЕ	PART			е	н					PART	НЕ	PART
+35436	19	опускать	ОПУСКАТЬ	V ipf tran inf act			ь	т	а	к	с	у	V	ОПУСКАТЬ	V ipf - - inf - -
+35437	20	руки	РУКА	S inan acc pl			и	к	у	р			S	РУКА	S f inan acc pl
+35438	21	.	.	SENT									SENT	.	SENT
+35439															
+35440	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35441	2	@	@	PUNC									PUNC	@	PUNC
+35442	3	Ааээ	ААЭЭ	INTJ	distort		э	э	а	а			NONLEX	ААЭЭ	NONLEX
+35443	4	...	...	SENT									SENT	...	SENT
+35444															
+35445	1	Признаться	ПРИЗНАТЬСЯ	V pf intr inf act			я	с	ь	т	а	н	V	ПРИЗНАТЬСЯ	V pf - - inf - -
+35446	2	честно	ЧЕСТНО	ADV -			о	н	т	с	е	ч	ADV	ЧЕСТНО	ADV -
+35447	3					PUNC									PUNC			PUNC
+35448	4	в	В	PR			в						PR	В	PR
+35449	5	первую	ПЕРВЫЙ	A - acc sg plen f -			ю	у	в	р	е	п	A	ПЕРВЫЙ	A - acc sg plen f -
+35450	6	неделю	НЕДЕЛЯ	S inan acc sg			ю	л	е	д	е	н	S	НЕДЕЛЯ	S f inan acc sg
+35451	7					PUNC									PUNC			PUNC
+35452	8	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35453	9					PUNC									PUNC			PUNC
+35454	10	когда	КОГДА	CONJ			а	д	г	о	к		CONJ	КОГДА	CONJ
+35455	11	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35456	12	жил	ЖИТЬ	V ipf intr act praet sg indic m -			л	и	ж				V	ЖИТЬ	V ipf praet sg indic m -
+35457	13	один	ОДИН	A nom sg plen m			н	и	д	о			A	ОДИН	A - nom sg plen m -
+35458	14					PUNC									PUNC			PUNC
+35459	15	у	У	PR			у						PR	У	PR
+35460	16	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35461	17					PUNC									PUNC			PUNC
+35462	18	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35463	19					PUNC									PUNC			PUNC
+35464	20	такая	ТАКОЙ	A nom sg plen f			я	а	к	а	т		A	ТАКОЙ	A - nom sg plen f -
+35465	21	склонность	СКЛОННОСТЬ	S f inan nom sg			ь	т	с	о	н	н	S	СКЛОННОСТЬ	S f inan nom sg
+35466	22	была	БЫТЬ	V intr act ipf praet sg indic f 			а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -
+35467	23	.	.	SENT									SENT	.	SENT
+35468															
+35469	1	<	<	PUNC									PUNC	<	PUNC
+35470	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35471	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35472	4	=	=	PUNC									PUNC	=	PUNC
+35473	5	"	"	_											_	6
+35474	6	Тойсть	Тойсть	PART	distort		ь	т	с	й	о	т	S	ТОЙСТЬ	S m anim nom sg
+35475	7	"	"	_											_	6
+35476	8	>	>	PUNC									PUNC	>	PUNC
+35477	9	То есть	То есть	PART	раздельно		ь	т	с	е	о	-	То есть	-
+35478	10	<	<	PUNC									PUNC	<	PUNC
+35479	11	/	/	PUNC									PUNC	/	PUNC
+35480	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35481	13	>	>	PUNC									PUNC	>	PUNC
+35482	14	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35483	15	уже	УЖЕ	ADV -			е	ж	у				ADV	УЖЕ	ADV -
+35484	16	готов	ГОТОВЫЙ	A sg brev m			в	о	т	о	г		A	ГОТОВЫЙ	A - - sg brev m -
+35485	17	был	БЫТЬ	V ipf intr act praet sg indic m			л	ы	б				V	БЫТЬ	V ipf praet sg indic m -
+35486	18	опустить	ОПУСТИТЬ	V pf tran act inf			ь	т	и	т	с	у	V	ОПУСТИТЬ	V pf - - inf - -
+35487	19	руки	РУКА	S inan acc pl			и	к	у	р			S	РУКА	S f inan acc pl
+35488	20	и	И	CONJ			и						CONJ	И	CONJ
+35489	21	переехать	ПЕРЕЕХАТЬ	V pf tran act inf			ь	т	а	х	е	е	V	ПЕРЕЕХАТЬ	V pf - - inf - -
+35490	22	домой	ДОМОЙ	ADV -			й	о	м	о	д		ADV	ДОМОЙ	ADV -
+35491	23	и	И	CONJ			и						CONJ	И	CONJ
+35492	24					PUNC									PUNC			PUNC
+35493	25	там	ТАМ	ADV -			м	а	т				ADV	ТАМ	ADV -
+35494	26	:	:	PUNC									PUNC	:	PUNC
+35495	27	"	"	_											_	26
+35496	28	Мам	МАМА	S f anim voc sg			м	а	м				S	МАМА	S f anim voc sg
+35497	29					PUNC									PUNC			PUNC
+35498	30	забери	ЗАБРАТЬ	V pf tran act sg imper - 2p			и	р	е	б	а	з	V	ЗАБРАТЬ	V pf - sg imper - 2p
+35499	31	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35500	32	обратно	ОБРАТНО	ADV -			о	н	т	а	р	б	ADV	ОБРАТНО	ADV -
+35501	33	"	"	_											_	32
+35502	34					PUNC									PUNC			PUNC
+35503	35	<	<	PUNC									PUNC	<	PUNC
+35504	36	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35505	37	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+35506	38	=	=	PUNC									PUNC	=	PUNC
+35507	39	"	"	_											_	40
+35508	40	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+35509	41	>	>	PUNC									PUNC	>	PUNC
+35510	42	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+35511	43	<	<	PUNC									PUNC	<	PUNC
+35512	44	/	/	PUNC									PUNC	/	PUNC
+35513	45	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35514	46	>	>	PUNC									PUNC	>	PUNC
+35515	47	и	И	CONJ			и						CONJ	И	CONJ
+35516	48	все	ВЕСЬ	APRO nom pl plen			е	с	в				A	ВЕСЬ	A - nom pl plen - -
+35517	49	такое	ТАКОE	S n sg nom inan			е	о	к	а	т		A	ТАКОЙ	A - acc sg plen n inan
+35518	50	.	.	SENT									SENT	.	SENT
+35519															
+35520	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35521	2	@	@	PUNC									PUNC	@	PUNC
+35522	3	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35523	4					PUNC									PUNC			PUNC
+35524	5	но	НО	CONJ			о	н					CONJ	НО	CONJ
+35525	6	...	...	SENT									SENT	...	SENT
+35526															
+35527	1	Я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35528	2	к	К	PR			к						PR	К	PR
+35529	3	тому	ТО	S n inan dat sg			у	м	о	т			S	ТО	S n - dat sg
+35530	4	же	ЖЕ	PART			е	ж					PART	ЖЕ	PART
+35531	5	еще	ЕЩЕ	ADV -			е	щ	е				ADV	ЕЩЕ	ADV -
+35532	6	заболел	ЗАБОЛЕТЬ	V pf intr praet sg indic m act			л	е	л	о	б	а	V	ЗАБОЛЕТЬ	V pf praet sg indic m -
+35533	7	тогда	ТОГДА	ADV -			а	д	г	о	т		ADV	ТОГДА	ADV -
+35534	8					PUNC									PUNC			PUNC
+35535	9	<	<	PUNC									PUNC	<	PUNC
+35536	10	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35537	11	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35538	12	=	=	PUNC									PUNC	=	PUNC
+35539	13	"	"	_											_	12
+35540	14	от	ОТ	PR			т	о					PR	ОТ	PR
+35541	15	"	"	_											_	16
+35542	16	>	>	PUNC									PUNC	>	PUNC
+35543	17	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35544	18	<	<	PUNC									PUNC	<	PUNC
+35545	19	/	/	PUNC									PUNC	/	PUNC
+35546	20	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35547	21	>	>	PUNC									PUNC	>	PUNC
+35548	22	эти	ЭТОТ	APRO nom pl plen			и	т	э				A	ЭТОТ	A - nom pl plen - -
+35549	23	все	ВЕСЬ	APRO nom pl plen			е	с	в				S	ВСЕ	S - - acc pl
+35550	24	сопли	СОПЛЯ	S inan nom pl			и	л	п	о	с		S	СОПЛЯ	S - - nom pl
+35551	25					PUNC									PUNC			PUNC
+35552	26	чихи	ЧИХ	S inan nom pl			и	х	и	ч			S	ЧИХ	S m inan acc pl
+35553	27					PUNC									PUNC			PUNC
+35554	28	кашли	КАШЕЛЬ	S inan nom pl			и	л	ш	а	к		S	КАШЕЛЬ	S f inan nom sg
+35555	29	.	.	SENT									SENT	.	SENT
+35556															
+35557	1	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35558	2	вся	ВЕСЬ	APRO nom sg plen f			я	с	в				A	ВЕСЬ	A - nom sg plen f -
+35559	3	эта	ЭТОТ	APRO nom sg plen f			а	т	э				A	ЭТОТ	A - nom sg plen f -
+35560	4	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35561	5	неприятная	НЕПРИЯТНЫЙ	A nom sg plen f			я	а	н	т	я	и	A	НЕПРИЯТНЫЙ	A - nom sg plen f -
+35562	6	ерунда	ЕРУНДА	S f inan nom sg			а	д	н	у	р	е	S	ЕРУНДА	S f inan nom sg
+35563	7					PUNC									PUNC			PUNC
+35564	8	и	И	CONJ			и						CONJ	И	CONJ
+35565	9	настроение	НАСТРОЕНИЕ	S n inan nom sg			е	и	н	е	о	р	S	НАСТРОЕНИЕ	S n inan nom sg
+35566	10					PUNC									PUNC			PUNC
+35567	11	и	И	CONJ			и						CONJ	И	CONJ
+35568	12	дожд	ДОЖД	NONLEX	слитно		д	ж	о	д			S	ДОЖД	S n inan nonflex nonflex
+35569	13	<	<	PUNC									PUNC	<	PUNC
+35570	14	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35571	15	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+35572	16	=	=	PUNC									PUNC	=	PUNC
+35573	17	"	"	_											_	18
+35574	18	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+35575	19	"	"	_											_	18
+35576	20	>	>	PUNC									PUNC	>	PUNC
+35577	21	Запинка	ЗАПИНКА	S f inan nom sg			а	к	н	и	п	а	S	ЗАПИНКА	S f inan nom sg
+35578	22	<	<	PUNC									PUNC	<	PUNC
+35579	23	/	/	PUNC									PUNC	/	PUNC
+35580	24	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35581	25	>	>	PUNC									PUNC	>	PUNC
+35582	26	ливая	(дожд)ЛИВЫЙ	A nom sg plen f	distort		я	а	в	и	л		A	ЛИВЫЙ	A - nom sg plen f -
+35583	27	погода	ПОГОДА	S f inan nom sg			а	д	о	г	о	п	S	ПОГОДА	S f inan nom sg
+35584	28	повлияла	ПОВЛИЯТЬ	V pf intr act praet sg indic f			а	л	я	и	л	в	V	ПОВЛИЯТЬ	V pf praet sg indic f -
+35585	29	очень	ОЧЕНЬ	ADV -			ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -
+35586	30	сильно	СИЛЬНО	ADV -			о	н	ь	л	и	с	ADV	СИЛЬНО	ADV -
+35587	31	.	.	SENT									SENT	.	SENT
+35588															
+35589	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35590	2	@	@	PUNC									PUNC	@	PUNC
+35591	3	Прям	ПРЯМ	PART	distort		м	я	р	п			A	ПРЯМОЙ	A - - sg brev m -
+35592	4	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35593	5	вообще	ВООБЩЕ	ADV -			е	щ	б	о	о	в	ADV	ВООБЩЕ	ADV -
+35594	6	поникший	ПОНИКНУТЬ	V partcp pf praet acc sg plen m intr plen act			й	и	ш	к	и	н	PARTCP	ПОНИКНУТЬ	PARTCP pf praet acc sg plen m act inan
+35595	7	был	БЫТЬ	V ipf intr act praet sg indic m			л	ы	б				V	БЫТЬ	V ipf praet sg indic m -
+35596	8	.	.	SENT									SENT	.	SENT
+35597															
+35598	1	Но	НО	CONJ			о	н					CONJ	НО	CONJ
+35599	2	все же	все же	PART	раздельно		е	ж	е	с	в	ZERO	все же	ZERO
+35600	3	собрался	СОБРАТЬСЯ	V pf intr act praet sg indic m			я	с	л	а	р	б	V	СОБРАТЬСЯ	V pf praet sg indic m -
+35601	4					PUNC									PUNC			PUNC
+35602	5	взял	ВЗЯТЬ	V pf intr act praet sg indic m			л	я	з	в			V	ВЗЯТЬ	V pf praet sg indic m -
+35603	6	себя	СЕБЯ	SPRO anim acc			я	б	е	с			SPRO	СЕБЯ	SPRO - - - acc
+35604	7	в	В	PR			в						PR	В	PR
+35605	8	руки	РУКА	S f inan acc pl			и	к	у	р			S	РУКА	S f inan acc pl
+35606	9	и...	И...	CONJ	раздельно					и			CONJ	И...	CONJ
+35607	10	иду	ИДТИ	V ipf intr act praes sg indic - 1p			у	д	и				V	ИДТИ	V ipf praes sg indic - 1p
+35608	11	на	НА	PR			а	н					PR	НА	PR
+35609	12	Олимп	ОЛИМП	S m inan acc sg			п	м	и	л	о		S	ОЛИМП	S m inan acc sg
+35610	13	.	.	SENT									SENT	.	SENT
+35611															
+35612	1	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35613	2					PUNC									PUNC			PUNC
+35614	3	эмм	ЭММ	S f inan nom sg	distort		м	м	э				S	ЭММА	S f inan nom sg
+35615	4	...	...	SENT									SENT	...	SENT
+35616															
+35617	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35618	2	@	@	PUNC									PUNC	@	PUNC
+35619	3	Мне	Я	SPRO anim sg 1p - loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+35620	4	очень	ОЧЕНЬ	ADV -			ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -
+35621	5	нравится	НРАВИТЬСЯ	V ipf intr med praes sg indic - 3p			я	с	т	и	в	а	V	НРАВИТЬСЯ	V ipf praes sg indic - 3p
+35622	6	учиться	УЧИТЬСЯ	V ipf med intr inf			я	с	ь	т	и	ч	V	УЧИТЬСЯ	V ipf - - inf - -
+35623	7	в	В	PR			в						PR	В	PR
+35624	8	своем	СВОЙ	APRO loc sg plen m			м	е	о	в	с		A	СВОЙ	A - loc sg plen m -
+35625	9	университете	УНИВЕРСИТЕТ	S m inan loc sg			е	т	е	т	и	с	S	УНИВЕРСИТЕТ	S m inan loc sg
+35626	10					PUNC									PUNC			PUNC
+35627	11	мне	Я	SPRO anim sg 1p - loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+35628	12	нравится	НРАВИТЬСЯ	V ipf intr med praes sg indic - 3p			я	с	т	и	в	а	V	НРАВИТЬСЯ	V ipf praes sg indic - 3p
+35629	13					PUNC									PUNC			PUNC
+35630	14	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35631	15					PUNC									PUNC			PUNC
+35632	16	это	ЭТО	APRO n nom sg plen			о	т	э				S	ЭТО	S n - nom sg
+35633	17	место	МЕСТО	S n inan nom sg			о	т	с	е	м		S	МЕСТО	S n inan nom sg
+35634	18	потому	ПОТОМУ	ADV -			у	м	о	т	о	п	ADV	ПОТОМУ	ADV -
+35635	19					PUNC									PUNC			PUNC
+35636	20	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35637	21					PUNC									PUNC			PUNC
+35638	22	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35639	23	оно	ОНО	SPRO inan sg 3p n nom			о	н	о				SPRO	ОНО	SPRO sg 3p n nom
+35640	24	не	НЕ	PART			е	н					PART	НЕ	PART
+35641	25	нуж...	НУЖ...	NONLEX	слитно					ж	у	н	S	НУЖ...	S m inan acc sg
+35642	26	нуждается	НУЖДАТЬСЯ	V ipf intr med praes sg indic - 3p			я	с	т	е	а	д	V	НУЖДАТЬСЯ	V ipf praes sg indic - 3p
+35643	27	в	В	PR			в						PR	В	PR
+35644	28	лишней	ЛИШНИЙ	A dat sg plen f			й	е	н	ш	и	л	A	ЛИШНИЙ	A - dat sg plen f -
+35645	29	рекламе	РЕКЛАМА	S f inan dat sg			е	м	а	л	к	е	S	РЕКЛАМА	S f inan dat sg
+35646	30					PUNC									PUNC			PUNC
+35647	31	как	КАК	CONJ			к	а	к				CONJ	КАК	CONJ
+35648	32	некоторые	НЕКОТОРЫЙ	A nom pl plen			е	ы	р	о	т	о	A	НЕКОТОРЫЙ	A - nom pl plen - -
+35649	33	вузы	ВУЗ	S inan nom pl			ы	з	у	в			S	ВУЗ	S m inan nom pl
+35650	34					PUNC									PUNC			PUNC
+35651	35	например	НАПРИМЕР	ADV -			р	е	м	и	р	п	ADV	НАПРИМЕР	ADV -
+35652	36					PUNC									PUNC			PUNC
+35653	37	Синергия	СИНЕРГИЯ	S m inan gen sg			я	и	г	р	е	н	S	СИНЕРГИЯ	S m inan gen sg
+35654	38	.	.	SENT									SENT	.	SENT
+35655															
+35656	1	<	<	PUNC									PUNC	<	PUNC
+35657	2	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35658	3	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+35659	4	=	=	PUNC									PUNC	=	PUNC
+35660	5	"	"	_											_	6
+35661	6	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+35662	7	"	"	_											_	6
+35663	8	>	>	PUNC									PUNC	>	PUNC
+35664	9	Говорят	ГОВОРИТЬ	V ipf tran act praes pl indic - 3p			т	я	р	о	в	о	V	ГОВОРИТЬ	V ipf praes pl indic - 3p
+35665	10	одновременно	ОДНОВРЕМЕННО	ADV -			о	н	н	е	м	е	ADV	ОДНОВРЕМЕННО	ADV -
+35666	11	<	<	PUNC									PUNC	<	PUNC
+35667	12	/	/	PUNC									PUNC	/	PUNC
+35668	13	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35669	14	>	>	PUNC									PUNC	>	PUNC
+35670	15	Эээ...	ЭЭЭ...	INTJ	distort					э	э	э	NONLEX	ЭЭЭ...	NONLEX
+35671	16	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35672	17	...	...	SENT									SENT	...	SENT
+35673															
+35674	1	Элина	ЭЛИНА	S f anim nom sg persn			а	н	и	л	э		S	ЭЛИНА	S f anim nom sg
+35675	2	@	@	PUNC									PUNC	@	PUNC
+35676	3	<	<	PUNC									PUNC	<	PUNC
+35677	4	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35678	5	class	CLASS	NONLEX									NONLEX	CLASS	NONLEX
+35679	6	=	=	PUNC									PUNC	=	PUNC
+35680	7	"	"	_											_	6
+35681	8	note	NOTE	NONLEX									NONLEX	NOTE	NONLEX
+35682	9	>	>	PUNC									PUNC	>	PUNC
+35683	10	смех	СМЕХ	S m inan nom sg			х	е	м	с			S	СМЕХ	S m inan nom sg
+35684	11	<	<	PUNC									PUNC	<	PUNC
+35685	12	/	/	PUNC									PUNC	/	PUNC
+35686	13	span	SPAN	NONLEX									NONLEX	SPAN	NONLEX
+35687	14	>	>	PUNC									PUNC	>	PUNC
+35688	15	Это	ЭТО	SPRO n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+35689	16	идеальный	ИДЕАЛЬНЫЙ	A nom sg plen m			й	ы	н	ь	л	а	A	ИДЕАЛЬНЫЙ	A - nom sg plen m -
+35690	17	вуз	ВУЗ	S m inan nom sg abbr			з	у	в				S	ВУЗ	S m inan nom sg
+35691	18					PUNC									PUNC			PUNC
+35692	19	ты	ТЫ	SPRO sg anim 2p - nom			ы	т					SPRO	ТЫ	SPRO sg 2p - nom
+35693	20	чего	ЧЕГО	ADV -			о	г	е	ч			ADV	ЧЕГО	ADV -
+35694	21	.	.	SENT									SENT	.	SENT
+35695															
+35696	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35697	2	@	@	PUNC									PUNC	@	PUNC
+35698	3	Конечно	КОНЕЧНО	PARENTH			о	н	ч	е	н	о	ADV	КОНЕЧНО	ADV -
+35699	4					PUNC									PUNC			PUNC
+35700	5	идеальный	ИДЕАЛЬНЫЙ	A nom sg plen m			й	ы	н	ь	л	а	A	ИДЕАЛЬНЫЙ	A - nom sg plen m -
+35701	6	.	.	SENT									SENT	.	SENT
+35702															
+35703	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35704	2	@	@	PUNC									PUNC	@	PUNC
+35705	3	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35706	4	.	.	SENT									SENT	.	SENT
+35707															
+35708	1	Эмм	ЭММ	S f anim acc pl	distort		м	м	э				S	ЭММА	S f anim acc pl
+35709	2	...	...	SENT									SENT	...	SENT
+35710															
+35711	1	Это	ЭТО	SPRO n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+35712	2	место	МЕСТО	S n inan nom sg			о	т	с	е	м		S	МЕСТО	S n inan nom sg
+35713	3					PUNC									PUNC			PUNC
+35714	4	о	О	PR			о						PR	О	PR
+35715	5	котором	КОТОРЫЙ	APRO loc sg plen m			м	о	р	о	т	о	A	КОТОРЫЙ	A - loc sg plen m -
+35716	6	знают	ЗНАТЬ	V ipf tran act praes pl indic - 3p			т	ю	а	н	з		V	ЗНАТЬ	V ipf praes pl indic - 3p
+35717	7	те	ТОТ	APRO nom pl plen			е	т					A	ТОТ	A - acc pl plen - inan
+35718	8					PUNC									PUNC			PUNC
+35719	9	кому	КТО	SPRO m dat sg anim			у	м	о	к			S	КТО	S m - dat sg
+35720	10	надо	НАДО	ADV -			о	д	а	н			ADV	НАДО	ADV -
+35721	11					PUNC									PUNC			PUNC
+35722	12	то есть	то есть	PART	раздельно		ь	т	с	е	о	-	то есть	-
+35723	13	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35724	14	считаю	СЧИТАТЬ	V ipf tran act praes sg indic - 1p			ю	а	т	и	ч	с	V	СЧИТАТЬ	V ipf praes sg indic - 1p
+35725	15					PUNC									PUNC			PUNC
+35726	16	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35727	17	это	ЭТО	SPRO n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+35728	18	отличное	ОТЛИЧНЫЙ	A nom sg plen n			е	о	н	ч	и	л	A	ОТЛИЧНЫЙ	A - nom sg plen n -
+35729	19	качественное	КАЧЕСТВЕННЫЙ	A nom sg plen n			е	о	н	н	е	в	A	КАЧЕСТВЕННЫЙ	A - nom sg plen n -
+35730	20	место	МЕСТО	S n inan nom sg			о	т	с	е	м		S	МЕСТО	S n inan nom sg
+35731	21	.	.	SENT									SENT	.	SENT
+35732															
+35733	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35734	2	@	@	PUNC									PUNC	@	PUNC
+35735	3	И	И	CONJ			и						CONJ	И	CONJ
+35736	4	даже	ДАЖЕ	PART			е	ж	а	д			PART	ДАЖЕ	PART
+35737	5					PUNC									PUNC			PUNC
+35738	6	аа	АА	INTJ	distort		а	а					NONLEX	АА	NONLEX
+35739	7					PUNC									PUNC			PUNC
+35740	8	если	ЕСЛИ	CONJ			и	л	с	е			CONJ	ЕСЛИ	CONJ
+35741	9					PUNC									PUNC			PUNC
+35742	10	проверять	ПРОВЕРЯТЬ	V ipf tran inf act			ь	т	я	р	е	в	V	ПРОВЕРЯТЬ	V ipf - - inf - -
+35743	11	по	ПО	PR			о	п					PR	ПО	PR
+35744	12	бирже	БИРЖА	S f inan loc sg			е	ж	р	и	б		S	БИРЖА	S f inan loc sg
+35745	13	труда	ТРУД	S m inan gen sg			а	д	у	р	т		S	ТРУД	S m inan gen sg
+35746	14					PUNC									PUNC			PUNC
+35747	15	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35748	16					PUNC									PUNC			PUNC
+35749	17	не	НЕ	PART			е	н					PART	НЕ	PART
+35750	18	найдется	НАЙТИСЬ	V pf intr act fut sg indic - 3p			я	с	т	е	д	й	V	НАЙТИСЬ	V pf fut sg indic - 3p
+35751	19	ни	НИ	PART			и	н					PART	НИ	PART
+35752	20	одного	ОДИН	A gen sg plen m			о	г	о	н	д	о	A	ОДИН	A - gen sg plen m -
+35753	21					PUNC									PUNC			PUNC
+35754	22	аа	АА	INTJ	distort		а	а					NONLEX	АА	NONLEX
+35755	23					PUNC									PUNC			PUNC
+35756	24	выпускника	ВЫПУСКНИК	S m anim gen sg			а	к	и	н	к	с	S	ВЫПУСКНИК	S m anim gen sg
+35757	25	моего	МОЙ	APRO gen sg plen m			о	г	е	о	м		A	МОЙ	A - gen sg plen m -
+35758	26	университета	УНИВЕРСИТЕТ	S m inan gen sg			а	т	е	т	и	с	S	УНИВЕРСИТЕТ	S m inan gen sg
+35759	27					PUNC									PUNC			PUNC
+35760	28	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35761	29					PUNC									PUNC			PUNC
+35762	30	который	КОТОРЫЙ	APRO nom sg plen m			й	ы	р	о	т	о	A	КОТОРЫЙ	A - nom sg plen m -
+35763	31	будет	БЫТЬ	V ipf intr act praes sg indic - 3p			т	е	д	у	б		V	БЫТЬ	V ipf praes sg indic - 3p
+35764	32	свободен	СВОБОДНЫЙ	A sg brev m			н	е	д	о	б	о	A	СВОБОДНЫЙ	A - - sg brev m -
+35765	33	.	.	SENT									SENT	.	SENT
+35766															
+35767	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35768	2	@	@	PUNC									PUNC	@	PUNC
+35769	3	То есть	То есть	PART	раздельно		ь	т	с	е	о	-	То есть	-
+35770	4					PUNC									PUNC			PUNC
+35771	5	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35772	6					PUNC									PUNC			PUNC
+35773	7	практически	ПРАКТИЧЕСКИ	ADV -			и	к	с	е	ч	и	ADV	ПРАКТИЧЕСКИ	ADV -
+35774	8	полностью	ПОЛНОСТЬЮ	ADV -			ю	ь	т	с	о	н	ADV	ПОЛНОСТЬЮ	ADV -
+35775	9	в...	В...	PR	distort					в			PR	В...	PR
+35776	10	вуз	ВУЗ	S m inan acc sg abbr			з	у	в				S	ВУЗ	S m inan acc sg
+35777	11	обеспечивает	ОБЕСПЕЧИВАТЬ	V ipf tran act praes sg indic - 3p			т	е	а	в	и	ч	V	ОБЕСПЕЧИВАТЬ	V ipf praes sg indic - 3p
+35778	12	тру...	тру...	NONLEX	слитно					у	р	т	A	ТРУ...	A - loc pl plen - -
+35779	13	трудообес	трудообес	NONLEX	слитно		с	е	б	о	о	д	S	ТРУДООБЕС	S m inan acc sg
+35780	14	...	...	SENT									SENT	...	SENT
+35781															
+35782	1	Как	КАК	ADV -			к	а	к				ADV	КАК	ADV -
+35783	2	это	ЭТО	SPRO n inan acc sg			о	т	э				S	ЭТО	S n inan acc sg
+35784	3	сказать	СКАЗАТЬ	V pf tran inf act			ь	т	а	з	а	к	V	СКАЗАТЬ	V pf - - inf - -
+35785	4	?	?	SENT									SENT	?	SENT
+35786															
+35787	1	Элина	ЭЛИНА	S f anim nom sg persn			а	н	и	л	э		S	ЭЛИНА	S f anim nom sg
+35788	2	@	@	PUNC									PUNC	@	PUNC
+35789	3	Трудоустройство	ТРУДОУСТРОЙСТВО	S n inan nom sg			о	в	т	с	й	о	S	ТРУДОУСТРОЙСТВО	S f inan nom sg
+35790	4	.	.	SENT									SENT	.	SENT
+35791															
+35792	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35793	2	@	@	PUNC									PUNC	@	PUNC
+35794	3	Трудоустройство	ТРУДОУСТРОЙСТВО	S n inan acc sg			о	в	т	с	й	о	S	ТРУДОУСТРОЙСТВО	S n inan acc sg
+35795	4					PUNC									PUNC			PUNC
+35796	5	да	ДА	PART			а	д					CONJ	ДА	CONJ
+35797	6					PUNC									PUNC			PUNC
+35798	7	<	<	PUNC									PUNC	<	PUNC
+35799	8	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35800	9	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35801	10	=	=	PUNC									PUNC	=	PUNC
+35802	11	"	"	_											_	12
+35803	12	прайльно	ПРАЙЛЬНО	ADV -	distort		о	н	ь	л	й	а	ADV	ПРАЙЛЬНО	ADV -
+35804	13	"	"	_											_	12
+35805	14	>	>	PUNC									PUNC	>	PUNC
+35806	15	правильно	ПРАВИЛЬНО	ADV -			о	н	ь	л	и	в	ADV	ПРАВИЛЬНО	ADV -
+35807	16	<	<	PUNC									PUNC	<	PUNC
+35808	17	/	/	PUNC									PUNC	/	PUNC
+35809	18	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35810	19	>	>	PUNC									PUNC	>	PUNC
+35811	20	.	.	SENT									SENT	.	SENT
+35812															
+35813	1	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35814	2					PUNC									PUNC			PUNC
+35815	3	своим	СВОЙ	APRO ins pl plen 			м	и	о	в	с		A	СВОЙ	A - ins sg plen m -
+35816	4	выпускникам	ВЫПУСКНИК	S anim dat pl			м	а	к	и	н	к	S	ВЫПУСКНИК	S m anim dat pl
+35817	5	.	.	SENT									SENT	.	SENT
+35818															
+35819	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35820	2	@	@	PUNC									PUNC	@	PUNC
+35821	3	Это	ЭТО	SPRO n sg nom inan 			о	т	э				PART	ЭТО	PART
+35822	4	ш...	Ш...	NONLEX	distort					ш			S	Ш...	S - - nonflex nonflex
+35823	5	это	ЭТО	SPRO n sg nom inan 			о	т	э				S	ЭТО	S n - nom sg
+35824	6	очень	ОЧЕНЬ	ADV -			ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -
+35825	7	радует	РАДОВАТЬ	V ipf tran act praes sg indic - 3p			т	е	у	д	а	р	V	РАДОВАТЬ	V ipf praes sg indic - 3p
+35826	8	и	И	CONJ			и						CONJ	И	CONJ
+35827	9	стимулирует	СТИМУЛИРОВАТЬ	V ipf tran act praes sg indic - 3p			т	е	у	р	и	л	V	СТИМУЛИРОВАТЬ	V ipf praes sg indic - 3p
+35828	10	учиться	УЧИТЬСЯ	V ipf intr inf med			я	с	ь	т	и	ч	V	УЧИТЬСЯ	V ipf - - inf - -
+35829	11	дальше	ДАЛЕКО	ADV comp			е	ш	ь	л	а	д	ADV	ДАЛЕКО	ADV comp
+35830	12	.	.	SENT									SENT	.	SENT
+35831															
+35832	1	Воот	ВООТ	PART	distort		т	о	о	в			S	ВООТ	S m inan nonflex nonflex
+35833	2	.	.	SENT									SENT	.	SENT
+35834															
+35835	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35836	2	@	@	PUNC									PUNC	@	PUNC
+35837	3	Все	ВЕСЬ	APRO nom pl plen			е	с	в				A	ВЕСЬ	A - nom pl plen - -
+35838	4	люди	ЧЕЛОВЕК	S anim nom pl			и	д	ю	л			S	ЧЕЛОВЕК	S m anim nom pl
+35839	5	очень	ОЧЕНЬ	ADV -			ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -
+35840	6	приветливые	ПРИВЕТЛИВЫЙ	A nom pl plen			е	ы	в	и	л	т	A	ПРИВЕТЛИВЫЙ	A - nom pl plen - -
+35841	7					PUNC									PUNC			PUNC
+35842	8	то есть	то есть	PART	раздельно		ь	т	с	е	о	-	то есть	-
+35843	9					PUNC									PUNC			PUNC
+35844	10	эм	ЭМ	INTJ	distort		м	э					S	ЭМ	S n inan nonflex nonflex
+35845	11					PUNC									PUNC			PUNC
+35846	12	вуз	ВУЗ	S m inan nom sg abbr			з	у	в				S	ВУЗ	S m inan nom sg
+35847	13	маленький	МАЛЕНЬКИЙ	A nom sg plen m			й	и	к	ь	н	е	A	МАЛЕНЬКИЙ	A - nom sg plen m -
+35848	14					PUNC									PUNC			PUNC
+35849	15	узконаправленный	УЗКОНАПРАВЛЕННЫЙ	A nom sg plen m			й	ы	н	н	е	л	A	УЗКОНАПРАВЛЕННЫЙ	A - gen sg plen m -
+35850	16					PUNC									PUNC			PUNC
+35851	17	поэтому	ПОЭТОМУ	ADV -			у	м	о	т	э	о	ADV	ПОЭТОМУ	ADV -
+35852	18	все	ВСЕ	SPRO nom pl anim			е	с	в				S	ВСЕ	S - - nom pl
+35853	19	очень	ОЧЕНЬ	ADV -			ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -
+35854	20	хорошо	ХОРОШО	ADV -			о	ш	о	р	о	х	ADV	ХОРОШО	ADV -
+35855	21	друг	ДРУГ	S anim nom sg m			г	у	р	д			S	ДРУГ	S - - nom sg
+35856	22	друга	ДРУГ	S m anim acc sg			а	г	у	р	д		S	ДРУГ	S - - acc sg
+35857	23	знают	ЗНАТЬ	V ipf tran act praes pl indic - 3p			т	ю	а	н	з		V	ЗНАТЬ	V ipf praes pl indic - 3p
+35858	24					PUNC									PUNC			PUNC
+35859	25	все	ВСЕ	SPRO nom pl anim			е	с	в				S	ВСЕ	S - - nom pl
+35860	26	сплочены	СПЛОТИТЬ	V partcp tran pf praet pl brev pass			ы	н	е	ч	о	л	PARTCP	СПЛОТИТЬ	PARTCP pf praet - pl brev - pass -
+35861	27	.	.	SENT									SENT	.	SENT
+35862															
+35863	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35864	2	@	@	PUNC									PUNC	@	PUNC
+35865	3	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35866	4					PUNC									PUNC			PUNC
+35867	5	и...	И...	CONJ	distort					и			CONJ	И...	CONJ
+35868	6	это	ЭТО	SPRO n nom sg inan			о	т	э				S	ЭТО	S n - nom sg
+35869	7	помогает	ПОМОГАТЬ	V ipf praes intr act sg indic - 3p			т	е	а	г	о	м	V	ПОМОГАТЬ	V ipf praes sg indic - 3p
+35870	8	и	И	CONJ			и						CONJ	И	CONJ
+35871	9	как...	КАК...	ADV -	distort					к	а	к	ADV	КАК...	ADV -
+35872	10	учиться	УЧИТЬСЯ	V ipf inf intr med			я	с	ь	т	и	ч	V	УЧИТЬСЯ	V ipf - - inf - -
+35873	11					PUNC									PUNC			PUNC
+35874	12	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35875	13					PUNC									PUNC			PUNC
+35876	14	так и	так и	CONJ	раздельно		и	к	а	т		ZERO	так и	ZERO
+35877	15	прогрессировать	ПРОГРЕССИРОВАТЬ	V ipf intr act inf			ь	т	а	в	о	р	V	ПРОГРЕССИРОВАТЬ	V ipf - - inf - -
+35878	16	как-то	КАК-ТО	ADV -	слитно		о	т		к	а	к	ADV	КАК-ТО	ADV -
+35879	17	внутренне	ВНУТРЕННЕ	ADV -			е	н	н	е	р	т	ADV	ВНУТРЕННЕ	ADV -
+35880	18					PUNC									PUNC			PUNC
+35881	19	раскрывать	РАСКРЫВАТЬ	V ipf tran act inf			ь	т	а	в	ы	р	V	РАСКРЫВАТЬ	V ipf - - inf - -
+35882	20	в	В	PR			в						PR	В	PR
+35883	21	себе	СЕБЯ	SPRO anim loc			е	б	е	с			SPRO	СЕБЯ	SPRO - - - loc
+35884	22	новые	НОВЫЙ	A acc pl plen			е	ы	в	о	н		A	НОВЫЙ	A - acc pl plen - inan
+35885	23	таланты	ТАЛАНТ	S inan acc pl			ы	т	н	а	л	а	S	ТАЛАНТ	S m inan acc pl
+35886	24					PUNC									PUNC			PUNC
+35887	25	показывать	ПОКАЗЫВАТЬ	V ipf tran act inf			ь	т	а	в	ы	з	V	ПОКАЗЫВАТЬ	V ipf - - inf - -
+35888	26	всем	ВСЕ	SPRO anim dat pl			м	е	с	в			S	ВСЕ	S - - dat pl
+35889	27					PUNC									PUNC			PUNC
+35890	28	что	ЧТО	CONJ			о	т	ч				CONJ	ЧТО	CONJ
+35891	29	ты	ТЫ	SPRO sg 2p - nom anim			ы	т					SPRO	ТЫ	SPRO sg 2p - nom
+35892	30	уже	УЖЕ	ADV -			е	ж	у				ADV	УЖЕ	ADV -
+35893	31	умеешь	УМЕТЬ	V ipf intr act praes sg indic - 2p			ь	ш	е	е	м	у	V	УМЕТЬ	V ipf praes sg indic - 2p
+35894	32	.	.	SENT									SENT	.	SENT
+35895															
+35896	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35897	2	@	@	PUNC									PUNC	@	PUNC
+35898	3	Эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35899	4	...	...	SENT									SENT	...	SENT
+35900															
+35901	1	То есть	То есть	PART	раздельно		ь	т	с	е	о	-	То есть	-
+35902	2	это	ЭТО	INTJ			о	т	э				S	ЭТО	S n - nom sg
+35903	3					PUNC									PUNC			PUNC
+35904	4	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35905	5	считаю	СЧИТАТЬ	V ipf tran act praes sg indic - 1p			ю	а	т	и	ч	с	V	СЧИТАТЬ	V ipf praes sg indic - 1p
+35906	6					PUNC									PUNC			PUNC
+35907	7	мой	МОЙ	APRO nom sg plen m			й	о	м				A	МОЙ	A - nom sg plen m -
+35908	8	университет	УНИВЕРСИТЕТ	S m inan nom sg			т	е	т	и	с	р	S	УНИВЕРСИТЕТ	S m inan nom sg
+35909	9	-	-	PUNC									PUNC	-	PUNC
+35910	10	это	ЭТО	SPRO n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+35911	11	лучшая	ЛУЧШИЙ	A supr nom sg plen f			я	а	ш	ч	у	л	A	ЛУЧШИЙ	A supr nom sg plen f -
+35912	12	площадка	ПЛОЩАДКА	S f inan nom sg			а	к	д	а	щ	о	S	ПЛОЩАДКА	S f inan nom sg
+35913	13	для	ДЛЯ	PR			я	л	д				PR	ДЛЯ	PR
+35914	14	меня	Я	SPRO sg 1p - acc anim			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35915	15					PUNC									PUNC			PUNC
+35916	16	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+35917	17					PUNC									PUNC			PUNC
+35918	18	с	С	PR			с						PR	С	PR
+35919	19	которой	КОТОРЫЙ	APRO loc sg plen f			й	о	р	о	т	о	A	КОТОРЫЙ	A - loc sg plen f -
+35920	20	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35921	21	могу...	МОЧЬ...	V ipf intr praes sg indic act - 1p	distort					у	г	о	V	МОЧЬ...	V ipf praes sg indic - 1p
+35922	22	добиться	ДОБИТЬСЯ	V pf intr inf			я	с	ь	т	и	б	V	ДОБИТЬСЯ	V pf - - inf - -
+35923	23	каких-то	КАКОЙ-ТО	A acc pl plen	слитно		о	т		х	и	к	A	КАКОЙ-ТО	A - acc pl plen - anim
+35924	24	высот	ВЫСОТА	S inan gen pl			т	о	с	ы	в		S	ВЫСОТА	S f inan gen pl
+35925	25	дальше	ДАЛЕКО	ADV comp			е	ш	ь	л	а	д	ADV	ДАЛЕКО	ADV comp
+35926	26	.	.	SENT									SENT	.	SENT
+35927															
+35928	1	<	<	PUNC									PUNC	<	PUNC
+35929	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35930	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+35931	4	=	=	PUNC									PUNC	=	PUNC
+35932	5	"	"	_											_	6
+35933	6	воооот	ВООООТ	NONLEX	distort		т	о	о	о	о	в	S	ВООООТ	S n inan nonflex nonflex
+35934	7	"	"	_											_	8
+35935	8	>	>	PUNC									PUNC	>	PUNC
+35936	9	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+35937	10	<	<	PUNC									PUNC	<	PUNC
+35938	11	/	/	PUNC									PUNC	/	PUNC
+35939	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+35940	13	>	>	PUNC									PUNC	>	PUNC
+35941	14	.	.	SENT									SENT	.	SENT
+35942															
+35943	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35944	2	@	@	PUNC									PUNC	@	PUNC
+35945	3	Что	ЧТО	S inan n sg acc			о	т	ч				CONJ	ЧТО	CONJ
+35946	4	еще	ЕЩЕ	ADV -			е	щ	е				ADV	ЕЩЕ	ADV -
+35947	5	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35948	6	могу	МОЧЬ	V ipf intr praes sg indic act - 1p			у	г	о	м			V	МОЧЬ	V ipf praes sg indic - 1p
+35949	7	рассказать	РАССКАЗАТЬ	V pf tran inf act			ь	т	а	з	а	к	V	РАССКАЗАТЬ	V pf - - inf - -
+35950	8	?	?	SENT									SENT	?	SENT
+35951															
+35952	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35953	2	@	@	PUNC									PUNC	@	PUNC
+35954	3	Я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35955	4	могу	МОЧЬ	V ipf intr praes sg indic act - 1p			у	г	о	м			V	МОЧЬ	V ipf praes sg indic - 1p
+35956	5	рассказать	РАССКАЗАТЬ	V pf tran inf act			ь	т	а	з	а	к	V	РАССКАЗАТЬ	V pf - - inf - -
+35957	6	о	О	PR			о						PR	О	PR
+35958	7	ск...	СК...	NONLEX	distort					к	с		S	СК...	S m inan nonflex nonflex
+35959	8	своих	СВОЙ	A gen pl plen			х	и	о	в	с		A	СВОЙ	A - gen pl plen - -
+35960	9	каких-то	КАКОЙ-ТО	A gen pl plen	слитно		о	т		х	и	к	A	КАКОЙ-ТО	A - gen pl plen - -
+35961	10	хобби	ХОББИ	S n inan nonflex			и	б	б	о	х		S	ХОББИ	S n inan nonflex nonflex
+35962	11					PUNC									PUNC			PUNC
+35963	12	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35964	13	.	.	SENT									SENT	.	SENT
+35965															
+35966	1	В	В	PR			в						PR	В	PR
+35967	2	данный	ДАННЫЙ	A acc sg plen m			й	ы	н	н	а	д	A	ДАННЫЙ	A - acc sg plen m inan
+35968	3	момент	МОМЕНТ	S m inan acc sg			т	н	е	м	о	м	S	МОМЕНТ	S m inan acc sg
+35969	4	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35970	5	хочу	ХОТЕТЬ	V ipf tran act praes sg indic - 1p			у	ч	о	х			V	ХОТЕТЬ	V ipf praes sg indic - 1p
+35971	6	научиться	НАУЧИТЬСЯ	V pf intr inf act			я	с	ь	т	и	ч	V	НАУЧИТЬСЯ	V pf - - inf - -
+35972	7	играть	ИГРАТЬ	V ipf tran inf act			ь	т	а	р	г	и	V	ИГРАТЬ	V ipf - - inf - -
+35973	8	на	НА	PR			а	н					PR	НА	PR
+35974	9	гитаре	ГИТАРА	S f inan loc sg			е	р	а	т	и	г	S	ГИТАРА	S f inan loc sg
+35975	10	.	.	SENT									SENT	.	SENT
+35976															
+35977	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+35978	2	@	@	PUNC									PUNC	@	PUNC
+35979	3	Аааа	АААА	INTJ	distort		а	а	а	а			S	АААА	S m anim nonflex nonflex
+35980	4	...	...	SENT									SENT	...	SENT
+35981															
+35982	1	Я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35983	2	пытаюсь	ПЫТАТЬСЯ	V ipf intr med praes sg indic - 1p			ь	с	ю	а	т	ы	V	ПЫТАТЬСЯ	V ipf praes sg indic - 1p
+35984	3					PUNC									PUNC			PUNC
+35985	4	ааа	ААА	INTJ	distort		а	а	а				S	ААА	S m inan nonflex nonflex
+35986	5					PUNC									PUNC			PUNC
+35987	6	как	КАК	CONJ			к	а	к				CONJ	КАК	CONJ
+35988	7	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+35989	8	уже	УЖЕ	ADV -			е	ж	у				ADV	УЖЕ	ADV -
+35990	9	сказал	СКАЗАТЬ	V pf tran act praet sg indic m			л	а	з	а	к	с	V	СКАЗАТЬ	V pf praet sg indic m -
+35991	10					PUNC									PUNC			PUNC
+35992	11	у	У	PR			у						PR	У	PR
+35993	12	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+35994	13	очень	ОЧЕНЬ	ADV -			ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -
+35995	14	мало	МАЛО	ADV -			о	л	а	м			ADV	МАЛО	ADV -
+35996	15	св...	СВ...	NONLEX	distort					в	с		S	СВ...	S m inan gen sg
+35997	16	свободного	СВОБОДНЫЙ	A gen sg plen n			о	г	о	н	д	о	A	СВОБОДНЫЙ	A - gen sg plen n -
+35998	17	времени	ВРЕМЯ	S n inan gen sg			и	н	е	м	е	р	S	ВРЕМЯ	S n inan gen sg
+35999	18					PUNC									PUNC			PUNC
+36000	19	пытаюсь	ПЫТАТЬСЯ	V ipf intr act  praes sg indic - 1p			ь	с	ю	а	т	ы	V	ПЫТАТЬСЯ	V ipf praes sg indic - 1p
+36001	20	впихнуть	ВПИХНУТЬ	V pf tran inf act			ь	т	у	н	х	и	V	ВПИХНУТЬ	V pf - - inf - -
+36002	21	туда	ТУДА	ADV -			а	д	у	т			ADV	ТУДА	ADV -
+36003	22	еще	ЕЩЕ	ADV -			е	щ	е				ADV	ЕЩЕ	ADV -
+36004	23	и	И	CONJ			и						CONJ	И	CONJ
+36005	24	занятия	ЗАНЯТИЕ	S inan nom pl			я	и	т	я	н	а	S	ЗАНЯТИЕ	S n inan nom pl
+36006	25	на	НА	PR			а	н					PR	НА	PR
+36007	26	гитаре	ГИТАРА	S f inan loc sg			е	р	а	т	и	г	S	ГИТАРА	S f inan loc sg
+36008	27					PUNC									PUNC			PUNC
+36009	28	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+36010	29	.	.	SENT									SENT	.	SENT
+36011															
+36012	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+36013	2	@	@	PUNC									PUNC	@	PUNC
+36014	3	Так же	Так же	ADV PART	раздельно		е	ж	к	а	т	-	Так же	-
+36015	4	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+36016	5	пытаюсь	ПЫТАТЬСЯ	V ipf intr med praes sg indic - 1p			ь	с	ю	а	т	ы	V	ПЫТАТЬСЯ	V ipf praes sg indic - 1p
+36017	6	самостоятельно	САМОСТОЯТЕЛЬНО	ADV -			о	н	ь	л	е	т	ADV	САМОСТОЯТЕЛЬНО	ADV -
+36018	7	выучить	ВЫУЧИТЬ	V pf tran inf act			ь	т	и	ч	у	ы	V	ВЫУЧИТЬ	V pf - - inf - -
+36019	8	французский	ФРАНЦУЗСКИЙ	A acc sg plen m 			й	и	к	с	з	у	A	ФРАНЦУЗСКИЙ	A - acc sg plen m inan
+36020	9	язык	ЯЗЫК	S m inan acc sg			к	ы	з	я			S	ЯЗЫК	S m inan acc sg
+36021	10					PUNC									PUNC			PUNC
+36022	11	воот	ВООТ	PART	distort		т	о	о	в			S	ВООТ	S n inan nonflex nonflex
+36023	12					PUNC									PUNC			PUNC
+36024	13	ээм	ЭЭМ	INTJ	distort		м	э	э				S	ЭЭМ	S n inan nonflex nonflex
+36025	14					PUNC									PUNC			PUNC
+36026	15	мне	Я	SPRO anim sg 1p - loc			е	н	м				SPRO	Я	SPRO sg 1p - loc
+36027	16	дали	ДАТЬ	V tran pf indic act praet pl 			и	л	а	д			S	ДАЛЬ	S f inan loc sg
+36028	17	один	ОДИН	A nom sg plen m			н	и	д	о			A	ОДИН	A - nom sg plen m -
+36029	18	год	ГОД	S m inan nom sg			д	о	г				S	ГОД	S m inan nom sg
+36030	19	на	НА	PR			а	н					PR	НА	PR
+36031	20	это	ЭТО	S n inan acc sg			о	т	э				S	ЭТО	S n - acc sg
+36032	21					PUNC									PUNC			PUNC
+36033	22	чтобы	ЧТОБЫ	CONJ			ы	б	о	т	ч		CONJ	ЧТОБЫ	CONJ
+36034	23	...	...	SENT									SENT	...	SENT
+36035															
+36036	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+36037	2	@	@	PUNC									PUNC	@	PUNC
+36038	3	Там	ТАМ	ADV -			м	а	т				ADV	ТАМ	ADV -
+36039	4					PUNC									PUNC			PUNC
+36040	5	в	В	PR			в						PR	В	PR
+36041	6	общем	ОБЩЕЕ	S loc sg inan m			м	е	щ	б	о		A	ОБЩИЙ	A - loc sg plen m -
+36042	7					PUNC									PUNC			PUNC
+36043	8	там	ТАМ	ADV -			м	а	т				ADV	ТАМ	ADV -
+36044	9	сложности	СЛОЖНОСТЬ	S f inan nom pl			и	т	с	о	н	ж	S	СЛОЖНОСТЬ	S f inan nom pl
+36045	10					PUNC									PUNC			PUNC
+36046	11	конечно	КОНЕЧНО	ADV -			о	н	ч	е	н	о	ADV	КОНЕЧНО	ADV -
+36047	12					PUNC									PUNC			PUNC
+36048	13	там	ТАМ	PART			м	а	т				PART	ТАМ	PART
+36049	14					PUNC									PUNC			PUNC
+36050	15	эээ	ЭЭЭ	INTJ	distort		э	э	э				NONLEX	ЭЭЭ	NONLEX
+36051	16					PUNC									PUNC			PUNC
+36052	17	это	ЭТО	S n inan nom sg			о	т	э				S	ЭТО	S n - nom sg
+36053	18	уже	УЖЕ	ADV -			е	ж	у				ADV	УЖЕ	ADV -
+36054	19	про	ПРО	PR			о	р	п				PR	ПРО	PR
+36055	20	вуз	ВУЗ	S m inan acc sg abbr			з	у	в				S	ВУЗ	S m inan acc sg
+36056	21					PUNC									PUNC			PUNC
+36057	22	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+36058	23	.	.	SENT									SENT	.	SENT
+36059															
+36060	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+36061	2	@	@	PUNC									PUNC	@	PUNC
+36062	3	Но	НО	CONJ			о	н					CONJ	НО	CONJ
+36063	4	у	У	PR			у						PR	У	PR
+36064	5	меня	Я	SPRO anim sg 1p - acc			я	н	е	м			SPRO	Я	SPRO sg 1p - acc
+36065	6	стоит	СТОЯТЬ	V ipf intr act praes sg indic - 3p			т	и	о	т	с		V	СТОЯТЬ	V ipf praes sg indic - 3p
+36066	7	задача	ЗАДАЧА	S f inan nom sg			а	ч	а	д	а	з	S	ЗАДАЧА	S f inan nom sg
+36067	8					PUNC									PUNC			PUNC
+36068	9	стоит	СТОЯТЬ	V ipf intr act praes sg indic - 3p			т	и	о	т	с		V	СТОЯТЬ	V ipf praes sg indic - 3p
+36069	10	цель	ЦЕЛЬ	S f inan nom sg			ь	л	е	ц			S	ЦЕЛЬ	S f inan nom sg
+36070	11	выучить	ВЫУЧИТЬ	V pf tran inf act			ь	т	и	ч	у	ы	V	ВЫУЧИТЬ	V pf - - inf - -
+36071	12	французский	ФРАНЦУЗСКИЙ	A acc sg plen m 			й	и	к	с	з	у	A	ФРАНЦУЗСКИЙ	A - acc sg plen m inan
+36072	13	язык	ЯЗЫК	S m inan acc sg			к	ы	з	я			S	ЯЗЫК	S m inan acc sg
+36073	14					PUNC									PUNC			PUNC
+36074	15	там	ТАМ	ADV -			м	а	т				ADV	ТАМ	ADV -
+36075	16					PUNC									PUNC			PUNC
+36076	17	до	ДО	PR			о	д					PR	ДО	PR
+36077	18	определенного	ОПРЕДЕЛЕННЫЙ	A gen sg plen m			о	г	о	н	н	е	A	ОПРЕДЕЛЕННЫЙ	A - gen sg plen m -
+36078	19	уровня	УРОВЕНЬ	S m inan gen sg			я	н	в	о	р	у	S	УРОВЕНЬ	S m inan gen sg
+36079	20	за	ЗА	PR			а	з					PR	ЗА	PR
+36080	21	один	ОДИН	A nom sg plen m			н	и	д	о			A	ОДИН	A - acc sg plen m inan
+36081	22	год	ГОД	S m inan acc sg			д	о	г				S	ГОД	S m inan acc sg
+36082	23					PUNC									PUNC			PUNC
+36083	24	вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+36084	25	.	.	SENT									SENT	.	SENT
+36085															
+36086	1	Андрей	АНДРЕЙ	S m anim nom sg persn			й	е	р	д	н	а	S	АНДРЕЙ	S m anim nom sg
+36087	2	@	@	PUNC									PUNC	@	PUNC
+36088	3	<	<	PUNC									PUNC	<	PUNC
+36089	4	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+36090	5	form	FORM	NONLEX									NONLEX	FORM	NONLEX
+36091	6	=	=	PUNC									PUNC	=	PUNC
+36092	7	"	"	_											_	8
+36093	8	тоисть	ТОИСТЬ	NONLEX	distort		ь	т	с	и	о	т	S	ТОИСТЬ	S f inan acc sg
+36094	9	"	"	_											_	8
+36095	10	>	>	PUNC									PUNC	>	PUNC
+36096	11	То есть	То есть	PART	раздельно		ь	т	с	е	о	-	То есть	-
+36097	12	<	<	PUNC									PUNC	<	PUNC
+36098	13	/	/	PUNC									PUNC	/	PUNC
+36099	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX
+36100	15	>	>	PUNC									PUNC	>	PUNC
+36101	16	жизнь	ЖИЗНЬ	S f inan nom sg			ь	н	з	и	ж		S	ЖИЗНЬ	S f inan nom sg
+36102	17	кипит	КИПЕТЬ	V ipf intr act praes sg indic - 3p			т	и	п	и	к		V	КИПЕТЬ	V ipf praes sg indic - 3p
+36103	18					PUNC									PUNC			PUNC
+36104	19	жизнь	ЖИЗНЬ	S f inan nom sg			ь	н	з	и	ж		S	ЖИЗНЬ	S f inan nom sg
+36105	20	не	НЕ	PART			е	н					PART	НЕ	PART
+36106	21	стоит	СТОИТЬ	V ipf tran act praes sg indic - 3p			т	и	о	т	с		V	СТОИТЬ	V ipf praes sg indic - 3p
+36107	22	на	НА	PR			а	н					PR	НА	PR
+36108	23	месте	МЕСТО	S n inan loc sg			е	т	с	е	м		S	МЕСТО	S n inan loc sg
+36109	24	.	.	SENT									SENT	.	SENT
+36110															
+36111	1	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+36112	2					PUNC									PUNC			PUNC
+36113	3	аэмм	АЭММ	INTJ	distort		м	м	э	а			S	АЭММ	S f inan nom sg
+36114	4	...	...	SENT									SENT	...	SENT
+36115															
+36116	1	Взрослая	ВЗРОСЛЫЙ	A nom sg plen f			я	а	л	с	о	р	A	ВЗРОСЛЫЙ	A - nom sg plen f -
+36117	2	жизнь	ЖИЗНЬ	S f inan nom sg			ь	н	з	и	ж		S	ЖИЗНЬ	S f inan nom sg
+36118	3					PUNC									PUNC			PUNC
+36119	4	настоящая	НАСТОЯЩИЙ	A nom sg plen f			я	а	щ	я	о	т	A	НАСТОЯЩИЙ	A - nom sg plen f -
+36120	5	взрослая	ВЗРОСЛЫЙ	A nom sg plen f			я	а	л	с	о	р	A	ВЗРОСЛЫЙ	A - nom sg plen f -
+36121	6	жизнь	ЖИЗНЬ	S f inan nom sg			ь	н	з	и	ж		S	ЖИЗНЬ	S f inan nom sg
+36122	7					PUNC									PUNC			PUNC
+36123	8	что	ЧТО	SPRO inan n sg nom 			о	т	ч				CONJ	ЧТО	CONJ
+36124	9	я	Я	SPRO anim sg 1p - nom			я						SPRO	Я	SPRO sg 1p - nom
+36125	10	могу	МОЧЬ	V ipf intr act praes sg indic - 1p			у	г	о	м			V	МОЧЬ	V ipf praes sg indic - 1p
+36126	11	сказать	СКАЗАТЬ	V pf tran  inf act			ь	т	а	з	а	к	V	СКАЗАТЬ	V pf - - inf - -
+36127	12	.	.	SENT									SENT	.	SENT
+36128															
+36129	1	Вот	ВОТ	PART			т	о	в				PART	ВОТ	PART
+36130	2	.	.	SENT									SENT	.	SENT
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
